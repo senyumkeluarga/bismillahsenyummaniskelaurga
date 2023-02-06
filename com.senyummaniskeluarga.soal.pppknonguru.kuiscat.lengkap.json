@@ -1,0 +1,143 @@
+{ 
+    
+    "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_native_ads_Admob_or_applovin":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"RESEP BUKA PUASA",
+      "image_pdf": "file:///android_asset/bukapuasa.png",
+      "link":""
+    }
+  ],
+
+
+
+  "Pdf": [
+    {
+      "id": 1,
+      "name_pdf": "SOAL PPPK GURU SD BAHASA INDONESIA",
+      "image_pdf": "file:///android_asset/BNKSOAL.jpg",
+      "url_pdf": "file:///android_asset/SDBAHASAINDO.pdf"
+    },
+    {
+      "id": 2,
+      "name_pdf": "SOAL PPPK GURU SD IPA",
+      "image_pdf": "file:///android_asset/BNKSOAL.jpg",
+      "url_pdf": "file:///android_asset/SDIPA.pdf"
+    },
+    {
+      "id": 3,
+      "name_pdf": "SOAL PPPK GURU SD IPS",
+      "image_pdf": "file:///android_asset/BNKSOAL.jpg",
+      "url_pdf": "file:///android_asset/SDIPS.pdf"
+    },
+    {
+      "id": 4,
+      "name_pdf": "SOAL PPPK GURU SD MATEMATIKA",
+      "image_pdf": "file:///android_asset/BNKSOAL.jpg",
+      "url_pdf": "file:///android_asset/SDMATEMATIKA.pdf"
+    },
+    {
+      "id": 5,
+      "name_pdf": "SOAL PPPK GURU SD PPKN",
+      "image_pdf": "file:///android_asset/BNKSOAL.jpg",
+      "url_pdf": "file:///android_asset/SDPPKN.pdf"
+    },
+    {
+      "id": 6,
+      "name_pdf": "KUMPULAN SOAL PPPK",
+      "image_pdf": "file:///android_asset/BNKSOAL.jpg",
+      "url_pdf": "file:///android_asset/KUMPULANSOALPPPK.pdf"
+    }
+  ],
+
+  "Qiuz":
+  [
+    {
+      "id":"1",
+      "name_quiz":"KURTULAR",
+      "quiz_url":"file:///android_asset/KULTURAL/KULTURALA.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Ujian Kultural PPPK"
+    },
+    {
+      "id":"2",
+      "name_quiz":"KURTURAL",
+      "quiz_url":"file:///android_asset/KULTURAL/KULTURALB.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Ujian Kultural PPPK"
+    },
+    {
+      "id":"3",
+      "name_quiz":"MANAJERIAL",
+      "quiz_url":"file:///android_asset/MANAJERIAL/MANAJERIALA.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Ujian Manajerial PPPK"
+    },
+    {
+      "id":"4",
+      "name_quiz":"MANAJERIAL",
+      "quiz_url":"file:///android_asset/MANAJERIAL/MANAJERIALB.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Ujian Manajerial PPPK"
+    },
+    {
+      "id":"5",
+      "name_quiz":"SKOLASTIK",
+      "quiz_url":"file:///android_asset/SKOLASTIK/SKOLASTIKA.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Ujian Skolastik PPPK"
+    },
+    {
+      "id":"6",
+      "name_quiz":"SKOLASTIK",
+      "quiz_url":"file:///android_asset/SKOLASTIK/SKOLASTIKB.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Ujian Skolastik PPPK"
+    },
+    {
+      "id":"7",
+      "name_quiz":"SKOLASTIK",
+      "quiz_url":"file:///android_asset/SKOLASTIK/SKOLASTIKC.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Ujian Skolastik PPPK"
+    },
+    {
+      "id":"8",
+      "name_quiz":"WAWANCARA",
+      "quiz_url":"file:///android_asset/WAWANCARA/WAWANCARAA.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Ujian Wawancara PPPK"
+    },
+    {
+      "id":"9",
+      "name_quiz":"WAWANCARA",
+      "quiz_url":"file:///android_asset/WAWANCARA/WAWANCARAB.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Ujian Wawancara PPPK"
+    }
+  ]
+}
