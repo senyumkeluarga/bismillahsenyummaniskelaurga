@@ -1,0 +1,238 @@
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "title":"",
+      "image":"file:///android_asset/TAHUTEMPE/.jpeg",
+      "link":""
+    }
+  ],
+  "Weblink":
+  [
+    {
+      "title":"TAHU SOSIS",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TAHUSISS.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT1.html"
+    },
+    {
+      "title":"BAKWAN SAYUR",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/BKWANSYUR.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT2.html"
+    },
+    {
+      "title":"TAHU TEMPE GORENG",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUTMPEGRENG.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT3.html"
+    },
+    {
+      "title":"TAHU ISI SAYUR",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUISISYUR.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT4.html"
+    },
+    {
+      "title":"NUGGET TAHU",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/NGETTAHU.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT5.html"
+    },
+    {
+      "title":"TAHU BULAT BUMBU RICA RICA",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUBLATCA.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT6.html"
+    },
+    {
+      "title":"TAHU BACEM",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUBCM.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT7.html"
+    },
+    {
+      "title":"TERIK TEMPE",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TRIKTMPE.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT8.html"
+    },
+    {
+      "title":"TUMIS TEMPE BUNCIS",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TMISTMPEBNCIS.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT9.html"
+    },
+    {
+      "title":"SEMUR TEMPE",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/SMURTMPE.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT10.html"
+    },
+    {
+      "title":"SUP BOLA TAHU TEMPE",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/SUPBLATHUTMPE.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT11.html"
+    },
+    {
+      "title":"TUMIS TEMPE",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TMISTMPE.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT12.html"
+    },
+    {
+      "title":"TUMIS TAHU SUTERA",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TMISTHUSTRA.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT13.html"
+    },
+    {
+      "title":"TAHU KECAMBAH",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUKCMBAH.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT14.html"
+    },
+    {
+      "title":"TUMIS TAHU SARDEN",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUSRDEN.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT15.html"
+    },
+    {
+      "title":"TUMIS TAHU LADA HITAM",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TMISTHUDAHTAM.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT16.html"
+    },
+    {
+      "title":"TAHU MASAK PETIS",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUPTIS.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT17.html"
+    },
+    {
+      "title":"TAHU MASAK BAWANG",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUMSKBWANG.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT18.html"
+    },
+    {
+      "title":"TAHU CAMPUR",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUCAMPUR.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT19.html"
+    },
+    {
+      "title":"TAHU BAKAR TAUCO",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUTCO.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT20.html"
+    },
+    {
+      "title":"SIOMAY TAHU",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/SIMYTH.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT21.html"
+    },
+    {
+      "title":"PEPES TAHU JAMUR",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/PEPSTHUJMUR.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT22.html"
+    },
+    {
+      "title":"LAKSA TAHU",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/LKSATHU.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT23.html"
+    },
+    {
+      "title":"BESENGEK TAHU",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/BSNGEKTHU.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT24.html"
+    },
+    {
+      "title":"TUMIS TEMPE SAMBEL PETAI",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TMISTMP.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT25.html"
+    },
+    {
+      "title":"TUMIS KRECEK TEMPE",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/KRCKTMEP.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT26.html"
+    },
+    {
+      "title":"TEMPE PINDANG",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TMPEPNDANG.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT27.html"
+    },
+    {
+      "title":"TEMPE KEMUL",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TMPEKMUL.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT28.html"
+    },
+    {
+      "title":"TEMPE KUAH CABAI HIJAU",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/TMPHJAU.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT29.html"
+    },
+    {
+      "title":"SATE TEMPE KELAPA",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/STETMPKLPA.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT30.html"
+    },
+    {
+      "title":"ROLADE TEMPE",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/RLATMP.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT31.html"
+    },
+    {
+      "title":"TEMPE BACEM",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/THUBCM.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT32.html"
+    },
+    {
+      "title":"BOLA TEMPE ISI TELUR",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/BLATMPISTUR.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT33.html"
+    },
+    {
+      "title":"DADAR TEMPE",
+      "description":"ANEKA RESEP OLAHAN TAHU DAN TEMPE",
+      "image":"file:///android_asset/TAHUTEMPE/DDRTMPE.JPG",
+      "link":"file:///android_asset/TAHUTEMPE/TT34.html"
+    }
+  ]
+}
