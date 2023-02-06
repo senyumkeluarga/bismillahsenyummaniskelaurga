@@ -1,0 +1,274 @@
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+  "Weblink":
+  [
+    {
+      "title":"TERONG BALADO",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/TRONGBLADO.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S1.html"
+    },
+    {
+      "title":"RESEP SAMBAL GORENG KENTANG",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SMBELGRENGKENTANG.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S2.html"
+    },
+    {
+      "title":"TUMIS KANGKUNG",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/TMISKANGKUNG.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S3.html"
+    },
+    {
+      "title":"RESEP SAYUR BENING BAYAM",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SYURBNINGBAYAM.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S4.html"
+    },
+    {
+      "title":"CAPCAI GORENG",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/CAPCAIGRNG.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S5.html"
+    },
+    {
+      "title":"GULAI DAUN SINGKONG",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/GLAIDAUNDNGKONG.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S6.html"
+    },
+    {
+      "title":"SAYUR ASEM",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SYURASEM.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S7.html"
+    },
+    {
+      "title":"CAH JAMUR BROKOLI",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/CAHJMURBROKLI.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S8.html"
+    },
+    {
+      "title":"PENCOK KACANG PANJANG",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/PNCOKKCANGPNJANG.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S9.html"
+    },
+    {
+      "title":"SUP OYONG SOUN",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SUPOYNGSOUN.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S10.html"
+    },
+    {
+      "title":"JAMUR TIRAM MASAK PEDAS",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/JMURTIRAMMSAKPEDAS.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S11.html"
+    },
+    {
+      "title":"SAYUR NANGKA",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SYURNANGKA.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S12.html"
+    },
+    {
+      "title":"TUMIS SAYUR WARNA WARNI",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SYURWARNAWARNI.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S13.html"
+    },
+    {
+      "title":"SAYUR BENING DAUN KATUK",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SWIPTIHSANTAN.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S14.html"
+    },
+    {
+      "title":"SAWI PUTIH SANTAN",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/S15.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S15.html"
+    },
+    {
+      "title":"TUMIS PEPAYA MUDA",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/TMISREBUNGTAHU.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S16.html"
+    },
+    {
+      "title":"TUMIS REBUNG TAHU",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SAYUR/TMISREBUNGTAHU.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S17.html"
+    },
+    {
+      "title":"SEMUR TELUR TAHU",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SMURTELURTAHU.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S18.html"
+    },
+    {
+      "title":"AYAM GORENG BUMBU KUNING",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/AYMGRENGBMBUKNING.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S19.html"
+    },
+    {
+      "title":"DENDENG BALADO",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/DNDENGBALADO.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S20.html"
+    },
+    {
+      "title":"AYAM PEDAS KEMANGI",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/AYAMPDASKMANGI.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S21.html"
+    },
+    {
+      "title":"AYAM BETUTU",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/AYAMBTUTU.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S22.html"
+    },
+    {
+      "title":"TELUR KECAP",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/TLURKECAP.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S23.html"
+    },
+    {
+      "title":"OSENG OSENG TEMPE",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/OSENGOSENGTMPE.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S24.html"
+    },
+    {
+      "title":"BOLA BOLA DAGING LADA HITAM",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/BLABLADAGING.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S25.html"
+    },
+    {
+      "title":"SEMUR TELUR PUYUH",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SMURTLURPUYUH.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S26.html"
+    },
+    {
+      "title":"TUMIS BUNCIS TERIYAKI",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/TMISBUNCISTRIAKI.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S27.html"
+    },
+    {
+      "title":"AYAM TERIYAKI",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/AYAMTRYKI.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S28.html"
+    },
+    {
+      "title":"IKAN PINDANG PONDOK IJO",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/IKNPNDANGLMBOKIJO.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S29.html"
+    },
+    {
+      "title":"CHICKEN EGG ROLL",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/CHIKENEGGROLL.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S30.html"
+    },
+    {
+      "title":"AYAM KRISPI SAUS KEJU",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/AYAMKRSPKJU.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S31.html"
+    },
+    {
+      "title":"KULIT AYAM PEDAS",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/KLITAYAMPDAS.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S32.html"
+    },
+    {
+      "title":"KOLAK PISANG",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/KLAKPISANG.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S33.html"
+    },
+    {
+      "title":"KOLAK BIJI SALAK",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/KLAKBJISALAK.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S34.html"
+    },
+    {
+      "title":"SALAD ANEKA BUAH",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/SLADANKABUAH.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S35.html"
+    },
+    {
+      "title":"ES BUAH",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/ESBUAH.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S36.html"
+    },
+    {
+      "title":"ES GOYOBOD",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/ESGYOBOD.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S37.html"
+    },
+    {
+      "title":"ES CINCAU NUTRIJEL",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/ESCNCAUNTRIJEL.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S38.html"
+    },
+    {
+      "title":"ES LEMON JAHE",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/ESLMONJHE.JPG",
+      "link":"file:///android_asset/RESEPBUKA/S39.html"
+    },
+    {
+      "title":"BROWNIS KURMA",
+      "description":"Aneka Resep lengkap Menu Buka Puasa",
+      "image":"file:///android_asset/RESEPBUKA/BRWNISKRMAJPG",
+      "link":"file:///android_asset/RESEPBUKA/S40.html"
+    }
+  ]
+}
