@@ -1,0 +1,166 @@
+{ 
+    
+    "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_native_ads_Admob_or_applovin":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More": [{
+		"id": 1,
+		"title": "",
+		"image": "file:///android_asset/.PNG",
+		"link": ""
+	}],
+
+
+
+	"Pdf": [{
+		"id": 1,
+		"name_pdf": "SOAL SD PPKN",
+		"image_pdf": "file:///android_asset/SD.JPG",
+		"url_pdf": "https://ia804704.us.archive.org/23/items/SDPPKN/SDPPKN.pdf"
+	},
+	{
+		"id": 2,
+		"name_pdf": "SOAL SD IPS",
+		"image_pdf": "file:///android_asset/SD.JPG",
+		"url_pdf": "https://ia904703.us.archive.org/2/items/SDIPS/SDIPS.pdf"
+	},
+	{
+		"id": 3,
+		"name_pdf": "SOAL SD IPA",
+		"image_pdf": "file:///android_asset/SD.JPG",
+		"url_pdf": "https://ia804708.us.archive.org/8/items/SDIPA/SDIPA.pdf"
+	},
+	{
+		"id": 4,
+		"name_pdf": "SOAL SD BAHASA INDO",
+		"image_pdf": "file:///android_asset/SD.JPG",
+		"url_pdf": "https://ia904706.us.archive.org/28/items/SDBAHASAINDO/SDBAHASAINDO.pdf"
+	},
+	{
+		"id": 5,
+		"name_pdf": "SOAL SD MATEMATIKA",
+		"image_pdf": "file:///android_asset/SD.JPG",
+		"url_pdf": "https://ia804701.us.archive.org/25/items/SDMATEMATIKA/SDMATEMATIKA.pdf"
+	}
+	],
+
+	"Qiuz": [{
+			"id": "1",
+			"name_quiz": "KUIS PPPK GURU SD",
+			"quiz_url": "file:///android_asset/SOALSD/SOALSDA.html",
+			"color_quiz": "#dc0725",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "2",
+			"name_quiz": "KUIS PPPK GURU SD",
+			"quiz_url": "file:///android_asset/SOALSD/SOALSDB.html",
+			"color_quiz": "#dc0725",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "3",
+			"name_quiz": "KUIS PPPK GURU SD",
+			"quiz_url": "file:///android_asset/SOALSD/SOALSDC.html",
+			"color_quiz": "#dc0725",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "4",
+			"name_quiz": "KUIS PPPK GURU SD",
+			"quiz_url": "file:///android_asset/SOALSD/SOALSDD.html",
+			"color_quiz": "#dc0725",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "5",
+			"name_quiz": "KUIS PPPK GURU SD",
+			"quiz_url": "file:///android_asset/SOALSD/SOALSDE.html",
+			"color_quiz": "#dc0725",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "6",
+			"name_quiz": "KUIS PPPK KULTURAL",
+			"quiz_url": "file:///android_asset/SDKULTURAL/KULTURALA.html",
+			"color_quiz": "#0cdc07",
+			"des_quiz": "4"
+		},
+		{
+			"id": "7",
+			"name_quiz": "KUIS PPPK KULTURAL",
+			"quiz_url": "file:///android_asset/SDKULTURAL/KULTURALB.html",
+			"color_quiz": "#0cdc07",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "8",
+			"name_quiz": "KUIS PPPK MANAJERIAL",
+			"quiz_url": "file:///android_asset/SDMANAJERIAL/MANAJERIALA.html",
+			"color_quiz": "#073edc",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "9",
+			"name_quiz": "KUIS PPPK MANAJERIAL",
+			"quiz_url": "file:///android_asset/SDMANAJERIAL/MANAJERIALB.html",
+			"color_quiz": "#073edc",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "10",
+			"name_quiz": "KUIS PPPK SKOLASTIK",
+			"quiz_url": "file:///android_asset/SDSKOLASTIK/SKOLASTIKA.html",
+			"color_quiz": "#dc07b1",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "11",
+			"name_quiz": "KUIS PPPK SKOLASTIK",
+			"quiz_url": "file:///android_asset/SDSKOLASTIK/SKOLASTIKB.html",
+			"color_quiz": "#dc07b1",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "12",
+			"name_quiz": "KUIS PPPK SKOLASTIK",
+			"quiz_url": "file:///android_asset/SDSKOLASTIK/SKOLASTIKC.html",
+			"color_quiz": "#dc07b1",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "13",
+			"name_quiz": "KUIS PPPK WAWANCARA",
+			"quiz_url": "file:///android_asset/SDWAWANCARA/WAWANCARAA.html",
+			"color_quiz": "#9c7c96",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		},
+		{
+			"id": "14",
+			"name_quiz": "KUIS PPPK WAWANCARA",
+			"quiz_url": "file:///android_asset/SDWAWANCARA/WAWANCARAB.html",
+			"color_quiz": "#9c7c96",
+			"des_quiz": "SOAL KUIS PPPK GURU SD"
+		}
+	]
+}
