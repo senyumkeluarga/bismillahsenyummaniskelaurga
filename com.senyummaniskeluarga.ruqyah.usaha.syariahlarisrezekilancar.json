@@ -1,0 +1,164 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "xx",
+      "main_ads_intertitial":"xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SURAH",
+      "image": "file:///android_asset/image/SR.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT",
+      "image": "file:///android_asset/image/SH.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SURAH",
+      "title": "RUQYAH 1",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH1.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "SURAH",
+      "title": "RUQYAH 2",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "SURAH",
+      "title": "RUQYAH 3",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SURAH",
+      "title": "RUQYAH 4",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "SURAH",
+      "title": "RUQYAH 5",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "SURAH",
+      "title": "RUQYAH 6",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "SURAH",
+      "title": "RUQYAH 7",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "SURAH",
+      "title": "RUQYAH 8",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SURAH",
+      "title": "RUQYAH 9",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "SURAH",
+      "title": "RUQYAH 10",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SURAH",
+      "title": "SURAH AL WAQIAH",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "SURAH",
+      "title": "SURAH AR RAHMAN",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "SURAH",
+      "title": "SURAH YASIN",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/SURQYAH13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "SHOLAWAT",
+      "title": "SHOLAWAT ALLAHUL KAAFI",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/SURQYAH14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "SHOLAWAT",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/SURQYAH15.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
