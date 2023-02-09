@@ -1,0 +1,289 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "XX",
+      "main_ads_intertitial":"XX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"NULL",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "GAMBUS MELAYU",
+      "image": "file:///android_asset/image/.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "GAMBUS ARAB",
+      "image": "file:///android_asset/image/.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "GAMBUS MODERN",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "GAMBUS MELAYU",
+      "title": "IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/1.ogg",
+      "lyrics": "<p>Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda janda lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "GAMBUS MELAYU",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/2.ogg",
+      "lyrics": "<p>kuda yang mana kuda yang mana tuan senangi<br />kuda yang putih kuda yang putih didalam kandang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang</p><p><br />kuda yang mana kuda yang mana tuan senangi<br />kuda yang putih kuda yang putih didalam kandang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang</p><p><br />naik sepeda naik sepeda mati lampunya<br />jalan terus jalan terus lambat sampenya<br />ada janda ada janda mati lakinya<br />mau dilamar mau dilamar banyak anaknya<br />ada janda ada janda mati lakinya<br />mau dilamar mau dilamar banyak anaknya</p><p><br />bagaimana bagaimana menggoreng peda<br />ambil minyaknya ambil minyaknya tuang tuangkan<br />bagaimana bagaimana merayu janda<br />ambil anaknya ambil anaknya timang timangkan<br />bagaimana bagaimana merayu janda<br />ambil anaknya ambil anaknya timang timangkan</p><p><br />kampung krukut kampung krukut dipinggir kali<br />anak cina anak cina dan kawan kawan<br />hati takut hati takut jadi berani<br />lihat janda lihat janda kayak perawan<br />hati takut hati takut jadi berani<br />lihat janda lihat janda kayak perawan</p><p><br />anak cina anak cina membuat peti<br />peti dibuat peti dibuat sehari tiga<br />andai nona andai nona memanggnga roti<br />sayakan makan sayakan makan tanpa mentega<br />andai nona andai nona memanggnga roti<br />sayakan makan sayakan makan tanpa mentega</p><p>&nbsp;</p><p>kucing kurus kucing kurus mandi dipapan<br />papan dibawa papan dibawa dari marunda<br />badan kurus badan kurus bukan tak makan<br />kurus mikirin si janda muda<br />badan kurus badan kurus bukan tak makan<br />kurus mikirin si janda muda</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "GAMBUS MELAYU",
+      "title": "PANTUN PENGANTIN",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/3.ogg",
+      "lyrics": "<p>Sungguh senangnya pengantin baru<br />Malam pertama oh malu-malu<br />Malam kedua padamkan lampu<br />Malam ketiga tak boleh tau</p><p><br />Oh masa bujang berakhir sudah<br />Dua mempelai tersenyum ramah<br />Satu hari tidak berpisah<br />Pagi dan sore rambutnya basah</p><p><br />Sungguh senangnya pengantin baru<br />Malam pertama oh malu-malu<br />Malam kedua padamkan lampu<br />Malam ketiga tak boleh tau<br />Sungguh senangnya pengantin baru<br />Malam pertama oh malu-malu<br />Malam kedua padamkan lampu<br />Malam ketiga tak boleh tau</p><p><br />Kana wahdana wahdana wahda<br />Kana wahdana wahdana wahda<br />Kana wahdana wahdana wahda<br />Malam ketiga tak boleh tau</p><p><br />Oh masa bujang berakhir sudah<br />Dua mempelai tersenyum ramah<br />Satu hari tidak berpisah<br />Pagi dan sore rambutnya basah<br />Oh masa bujang berakhir sudah<br />Dua mempelai tersenyum ramah<br />Satu hari tidak berpisah<br />Pagi dan sore rambutnya basah</p><p><br />Kana wahdana wahdana wahda<br />Kana wahdana wahdana wahda<br />Kana wahdana wahdana wahda<br />Pagi dan sore rambutnya basah</p><p><br />Wahidlah satu istilah tua<br />Berkata mantu pada mertua<br />Sungguh senangnya dapat sidia<br />Uang belanja ikut mertua<br />Wahidlah satu istilah tua<br />Berkata mantu pada mertua<br />Sungguh senangnya dapat sidia<br />Uang belanja ikut mertua</p><p><br />Kana wahdana wahdana wahda<br />Kana wahdana wahdana wahda<br />Kana wahdana wahdana wahda<br />Uang belanja ikut mertua</p><p><br />Kipaslah kipas mencari angin<br />Menutup pintu buka jendela<br />Amboy nikmatnya yang baru kawin<br />Bantalnya satu kepala dua<br />Kipaslah kipas mencari angin<br />Menutup pintu buka jendela<br />Amboy nikmatnya yang baru kawin<br />Bantalnya satu kepala dua</p><p><br />Kana wahdana wahdana wahda<br />Kana wahdana wahdana wahda<br />Kana wahdana wahdana wahda<br />Bantalnya satu kepala dua</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "GAMBUS MELAYU",
+      "title": "PASIR PUTIH",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/4.ogg",
+      "lyrics": "<p>Bila ku dengar dilangit gurun dilangit<br />Air tempayan curahkan jangan curahkan<br />Dia laksana pasir putih di pantai<br />Tersiram ombak mandi barulah mandi<br />Dia laksana pasir putih di pantai<br />Tersiram ombak mandi barulah mandi</p><p><br />Bila kupandang dilangit bintang dilangit<br />Bulan purnama bersinar jelas terlihat<br />Selagi sehat belum datang penyakit<br />Mati beramal akhirat untuk akhirat<br />Selagi sehat belum datang penyakit<br />Mati beramal akhirat untuk akhirat</p><p><br />Gunakan hartamu tuan selagi kaya<br />Untuk bertemu nanti dihari tua<br />Jangan gunakan hidup berfoya foya<br />Menyesal nanti akhirat tiada berguna<br />Jangan gunakan hidup berfoya foya<br />Menyesal nanti akhirat tiada berguna</p><p><br />Bila ku dengar dilangit gurun dilangit<br />Air tempayan curahkan jangan curahkan<br />Dia laksana pasir putih di pantai<br />Tersiram ombak mandi barulah mandi<br />Dia laksana pasir putih di pantai<br />Tersiram ombak mandi barulah mandi</p><p><br />Gunakan hartamu tuan selagi kaya<br />Untuk bertemu nanti dihari tua<br />Jangan gunakan hidup berfoya foya<br />Menyesal nanti akhirat tiada berguna<br />Jangan gunakan hidup berfoya foya<br />Menyesal nanti akhirat tiada berguna<br />Jangan gunakan hidup berfoya foya<br />Menyesal nanti akhirat tiada berguna</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "GAMBUS MELAYU",
+      "title": "RINDU RASA RINDU",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/5.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "GAMBUS MELAYU",
+      "title": "NASIBNYA KEMBANG",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/6.ogg",
+      "lyrics": "<p>Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri</p><p><br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri</p><p><br />Sayang melati bertangkai rendah<br />mudah disunting orang yang lalu<br />Sayang melati bertangkai rendah<br />mudah disunting orang yang lalu<br />tidak seperti si mawar merah<br />duri ditangkai menjaga selalu<br />tidak seperti si mawar merah<br />duri ditangkai menjaga selalu</p><p><br />Jika melati sedang mengembang<br />Harum baumu dikala senja<br />Jika melati sedang mengembang<br />Harum baumu dikala senja<br />Siapa melihat menaruh sayang<br />Pagi dan petang selalu di puja<br />Siapa melihat menaruh sayang<br />Pagi dan petang selalu di puja</p><p><br />Tetapi kalau harummu telah hilang<br />atau carimu telah tak ada<br />Tetapi kalau harummu telah hilang<br />atau carimu telah tak ada<br />ditengah jalan engkau terbuang<br />tiada lagi dapat berharga<br />ditengah jalan engkau terbuang<br />tiada lagi dapat berharga</p><p><br />wahai melati bunga nan malang<br />nasibmu usah lagi dikenang<br />wahai melati bunga nan malang<br />nasibmu usah lagi dikenang<br />memang begitu nasibnya kembang<br />sedang dipakai layu dibuang<br />memang begitu nasibnya kembang<br />sedang dipakai layu dibuang</p><p><br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Wahai melati kembang jelita<br />Kembang idaman remaja putri<br />Cantik rupanya di pandang mata<br />Putih kuning berseri seri</p><p>Cantik rupanya di pandang mata<br />Putih kuning berseri seri.</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "GAMBUS MELAYU",
+      "title": "REMBULAN DALAM PELUKAN",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/7.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "GAMBUS MELAYU",
+      "title": "BUNGA DAHLIA",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/8.ogg",
+      "lyrics": "<p>Bungaku<br />Dahlia</p><p><br />Duhai bunga pujaan<br />Kau bunga dahlia<br />Oh, bunga kesayangan<br />Kau bunga dahlia</p><p><br />Bunga nan cantik menawan<br />Menjadi sebutan<br />Sungguh indah di taman<br />Di taman kerinduan</p><p><br />Banyak bunga nan molek<br />Tak semolek dahlia</p><p><br />Oh, bunga<br />Dahlia</p><p><br />Datanglah kumbang<br />Menghampirinya<br />Menghisap sari bunga dahlia</p><p><br />Bunga di taman<br />Kini layu di tangan<br />Kumbang tiada belas kasihan</p><p><br />Bungaku malu-malu<br />Merunduk pucat warnanya<br />Bungaku malu-malu<br />Bersedih sesali dirinya</p><p><br />Layulah sudah bunga impian<br />Layulah sudah bunga dahlia<br />Bungaku dahlia<br />Duhai bunga pujaan<br />Kau bunga dahlia<br />Oh, bunga kesayangan<br />Kau bunga dahlia</p><p><br />Bungaku<br />Dahlia</p><p><br />Datanglah kumbang<br />Menghampirinya<br />Menghisap sari bunga dahlia</p><p><br />Bunga di taman<br />Kini layu di tangan<br />Kumbang tiada belas kasihan</p><p><br />Bungaku malu-malu<br />Merunduk pucat warnanya<br />Bungaku malu-malu<br />Bersedih sesali dirinya</p><p><br />Layulah sudah bunga impian<br />Layulah sudah bunga dahlia<br />Bungaku dahlia</p><p><br />Duhai bunga pujaan<br />Kau bunga dahlia<br />Oh, bunga kesayangan<br />Kau bunga dahlia<br />Bungaku<br />Dahlia</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "GAMBUS MELAYU",
+      "title": "KHAYALANKU",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/9.ogg",
+      "lyrics": "<p>Jikalau sama menaruh hati<br />Di ekor mata oh mata kita berjanji<br />Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p><br />Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p>Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p><br />Dipanasi indra sakti<br />Burung kutilang burung kutilang kutilang pohon kranji<br />Jikalau sama menaruh hati<br />Di ekor mata oh mata kita berjanji<br />Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p><br />kasihan burung disangkar lepaskan ia<br />lepaskan ia lepaskan biarah terbang<br />jikalau cinta telah berasa<br />siang dan malam selalu terbayang bayang<br />Semenjak aku memandang terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p>Jikalau panas nan terik<br />Bungapun layu bungapun layu oh layu<br />Di tengah kamar<br />Aku bermimpi merasa baik<br />Mimpi adinda adinda tidur di tangan</p><p><br />Semenjak aku memandang, terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin</p><p><br />Jikalau panas nan terik<br />hujanpun turun ih turun<br />Di bukit gersang<br />Aku bermimpi merasa baik<br />Mimpi adinda adinda tidur di tangan</p><p><br />Semenjak aku memandang, terkenang-kenang<br />Kaki tanganku oh dingin terasa dingin<br />Pintu terbuka kusangka datang<br />Tidaklah tahu oh angin ditiup angin<br />Tidaklah tahu oh angin ditiup angin<br />Tidaklah tahu oh angin ditiup angin</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "GAMBUS MELAYU",
+      "title": "PANTUN AMIH",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/10.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "GAMBUS MELAYU",
+      "title": "PANTUN CINTA",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/11.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "GAMBUS MELAYU",
+      "title": "PENGOBAT HATI",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/12.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "GAMBUS MELAYU",
+      "title": "RAHASIA HATI",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/13.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "GAMBUS MELAYU",
+      "title": "TEMAN SEJATI",
+      "image": "file:///android_asset/image/GBMY.jpg",
+      "link_mp3": "mp3/14.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "GAMBUS ARAB",
+      "title": "FARIJJ ILHAM",
+      "image": "file:///android_asset/image/GBA.jpg",
+      "link_mp3": "mp3/15.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "GAMBUS ARAB",
+      "title": "NAWWARTI AYYAMI",
+      "image": "file:///android_asset/image/GBA.jpg",
+      "link_mp3": "mp3/16.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "GAMBUS ARAB",
+      "title": "ROBBI INNI",
+      "image": "file:///android_asset/image/GBA.jpg",
+      "link_mp3": "mp3/17.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "GAMBUS ARAB",
+      "title": "ROOBI FAJAL",
+      "image": "file:///android_asset/image/GBA.jpg",
+      "link_mp3": "mp3/18.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "GAMBUS ARAB",
+      "title": "SILWANI GHADIR",
+      "image": "file:///android_asset/image/GBA.jpg",
+      "link_mp3": "mp3/19.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "GAMBUS ARAB",
+      "title": "SYIDIL GOWANI",
+      "image": "file:///android_asset/image/GBA.jpg",
+      "link_mp3": "mp3/20.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "GAMBUS ARAB",
+      "title": "YA BADROTIM",
+      "image": "file:///android_asset/image/GBA.jpg",
+      "link_mp3": "mp3/21.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "GAMBUS ARAB",
+      "title": "YA ROBBI SALLIALA MUHAMMAD",
+      "image": "file:///android_asset/image/GBA.jpg",
+      "link_mp3": "mp3/22.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "MODERN",
+      "title": "YA AYYUHAN NABI",
+      "image": "file:///android_asset/image/GBM.jpg",
+      "link_mp3": "mp3/23.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "MODERN",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/GBM.jpg",
+      "link_mp3": "mp3/24.ogg",
+      "lyrics": "<p>mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />jamalak ma fits-nain<br />masyafit mitsluh ain<br />asar fuadi<br />wizad widadi<br />badrid-duja ya zain</p><p><br />abyadh hulwil-khoddin<br />ya wasial-ainain<br />ahlab-tisamah<br />biabha alamah<br />ya sayyidal-kaunain</p><p><br />imta habibi arok<br />wal-qok wafroh binadak</p><p><br />thoha jud binadroh ilayya<br />thoha ya adhimal-jah<br />thoha jud binadroh ilayya<br />thoha ya adhimal-jah</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p>&nbsp;</p><p>mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />jamalak ma fits-nain<br />masyafit mitsluh ain<br />asar fuadi<br />wizad widadi<br />badrid-duja ya zain</p><p><br />abyadh hulwil-khoddin<br />ya wasial-ainain<br />ahlab-tisamah<br />biabha alamah<br />ya sayyidal-kaunain</p><p><br />imta habibi arok<br />wal-qok wafroh binadak</p><p><br />thoha jud binadroh ilayya<br />thoha ya adhimal-jah<br />thoha jud binadroh ilayya<br />thoha ya adhimal-jah</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p><p><br />mughrom.. qolbi bihubbika mughrom<br />ya musthofanal mukarrom<br />ya rosulalloh</p>"
+	  },
+	  {
+      "id": 25,
+      "name_category": "MODERN",
+      "title": "SADUNA FIDDUNYA",
+      "image": "file:///android_asset/image/GBM.jpg",
+      "link_mp3": "mp3/25.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "MODERN",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/GBM.jpg",
+      "link_mp3": "mp3/26.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "MODERN",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/GBM.jpg",
+      "link_mp3": "mp3/27.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "MODERN",
+      "title": "ITIROF",
+      "image": "file:///android_asset/image/GBM.jpg",
+      "link_mp3": "mp3/28.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "MODERN",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/GBM.jpg",
+      "link_mp3": "mp3/29.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "MODERN",
+      "title": "THOLA AL BADRU",
+      "image": "file:///android_asset/image/GBM.jpg",
+      "link_mp3": "mp3/30.ogg",
+      "lyrics": ""
+	  }
+  ]
+}
