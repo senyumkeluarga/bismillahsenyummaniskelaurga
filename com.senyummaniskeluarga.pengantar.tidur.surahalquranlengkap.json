@@ -1,0 +1,220 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "XX",
+      "main_ads_intertitial":"XX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"NULL",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SURAH",
+      "image": "file:///android_asset/image/TR.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT",
+      "image": "file:///android_asset/image/TH.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SURAH",
+      "title": "AL KAFI",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/SURTARDUR1.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "SURAH",
+      "title": "AL MULK",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/SURTARDUR2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "SURAH",
+      "title": "AL MUNAFIQUN",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/SURTARDUR3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SURAH",
+      "title": "AL WAQIAH",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/SURTARDUR4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "SURAH",
+      "title": "AR RAHMAN",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/SURTARDUR5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "SURAH",
+      "title": "SURAH MARYAM",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/SURTARDUR6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "SURAH",
+      "title": "SURAH YASIN",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/SURTARDUR7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "SHOLAWAT",
+      "title": "SHOLATU ALAN NABI",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SHOLAWAT",
+      "title": "HUSNUL KHOTIMAH",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "SHOLAWAT",
+      "title": "KULLUL QULUB",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SHOLAWAT",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "SHOLAWAT",
+      "title": "NADHOM AL FIYAH",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "SHOLAWAT",
+      "title": "ROHMA KAYA ROBBAL IBADI",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "SHOLAWAT",
+      "title": "SHOLAALLAHHU ALA MUHAMMAD",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "SHOLAWAT",
+      "title": "SHOLAWAT NARIYAH",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "SHOLAWAT",
+      "title": "SHOLLU ALA KHOIRUL ANAM",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "SHOLAWAT",
+      "title": "THOHAL YAMANI",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "SHOLAWAT",
+      "title": "UMMI TSUMA UMMI",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "SHOLAWAT",
+      "title": "WAQTU SAHAR",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "SHOLAWAT",
+      "title": "YA AYYUHAN NABI",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "SHOLAWAT",
+      "title": "YAHABIBI YA MUHAMMAD",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "SHOLAWAT",
+      "title": "AMANTARQ",
+      "image": "file:///android_asset/image/TH.jpg",
+      "link_mp3": "mp3/SURTARDUR22.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
