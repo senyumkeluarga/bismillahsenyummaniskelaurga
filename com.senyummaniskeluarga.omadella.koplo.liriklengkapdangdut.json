@@ -1,0 +1,292 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BARU",
+      "image": "file:///android_asset/image/DB.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/DL.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "BARU",
+      "title": "IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA1.ogg",
+      "lyrics": "<p>Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "BARU",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA2.ogg",
+      "lyrics": "<p>Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku<br />Berjanjilah, Kasih, setia bersamaku<br />Berjanjilah, Kasih, setia bersamaku</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "BARU",
+      "title": "RASAH BALI",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA3.ogg",
+      "lyrics": "<p>Opo ora ngerti roso ati iki<br />Bien kowe tau ngelarani<br />Tatu uwes mari ora arep baleni<br />Nimas aku uwes ora sudi</p><p><br />Wes sabendinane mung mikirke kowe<br />Mergo aku durung iso lilo<br />Aku ngaku salah kabeh dadi bubrah<br />Kangmas jujur aku wegah pisah</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Rungokno kangmas<br />Aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Ceritoku karo kowe uwes tak rampungi<br />Mas aku durung ikhlas delok kabeh iki<br />Cukup sewates konco aku karo kowe<br />Orasah bali aku wes ora sudi<br />Orasah bali aku wes ora sudi</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "BARU",
+      "title": "RUNTAH",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA4.ogg",
+      "lyrics": "<p>Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "BARU",
+      "title": "SATRU 2",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA5.ogg",
+      "lyrics": "<p>Wes tak pupuk winihe katresnanku, kanggo awakmu<br />Dungoku tuku lemu urip ayem kanggo senengmu</p><p><br />Aku percoyo winih tresnamu, nandes mancep ing atiku<br />Opo kurang leh ku ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Aku ngenteni, aku ngertenimu huooo<br />huoo&hellip; opo kurang lehku, ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atim</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "BARU",
+      "title": "KESUCIAN ATI",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA6.ogg",
+      "lyrics": "<p>Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p>Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati<br />Kesucian ati</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "BARU",
+      "title": "GANG DOLLY",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA7.ogg",
+      "lyrics": "<p>Kabeh pancen luputku<br />Ninggalake sliramu<br />Nganti nekat tanpo aku<br />Njegur nang lokalisasi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi<br />Ndang bali</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "BARU",
+      "title": "EGO",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA8.ogg",
+      "lyrics": "<p>Pangapuranen aku, tulus ojo kepekso<br />Bendino mung golek kesalahanmu<br />Aku cen klera kleru nresnani sliramu<br />Aku tak sing ngalah, aku ngaku salah</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan<br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben, masalah ben ora dowo</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "BARU",
+      "title": "EFEK GEDANG KLUTUK",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA9.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "BARU",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA10.ogg",
+      "lyrics": "<p>Mungkin<br />Aku terlalu cinta<br />Aku terlalu sayang<br />Nganti ra kroso dilarani</p><p><br />Pancen<br />Kuakui kusalah<br />Terlalu percoyo mergo<br />Mung nyawang rupo</p><p><br />Saiki aku wis sadar<br />Terlalu goblk mencintaimu</p><p><br />Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Saiki aku wis sadar<br />Terlalu goblk mencintaimu</p><p>Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Saiki aku wis sadar<br />Terlalu goblk mencintaimu</p><p><br />Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p>Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Stop mencintaimu<br />Gawe aku ngelu<br />Stop mencintaimu<br />Gawe aku ngelu</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "BARU",
+      "title": "MANGKU PUREL",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA11.ogg",
+      "lyrics": "<p>Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Kowe wes lali omah<br />Ora Uli Ulian<br />Senengane Dolan Neng Karaokean<br />Ngandengi Penyanyi<br />Ora Cukup Siji<br />Cekelane Botol<br />Polahe Koyo Wong Tolol</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu<br />Luweh penting Mikiro Masa depanmu</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "BARU",
+      "title": "LEMBAH MANAH",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA12.ogg",
+      "lyrics": "<p>Aku seng gampang nesu<br />Tak jaluk ugo lembah manahmu<br />Ngerteni aku<br />Nyurteni karepku<br />Mergo tersno nesuku mung mergo rindu</p><p><br />Matur suwun <br />Wes gelem ngancani aku<br />Tekan sprene iso nompo kekuranganku<br />Anane mung ngene mung opo anane<br />Tak jaluk seng sugeh pangapurane</p><p><br />Matur suwun gusti mpun maringi seng gemati<br />Mugo selawase aku koe dadi siji<br />Yo mung koe seng manggon ono ing ati <br />Sak pedote nyowo bakal tak tresnani</p><p><br />Padange rembulan ra bakal iso ngganteni <br />Yo mung koe seng dadi kembange ati</p><p><br />Matur suwun <br />Wes gelem ngancani aku<br />Tekan sprene iso nompo kekuranganku<br />Anane mung ngene mung opo anane<br />Tak jaluk seng sugeh pangapurane</p><p><br />Matur suwun gusti mpun maringi seng gemati<br />Mugo selawase aku koe dadi siji<br />Yo mung koe seng manggon ono ing ati <br />Sak pedote nyowo bakal tak tresnani</p><p><br />Padange rembulan ra bakal iso ngganteni <br />Yo mung koe seng dadi kembange ati</p><p><br />Matur suwun <br />Wes gelem ngancani aku<br />Tekan sprene iso nompo kekuranganku<br />Anane mung ngene mung opo anane<br />Tak jaluk seng sugeh pangapurane</p><p><br />Matur suwun gusti mpun maringi seng gemati<br />Mugo selawase aku koe dadi siji<br />Yo mung koe seng manggon ono ing ati <br />Sak pedote nyowo bakal tak tresnani</p><p><br />Padange rembulan ra bakal iso ngganteni <br />Yo mung koe seng dadi kembange ati</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "BARU",
+      "title": "DALAM GELAKU MENANGIS",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA13.ogg",
+      "lyrics": "<p>Hilang kasih hilanglah sayang<br />Hilang rindu hampa dihati<br />Sejak kau pergi tinggalkan aku<br />Tanpa alasan engkau berlalu</p><p><br />Hingga hati bertanya tanya<br />Sebab apa dikau berlalu<br />Adakah salah ku pada dirimu<br />Sampai saat ini aku tak tahu</p><p><br />Tiada mendung hujan pun turun<br />Panas terik aku kedinginan<br />Seperti itu diriku<br />Rasa bersalah tidakku tahu</p><p><br />Bukannya mimpi tapi tlah nyata<br />Bertahun-tahun diriku tersiksa<br />Didalam gelap aku menangis<br />Bayangan kasih slalu mendatang</p><p><br />Hingga hati bertanya tanya<br />Sebab apa dikau berlalu<br />Adakah salah ku pada dirimu<br />Sampai saat ini aku tak tahu</p><p><br />Tiada mendung hujan pun turun<br />Panas terik aku kedinginan</p><p><br />Seperti itu diriku kini<br />Rasa bersalah tidakku tahu</p><p><br />Bukannya mimpi tapi tlah nyata<br />Bertahun-tahun diriku tersiksa<br />Didalam gelap aku menangis<br />Bayangan kasih slalu mendatang</p><p><br />Hingga hati bertanya tanya<br />Sebab apa dikau berlalu<br />Adakah salah ku pada dirimu<br />Sampai saat ini aku tak tahu</p><p><br />Tiada mendung hujan pun turun<br />Panas terik aku kedinginan</p><p><br />Seperti itu diriku kini<br />Rasa bersalah tidakku tahu</p><p><br />Bukannya mimpi tapi tlah nyata<br />Bertahun-tahun diriku tersiksa<br />Didalam gelap aku menangis<br />Bayangan kasih slalu mendatang</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "BARU",
+      "title": "KOYO JOGJA ISTIMEWA",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA14.ogg",
+      "lyrics": "<p>mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />rasah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong kang lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />ra usah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />ra usah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p>kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "BARU",
+      "title": "AYANG",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA15.ogg",
+      "lyrics": "<p>kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Ayang kapan kamu pulang?<br />Pikiranku selalu terbang melayang<br />Tak pernah ada kabar darimu<br />Walau kutahu kamu online melulu</p><p><br />Katamu, ini cuma seminggu<br />Tapi rasanya sperti sewindu<br />Ternyata sulit ku jauh darimu<br />Tanpa genit dan manja - manja denganmu</p><p><br />Peluklah tubuhku<br />Kecup keningku<br />Tenangkan hatiku<br />Yang merindukanmu<br />Aku tak ingin,<br />kau tinggalkanku<br />Sendiri lagi...</p><p><br />Lekaslah kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Peluklah tubuhku<br />Kecup keningku<br />Tenangkan hatiku<br />Yang merindukanmu<br />Aku tak ingin,<br />kau tinggalkanku<br />Sendiri lagi...</p><p><br />Lekaslah kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Katamu, ini cuma seminggu<br />Tapi rasanya sperti sewindu<br />Ternyata sulit ku jauh darimu<br />Tanpa genit dan manja - manja denganmu</p><p>Peluklah tubuhku<br />Kecup keningku<br />Tenangkan hatiku<br />Yang merindukanmu<br />Aku tak ingin,<br />kau tinggalkanku<br />Sendiri lagi...</p><p><br />Lekaslah kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Peluklah tubuhku<br />Kecup keningku<br />Tenangkan hatiku<br />Yang merindukanmu<br />Aku tak ingin,<br />kau tinggalkanku<br />Sendiri lagi...</p><p><br />Lekaslah kembali<br />Usirlah sepi<br />Yang ada di hati<br />Selama kau pergi<br />Yang aku mau,<br />cuma kamu<br />Saat ini</p><p><br />Yang aku mau<br />cuma kamu<br />Saat ini<br />Yang aku mau<br />cuma kamu<br />Saat ini</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "BARU",
+      "title": "AYAH IBU",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA16.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "BARU",
+      "title": "PINGAL",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DELRIKA17.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "LALI JANJINE",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA18.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA19.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "DERMGA BIRU",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA20.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "GERHANA DALAM CINTA",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA21.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "KOK ISO YO",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA22.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "MENDUNG TANPO UDAN",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA23.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "LENGKAP",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA24.ogg",
+      "lyrics": "<p>Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Jelas Bedo Yen Dibandingke<br />Ora Ono Sing Tak Pamerke<br />Aku Raiso Yen Kon Gawe Gawe<br />Jujur Sak Onone</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu<br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p>"
+	  },
+	  {
+      "id": 25,
+      "name_category": "LENGKAP",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA25.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "LENGKAP",
+      "title": "RASAH DADI PELANGI",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA26.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "LENGKAP",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA27.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "LENGKAP",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA28.ogg",
+      "lyrics": "<p>Saat bintang bertahta<br />Dan rembulan tersenyum manja<br />Di saat malam itu, kau dan aku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia, janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik sempurna dirimu<br />Begitu baiknya hatimu cintaku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia, janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik sempurna dirimu<br />Begitu baiknya hatimu cintaku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia, janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik sempurna dirimu<br />Begitu baiknya hatimu cintaku</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik sempurna dirimu<br />Begitu baiknya hatimu cintaku</p>"
+	  },
+	  {
+      "id": 29,
+      "name_category": "LENGKAP",
+      "title": "TETEG ATI",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA29.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "LENGKAP",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA30.ogg",
+      "lyrics": "<p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini</p><p><br />Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta engkau bisikkan kata azimat di telinga<br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p>"
+	  },
+	  {
+      "id": 31,
+      "name_category": "LENGKAP",
+      "title": "TKW",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/DELRIKA31.ogg",
+      "lyrics": ""
+	  }
+  ]
+}
