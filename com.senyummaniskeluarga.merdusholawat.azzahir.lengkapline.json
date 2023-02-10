@@ -1,0 +1,260 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SHOLAWAT A",
+      "image": "file:///android_asset/image/HZA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT B",
+      "image": "file:///android_asset/image/HZB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SHOLAWAT A",
+      "title": "QOD KAFANI",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI1.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "SHOLAWAT A",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "SHOLAWAT A",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SHOLAWAT A",
+      "title": "SADUNA FIDDUNYA",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "SHOLAWAT A",
+      "title": "ROUHI FIDAK",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "SHOLAWAT A",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "SHOLAWAT A",
+      "title": "ZAUJATI",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "SHOLAWAT A",
+      "title": "BUSYROLANA",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SHOLAWAT A",
+      "title": "ROBBI KHOLAK",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "SHOLAWAT A",
+      "title": "YA AYYUHAN NABI",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SHOLAWAT A",
+      "title": "HABIBI YA MUHAMMAD",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "SHOLAWAT A",
+      "title": "ADDIDU LANA",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "SHOLAWAT A",
+      "title": "AHMAD YA HABIBI",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "SHOLAWAT A",
+      "title": "AL QOLBU MUTAYAM",
+      "image": "file:///android_asset/image/HZA.jpg",
+      "link_mp3": "mp3/ZASHOHI14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "SHOLAWAT B",
+      "title": "ASSUBHU BADDA",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "SHOLAWAT B",
+      "title": "BIMAULIDIL HAD",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "SHOLAWAT B",
+      "title": "HAYYUL HADI",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "SHOLAWAT B",
+      "title": "KHUDZUNI",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "SHOLAWAT B",
+      "title": "MAHALUL QIYAM",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "SHOLAWAT B",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "SHOLAWAT B",
+      "title": "QOMARUN",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "SHOLAWAT B",
+      "title": "SUBHANA MAN DZIKRUHU",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "SHOLAWAT B",
+      "title": "YA HABIB NURUL MUSTHOFA",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "SHOLAWAT B",
+      "title": "YALAL WATHON",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "SHOLAWAT B",
+      "title": "YA ROBBA MAKKAH",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "SHOLAWAT B",
+      "title": "YA ROBBI ANTAL HADI",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "SHOLAWAT B",
+      "title": "YA THOYBAH",
+      "image": "file:///android_asset/image/HZB.jpg",
+      "link_mp3": "mp3/ZASHOHI27.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
