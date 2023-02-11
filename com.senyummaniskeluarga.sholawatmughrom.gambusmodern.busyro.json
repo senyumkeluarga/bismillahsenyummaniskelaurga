@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "GAMBUS A",
+      "image": "file:///android_asset/image/GA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "GAMBUS B",
+      "image": "file:///android_asset/image/GB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "GAMBUS A",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren1.mp3",
+      "lyrics": "<p>Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p>Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "GAMBUS A",
+      "title": "SHOLAWAT BUSYRO",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren2.mp3",
+      "lyrics": "<p>Allahumma Sholli wa sallim ala sayyidina<br />muhammadin sohibil busyro<br />sholatan tubassiruna bihaa<br />wa ahlana wa awlaadanaa<br />wa jamiia masyakhinaa<br />wa muallimiinaa wa tholabatanaa wa tholibatinaa<br />min waumina hadza ilaa yaumil akhiroh</p><p><br />Allahumma Sholli wa sallim ala sayyidina<br />muhammadin sohibil busyro<br />sholatan tubassiruna bihaa<br />wa ahlana wa awlaadanaa<br />wa jamiia masyakhinaa<br />wa muallimiinaa wa tholabatanaa wa tholibatinaa<br />min waumina hadza ilaa yaumil akhiroh</p><p><br />Allahumma Sholli wa sallim ala sayyidina<br />muhammadin sohibil busyro<br />sholatan tubassiruna bihaa<br />wa ahlana wa awlaadanaa<br />wa jamiia masyakhinaa<br />wa muallimiinaa wa tholabatanaa wa tholibatinaa<br />min waumina hadza ilaa yaumil akhiroh</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "GAMBUS A",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren3.mp3",
+      "lyrics": "<p>Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Baldatun al-Auliya<br />Baldatun al-Auliya<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Bijahi Ba &lsquo;Alawi<br />Bijahi Ba &lsquo;Alawi<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Saqqofuna waliyyun<br />Saqqofuna waliyyun<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Al-Muhdlor wal &lsquo;Aydarus<br />Al-Muhdlor wal &lsquo;Aydarus<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Al-Haddad wal &lsquo;Aththos<br />Al-Haddad wal &lsquo;Aththos<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Wa jamiil wali<br />Wa jamiil wali<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "GAMBUS A",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren4.mp3",
+      "lyrics": "<p>Ilahanaa.. Yaa Ilahanaa<br />Yasir Lanaa Umuuronaa<br />Ilahanaa.. Yaaa ilahanaa<br />Mindiininaa wadun yaanaa..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u, <br />Yaa Aliimu..<br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan<br />Waf-ta? Quluubanaa.. <br />Wafta? Quluubanaa.. <br />Ala Ta&rsquo;alumil Uluumi<br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Allah Yaa Robb.. Allah Yaa Robbi..<br />Mudahkanlah Urusan Kami<br />Agama Kami Dunia Kami<br />Wahai Allah Yang Mengetahui</p><p><br />Buka Hati Kami.. Buka Hati Kami..<br />Untuk Membaca Al Qur&rsquo;an..<br />Bacalah Al Qur&rsquo;an.. Bacalah Al Qur&rsquo;an..<br />Al Qur&rsquo;an Sumber Kehidupan..</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "GAMBUS A",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "GAMBUS A",
+      "title": "BILQURANI",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren6.mp3",
+      "lyrics": "<p>Bil qurani saamdhi<br />Aj-lu khobatsal ardhi<br />Huwa nafli huwa fardhi<br />Wa minal ayati sana faidh</p><p><br />Saua hidu ya maula<br />Filan lala qoula<br />Nashru kitabi aula<br />wa sayablughu biddunya thoula</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla<br />Wanzaa haljuurr</p><p><br />Bil qurani saamdhi<br />Aj-lu khobatsal ardhi<br />Huwa nafli huwa fardhi<br />Wa minal ayati sana faidh</p><p><br />Saua hidu ya maula<br />Filan lala qoula<br />Nashru kitabi aula<br />wa sayablughu biddunya thoula</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla<br />Wanzaa haljuurr</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "GAMBUS A",
+      "title": "SADUNA FIDDUNYA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren7.mp3",
+      "lyrics": "<p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal maruuf<br />Wal Athoil maluuf<br />Ghoroota lilmalhuuf<br />Innakum bihiadroo</p><p><br />Ya Uhailal mathluub<br />Wal Athoil mauhuub<br />Ghoroota lilmakruub<br />Innakum bihiadroo</p><p><br />Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal ihsaan<br />Wal Atho walghufroon<br />Ghorootal lilkhairoon<br />Innakum bihiadroo</p><p><br />Ya Uhailal Isaad<br />Wal Atho walirfaan<br />Ghoroota yaasyaad<br />Innakum bihiadroo</p><p><br />Saduu-naa fiddunyaa<br />Fauzuu-naa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "GAMBUS A",
+      "title": "TAWASSUL",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren8.mp3",
+      "lyrics": "<p>Ya Robbana Ya Ghoffar Aqbil Sujudana<br />Warhamna Warzuqna Warfadarojatina<br />Iyyaka iyyaka natawassalu alaika<br />Innaka innaka Innaka ala kulli syaiin qadir</p><p><br />Ibadallah Ibadalah rijalallah<br />rijalallah, Aghitsuna, Aghitsuna li-ajlillah<br />Wa kunu aunana lillah<br />Asa nahdho bifadl-lillah</p><p><br />Kuatkanlah iman kami<br />Kuatkan taqwa kami<br />Berilah rahmat untuk kami<br />Angkatlah derajat kami</p><p><br />Iyyaka iyyaka natawassalu alaika<br />Innaka innaka innaka ala kulli syaiin qadir</p><p><br />Iyyaka iyyaka natawassalu alaika<br />Innaka innaka innaka ala kulli syaiin qadir</p><p>&nbsp;</p><p>Ibadallah Ibadallah rijalallah<br />rijalallah, Aghitsuna, Aghitsuna li-ajlillah<br />Wa kunu aunana lillah<br />Asa nahdho bifadl-lillah</p><p><br />Robbi yassir, Robbi yassir wala tuassir<br />tu assir, Robbi tammim Robbi tammim bil khoiri<br />Ya Hayyu Ya Qoyyumu<br />bi rohmatika astaghitsu</p><p><br />Ya Robbana Ya Ghoffar Aqbil Sujudana</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "GAMBUS A",
+      "title": "YA BADROTIM",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren9.mp3",
+      "lyrics": "<p>Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p>Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p>Antal-ladzi asyroq-ta fi ufuqil ula<br />Famahauta bil anwar-i kulla dlolali</p><p>Antal-ladzi asyroq-ta fi ufuqil ula<br />Famahauta bil anwar-i kulla dlolali</p><p>Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p>Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p><br />Sholla alaikallahu Robbi da-iman<br />Abadan ma&rsquo;al ibka-ri wal asholi</p><p><br />Sholla alaikallahu Robbi da-iman<br />Abadan ma&rsquo;al ibka-ri wal asholi</p><p><br />Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p><br />Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p><br />Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "GAMBUS A",
+      "title": "YA SAYYIDI",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren10.mp3",
+      "lyrics": "<p>Yaa Sayyidi Yaa Rasulallaah <br />Yaa man lahul jaahu indallaah</p><p>Innal musii-iina qod ja-uuk<br />Lidz-dzanbi yastaghfiruunallaah</p><p><br />Ya sayyidar-rusli Haadinaa<br />Hayya bighaarah ilainal-an <br />Yaa Himmatas-saadaatil aqthaab <br />Ma&rsquo;aadina-shidqi was-sirri</p><p><br />Hatiku yang resah<br />Imanku yang goyah<br />Berilah hidayah<br />Bila hamba salah</p><p><br />Allaahu yaa Rohman <br />Allaahu yaa Rahim<br />Allaahumma Shalli&rsquo;alaihi wasallim</p><p>&nbsp;</p><p>Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa</p><p><br />Yaa Sayyidi Yaa Rasulallaah<br />Yaa man lahul jaahu indallaah</p><p><br />Innal musii-iina qod ja-uuk<br />Lidz-dzanbi yastaghfiruunallaah</p><p><br />Hatiku yang resah<br />Imanku yang goyah<br />Berilah hidayah<br />Bila hamba salah</p><p><br />Allaahu yaa Rohman<br />Allaahu yaa Rahim<br />Allaahumma Shalli&rsquo;alaihi wasallim<br />Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa<br />Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "GAMBUS A",
+      "title": "NATAWASSAL BIL HUBABAH",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "GAMBUS A",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "GAMBUS A",
+      "title": "HUWANNUR",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "GAMBUS A",
+      "title": "SHOLAWAT QURANIYAH",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/gashoren14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "GAMBUS B",
+      "title": "ADFAITA",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "GAMBUS B",
+      "title": "ALBI NADAK",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "GAMBUS B",
+      "title": "AL QOLBU MUTAYYAM",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "GAMBUS B",
+      "title": "ANTAL AMIN",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "GAMBUS B",
+      "title": "BIL QURANI SAAMDHI",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "GAMBUS B",
+      "title": "DOA RAJAB",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "GAMBUS B",
+      "title": "LABBAIKONNAL HAMDALAK",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "GAMBUS B",
+      "title": "NADHOM ALFIAH",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "GAMBUS B",
+      "title": "QADUKKAL AL MAYYAS",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "GAMBUS B",
+      "title": "QODAN SHOHA",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "GAMBUS B",
+      "title": "SHALLALLAHU ALA YASIN",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "GAMBUS B",
+      "title": "SHOLATUM MINALLAH",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "GAMBUS B",
+      "title": "SHOLLALLAHU ALA MUHAMMAD",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "GAMBUS B",
+      "title": "WAQTU SAHAR",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "GAMBUS B",
+      "title": "YA ABALMASANAIN",
+      "image": "file:///android_asset/image/GB.jpg",
+      "link_mp3": "mp3/gashoren29.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
