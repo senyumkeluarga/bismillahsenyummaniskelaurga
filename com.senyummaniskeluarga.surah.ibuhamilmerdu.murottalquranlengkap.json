@@ -1,0 +1,159 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SURAH IBU HAMIL",
+      "image": "file:///android_asset/image/SBM.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH AL FATIHAH",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU1.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH MARYAM",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH YUSUF",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH AR RAHMAN",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH AL WAQIAH",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH MUHAMMAD",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH IBRAHIM",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH LUQMAN",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH AS SAJADAH",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH YASIN",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH AL KAHFI",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "AYAT KURSI",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH AL FALAQ",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH AL IKHLAS",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "SURAH IBU HAMIL",
+      "title": "SURAH AN NAS",
+      "image": "file:///android_asset/image/SBM.jpg",
+      "link_mp3": "mp3/BUSUDU15.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
