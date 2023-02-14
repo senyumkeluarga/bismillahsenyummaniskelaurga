@@ -1,0 +1,348 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "KENANGAN A",
+      "image": "file:///android_asset/image/KA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "KENANGAN B",
+      "image": "file:///android_asset/image/KB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "KENANGAN A",
+      "title": "TERLAMBAT SUDAH",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/1.ogg",
+      "lyrics": "<p>Terlambat sudah kau datang padaku<br />Setelah kudapatkan penggantimu<br />Kini hatiku tertutup untukmu<br />Cukup sudah penderitaanku<br />Mengapa dulu kau tinggalkan diriku<br />Tanpa pesan apapun padaku<br />Kala itu cintaku sedang tumbuh<br />Kau biarkan menjadi layu</p><p><br />Kini kau datang lagi padaku<br />Setelah kau siksa diriku<br />Terlambat sudah terlambat sudah<br />Semuanya tlah berlalu</p><p><br />Mengapa dulu kau tinggalkan diriku<br />Tanpa pesan apapun padaku<br />Kala itu cintaku sedang tumbuh<br />Kau biarkan menjadi layu</p><p><br />Kini kau datang lagi padaku<br />Setelah kau siksa diriku<br />Terlambat sudah terlambat sudah<br />Semuanya tlah berlalu</p><p><br />Terlambat sudah terlambat sudah<br />Semuanya tlah berlalu</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "KENANGAN A",
+      "title": "ADA RINDU UNTUKMU",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/2.ogg",
+      "lyrics": "<p>Kapan lagi kita berbincang dan berterus terang<br />Kapan, kapankah lagi<br />Kurasakan sunyi mencekam<br />Hati pun tersiksa<br />Ada rindu untukmu</p><p><br />Seputih gaunmu, kekasih<br />Begitu hatiku<br />Tak ingin kau jauh dariku<br />Lembutnya sinar di matamu, sayang<br />Kau begitu seadanya<br />Namun bergetar sendu hati ini</p><p><br />Kapan lagi kita berbincang dan berterus terang<br />Kapan, kapankah lagi<br />Kurasakan sunyi mencekam<br />Hati pun tersiksa<br />Ada rindu untukmu</p><p><br />Seputih gaunmu, kekasih<br />Begitu hatiku<br />Tak ingin kau jauh dariku<br />Lembutnya sinar di matamu, sayang<br />Kau begitu seadanya<br />Namun bergetar sendu hati ini</p><p>Sayang<br />Hati ini</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "KENANGAN A",
+      "title": "DISINI DIBATAS KOTA INI",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/3.ogg",
+      "lyrics": "<p>Di sini, di batas kota ini<br />Ingin kutuliskan surat untukmu<br />Biar engkau mengerti perjalanan hidupku<br />Di dalam menggapai cita-cita</p><p><br />Rintangan yang datang silih berganti<br />Pedih, perih, mencekam menusuki<br />Aku mengharap selalu doa suci darimu<br />Duhai, Kasih, tambatan hatiku</p><p><br />Kukenang lagi saat menjelang perpisahan<br />Kau menangis di pangkuanku<br />Begitu tulus akan cinta kasihku<br />Semakin pilu aku mengenangmu</p><p><br />Mungkinkah kau masih mengharapkanku<br />Kini tubuhku penuh dengan luka<br />Gagal dan gagal lagi, apa yang aku cari<br />Tangis pedih tersimpan dalam hati</p><p><br />Mungkinkah kau masih mengharapkanku<br />Kini tubuhku penuh dengan luka<br />Aku mengharap selalu doa suci darimu<br />Duhai, Kasih, tambatan hatiku</p><p><br />Kukenang lagi saat menjelang perpisahan<br />Kau menangis di pangkuanku<br />Begitu tulus akan cinta kasihku<br />Semakin pilu aku mengenangmu</p><p><br />Mungkinkah kau masih mengharapkanku<br />Kini tubuhku penuh dengan luka<br />Gagal dan gagal lagi, apa yang aku cari<br />Tangis pedih tersimpan dalam hati</p><p><br />Gagal dan gagal lagi, apa yang aku cari<br />Tangis pedih tersimpan dalam hati</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "KENANGAN A",
+      "title": "DEMI KAU DAN SIBUAH HATI",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/4.ogg",
+      "lyrics": "<p>Mengapa harus begini<br />Tiada lagi kehangatan<br />Memang kusadari<br />Sering kutinggalkan kau seorang diri</p><p><br />Bukannya aku sengaja<br />Meninggalkan kau sendiri<br />Aku menyadari<br />Bukan sandiwara kasihku kepadamu</p><p><br />Tiap malam engkau kutinggal pergi<br />Bukan, bukan, bukannya aku sengaja<br />Demi kau dan si buah hati<br />Terpaksa aku harus begini</p><p><br />Tiap hari hingga malam berakhir<br />Ku tahu kau tersiksa karena diriku<br />Sejujurnya aku katakan<br />Tiada satu pengganti dirimu</p><p><br />Bukannya aku sengaja<br />Meninggalkan kau sendiri<br />Aku menyadari<br />Bukan sandiwara kasihku kepadamu</p><p><br />Tiap malam engkau kutinggal pergi<br />Bukan, bukan, bukannya aku sengaja<br />Demi kau dan si buah hati<br />Terpaksa aku harus begini</p><p><br />Tiap hari hingga malam berakhir<br />Ku tahu kau tersiksa karena diriku<br />Sejujurnya aku katakan<br />Tiada satu pengganti dirimu</p><p><br />Tiap malam engkau kutinggal pergi<br />Bukan, bukan, bukannya aku sengaja<br />Demi kau dan</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "KENANGAN A",
+      "title": "TAK INGIN SENDIRI",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/5.ogg",
+      "lyrics": "<p>Aku masih seperti yang dulu<br />Menunggumu sampai akhir hidupku<br />Kesetiaanku tak luntur hati pun rela berkorban<br />Demi keutuhan kau dan aku</p><p><br />Biarkanlah aku memiliki<br />Semua cinta yang ada di hatimu<br />Apapun kan kuberikan cinta dan kerinduan<br />Untukmu dambaan hatiku</p><p><br />Malam ini tak ingin aku sendiri<br />Kucari damai bersama bayanganmu<br />Hangat pelukan yang masih kurasa<br />Kau kasih, kau sayang</p><p><br />Aku masih seperti yang dulu<br />Menunggumu sampai akhir hidupku<br />Kesetiaanku tak luntur hati pun rela berkorban<br />Demi keutuhan kau dan aku</p><p><br />Malam ini tak ingin aku sendiri<br />Kucari damai bersama bayanganmu<br />Hangat pelukan yang masih kurasa<br />Kau kasih kau sayang</p><p><br />Malam ini tak ingin aku sendiri<br />Kucari damai bersama bayanganmu<br />Hangat pelukan yang masih kurasa<br />Kau kasih kau sayang</p><p><br />Malam ini tak ingin aku sendiri<br />Kucari damai bersama bayanganmu</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "KENANGAN A",
+      "title": "YANG PERTAMA",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/6.ogg",
+      "lyrics": "<p>Denyut jantung di dada<br />Berdebar tak menentu<br />Karena kehadiranmu</p><p><br />Diam-diam hatiku<br />Mengagumi dirimu<br />Bahkan menyayangimu</p><p><br />Untuk pertama kali<br />Itu pun kuakui<br />Kau begitu berarti</p><p><br />Rasanya ingin selalu<br />Dekat-dekat dirimu<br />Tak ingin pisah lagi</p><p><br />Yang pertama di dalam hidup ini<br />Rindu dan sayang menyiksa diri<br />Yang pertama di dalam hidup ini<br />Kasih dan sayang menerpa diri</p><p><br />Terkadang tak sadar bibirku ini<br />Menyebut dan memanggil namamu, sayang<br />Pertama kali di dalam hidupku ini<br />Menyayang dirimu</p><p><br />Denyut jantung di dada<br />Berdebar tak menentu<br />Karena kehadiranmu</p><p><br />Diam-diam hatiku<br />Mengagumi dirimu<br />Bahkan menyayangimu</p><p><br />Untuk pertama kali<br />Itu pun kuakui<br />Kau begitu berarti</p><p><br />Rasanya ingin selalu<br />Dekat-dekat dirimu<br />Tak ingin pisah lagi</p><p><br />Yang pertama di dalam hidup ini<br />Rindu dan sayang menyiksa diri<br />Yang pertama di dalam hidup ini<br />Kasih dan sayang menerpa diri</p><p><br />Terkadang tak sadar bibirku ini<br />Menyebut dan memanggil namamu, sayang<br />Pertama kali di dalam hidupku ini<br />Menyayang dirimu</p><p><br />Pertama kali di dalam hidupku ini<br />Menyayang dirimu</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "KENANGAN A",
+      "title": "BINTANG KEHIDUPAN",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/7.ogg",
+      "lyrics": "<p>Jenuh aku mendengar<br />Manisnya kata cinta<br />Lebih baik sendiri</p><p><br />Bukannya sekali<br />Sering ku mencoba<br />Namun ku gagal lagi</p><p><br />Mungkin nasib ini<br />Suratan tanganku<br />Harus tabah menjalani</p><p><br />Jauh sudah langkahku<br />Menyusuri hidupku<br />Yang penuh tanda tanya</p><p><br />Kadang hati bimbang<br />Menentukan sikapku<br />Tiada tempat mengadu</p><p><br />Hanya iman di dada<br />Yang membuatku mampu<br />Slalu tabah menjalani</p><p><br />Malam-malam aku sendiri<br />Tanpa cintamu lagi, ho-wo-oh-oh<br />Hanya satu keyakinanku<br />Bintang kan bersinar<br />Menerpa hidupku<br />Bahagia kan datang, ho-oh</p><p><br />Jenuh aku mendengar<br />Manisnya kata cinta<br />Lebih baik sendiri</p><p><br />Bukannya sekali<br />Sering ku mencoba<br />Namun ku gagal lagi</p><p><br />Hanya iman di dada<br />Yang membuatku mampu<br />Slalu tabah menjalani</p><p><br />Malam-malam aku sendiri<br />Tanpa cintamu lagi, ho-wo-oh-oh<br />Hanya satu keyakinanku<br />Bintang kan bersinar<br />Menerpa hidupku<br />Bahagia kan datang, ho-ho-ho</p><p><br />Malam-malam aku sendiri<br />Tanpa cintamu lagi, ho-wo-oh-oh<br />Hanya satu keyakinanku<br />Bintang kan bersinar<br />Menerpa</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "KENANGAN A",
+      "title": "HATI YANG LUKA",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/8.ogg",
+      "lyrics": "<p>Berulang kali aku mencoba<br />S'lalu untuk mengalah<br />Demi keutuhan kita berdua<br />Walau kadang sakit</p><p><br />Lihatlah tanda merah di pipi<br />Bekas gambar tanganmu<br />Sering kaulakukan bila kau marah<br />Menutupi salahmu</p><p><br />Samakah aku bagai burung di sana<br />Yang dijual orang?<br />Hingga sesukamu kaulakukan itu<br />Kausakiti aku</p><p><br />Kalaulah memang kita berpisah<br />Itu bukan suratan<br />Mungkin ini lebih baik agar kau puas<br />Membagi cinta</p><p><br />Pulangkan saja aku pada ibuku<br />Atau ayahku</p><p><br />Dulu segenggam emas<br />Kaupinang aku<br />Dulu bersumpah janji<br />Di depan saksi, hu-oh, hu-oh</p><p><br />Namun, semua hilanglah sudah<br />Ditelan dusta, hu-oh, hu-oh<br />Namun, semua tinggal cerita<br />Hati yang luka</p><p><br />Kalaulah memang kita berpisah<br />Itu bukan suratan<br />Mungkin ini lebih baik agar kau puas<br />Membagi cinta</p><p><br />Pulangkan saja aku pada ibuku<br />Atau ayahku</p><p><br />Dulu segenggam emas<br />Kaupinang aku<br />Dulu bersumpah janji<br />Di depan saksi, hu-oh, hu-oh</p><p><br />Namun, semua hilanglah sudah<br />Ditelan dusta, hu-oh, hu-oh<br />Namun, semua tinggal cerita<br />Hati yang luka</p><p><br />Namun, semua tinggal cerita<br />Hati yang luka</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "KENANGAN A",
+      "title": "JANGAN ADA DUSTA DIANTARA KITA",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/9.ogg",
+      "lyrics": "<p>Ketika pertama ku jumpa denganmu<br />Bukankah ini ku tanyakan padamu oh kasih<br />Takkan kecewakah kau pada diriku<br />Takkan menyesalkah kau hidup denganku nanti hu</p><p><br />Memang kau bukan yang pertama bagiku<br />Pernah satu hati mengisi hidupku dulu<br />Dan kini semua kau katakan padaku<br />Jangan ada dusta di antara kita kasih hu</p><p><br />Semua terserah padamu aku begini adanya<br />Ku hormati keputusanmu apapun yang akan kau katakan<br />Sebelum terlanjur kita jauh melangkah<br />Kau katakan saja hu</p><p><br />Memang kau bukan yang pertama bagiku<br />Pernah satu hati mengisi hidupku dulu<br />Dan kini semua kau katakan padaku<br />Jangan ada dusta di antara kita kasih hu</p><p><br />Semua terserah padamu aku begini adanya<br />Ku hormati keputusanmu apapun yang akan kau katakan<br />Sebelum terlanjur kita jauh melangkah kau katakan saja hu</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "KENANGAN A",
+      "title": "ELIGI ESOK HARI",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/10.ogg",
+      "lyrics": "<p>Ijinkanlah kukecup keningmu<br />Bukan hanya ada di dalam angan<br />Esok pagi kau buka jendela<br />Kan kau dapati seikat kembang merah</p><p><br />Engkau tahu aku mulai bosan<br />Bercumbu dengan bayang-bayang<br />Bantulah aku temukan diri<br />Menyambut pagi membuang sepi<br />Ijinkanlah aku kenang<br />Sejenak perjalanan</p><p>Dan biarkan ku mengerti<br />Apa yang tersimpan di matamu</p><p>Barangkali di tengah telaga<br />Ada tersisa butiran cinta<br />Dan semoga kerinduan ini<br />Bukan jadi mimpi di atas mimpi<br />Ijinkanlah aku rindu<br />Pada hitam rambutmu</p><p>Dan biarkan ku bernyanyi<br />Demi hati yang risau ini</p><p>Barangkali di tengah telaga<br />Ada tersisa butiran cinta<br />Dan semoga kerinduan ini<br />Bukan jadi mimpi di atas mimpi</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "KENANGAN A",
+      "title": "TENDA BIRU",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/11.ogg",
+      "lyrics": "<p>Tak sengaja lewat depan rumahmu<br />Ku melihat ada tenda biru<br />Dihiasi indahnya janur kuning<br />Hati bertanya, Pernikahan siapa?</p><p><br />Tak percaya, tapi ini terjadi<br />Kau bersanding duduk di pelaminan<br />Air mata jatuh tak tertahankan<br />Kau khianati cinta suci ini</p><p><br />Tanpa undangan, diriku kau lupakan<br />Tanpa putusan, diriku kau tinggalkan<br />Tanpa bicara, kau buatku kecewa<br />Tanpa berdosa, kau buatku merana</p><p><br />Ku tak percaya, dirimu tega<br />Nodai cinta, khianati cinta</p><p><br />Tak percaya, tapi ini terjadi<br />Kau bersanding duduk di pelaminan<br />Air mata jatuh tak tertahankan<br />Kau khianati cinta suci ini</p><p><br />Tanpa undangan, diriku kau lupakan<br />Tanpa putusan, diriku kau tinggalkan<br />Tanpa bicara, kau buatku kecewa<br />Tanpa berdosa, kau buatku merana</p><p><br />Ku tak percaya, dirimu tega<br />Nodai cinta, khianati cinta</p><p><br />Tanpa undangan, diriku kau lupakan<br />Tanpa putusan, diriku kau tinggalkan<br />Tanpa bicara, kau buatku kecewa<br />Tanpa berdosa, kau buatku merana</p><p><br />Ku tak percaya, dirimu tega<br />Nodai cinta, khianati cinta<br />Ku tak percaya, dirimu tega<br />Nodai cinta, khianati cinta</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "KENANGAN A",
+      "title": "SEBERKAS SINAR",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/12.ogg",
+      "lyrics": "<p>Kala ku seorang diri<br />Hanya berteman sepi dan angin malam<br />Kucoba merenungi<br />Tentang jalan hidupku</p><p><br />Kulangkahkan kakiku<br />Dan menyimak sebuah arti kehidupan<br />Hati slalu bertanya<br />Adakah kasih suci</p><p><br />Dalam cinta, ha-ha<br />Adakah cintamu</p><p><br />Seberkas cahaya terang<br />Menyinari hidupku<br />Sesejuk embun-embun di pagi hari<br />Dambaan insan di dunia ini</p><p>Seberkas cahaya terang<br />Menyinari hidupku<br />Sesejuk embun-embun di pagi hari<br />Dambaan insan di dunia ini</p><p><br />Jauh kudengar lagu<br />Di keheningan malam, aku sendiri<br />Kucoba merenungi<br />Tentang jalan hidupku</p><p><br />Dalam cinta, ha-ha<br />Adakah cintamu</p><p><br />Seberkas cahaya terang<br />Menyinari hidupku<br />Sesejuk embun pagi<br />Dalam cita cintaku</p><p><br />Seberkas cahaya terang<br />Menyinari hidupku<br />Sesejuk embun pagi<br />Dalam cinta</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "KENANGAN A",
+      "title": "TITIP RINDU UNTUK AYAH",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/13.ogg",
+      "lyrics": "<p>Di matamu, masih tersimpan<br />Selaksa peristiwa<br />Benturan dan hempasan terpahat<br />Di keningmu</p><p><br />Kau nampak tua dan lelah<br />Keringat mengucur deras<br />Namun, kau tetap tabah</p><p><br />Meski napasmu kadang tersengal<br />Memikul beban yang makin sarat<br />Kau tetap bertahan</p><p><br />Engkau telah mengerti hitam<br />Dan merah jalan ini<br />Keriput tulang pipimu gambaran<br />Perjuangan</p><p><br />Bahumu yang dulu kekar<br />Legam terbakar matahari<br />Kini kurus dan terbungkuk</p><p><br />Namun, semangat tak pernah pudar<br />Meski langkahmu kadang gemetar<br />Kau tetap setia</p><p><br />Ayah, dalam hening sepi, ku rindu<br />Untuk menuai padi milik kita<br />Tapi kerinduan tinggal hanya kerinduan<br />Anakmu sekarang banyak menanggung beban</p><p><br />Engkau telah mengerti hitam<br />Dan merah jalan ini<br />Keriput tulang pipimu gambaran<br />Perjuangan</p><p><br />Bahumu yang dulu kekar<br />Legam terbakar matahari<br />Kini kurus dan terbungkuk</p><p><br />Namun, semangat tak pernah pudar<br />Meski langkahmu kadang gemetar<br />Kau tetap setia</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "KENANGAN A",
+      "title": "BENCI TAPI RINDU",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/14.ogg",
+      "lyrics": "<p>Bukan hanya sekedar penghibur<br />Diriku ini sayang<br />Bukan pula sekedar pelepas<br />Rindumu oh sayang<br />Sakit hatiku<br />Kau buat begitu</p><p><br />Kau datang dan pergi<br />Sesuka hatimu<br />Oh kejamnya dikau<br />Teganya dikau padaku</p><p><br />Kau pergi dan datang<br />Sesuka hatimu<br />Oh sakitnya hati<br />Bencinya hati padamu</p><p><br />Sakitnya hati ini<br />Namun aku rindu<br />Bencinya hati ini<br />Tapi aku rindu</p><p><br />Bukan hanya sekedar penghibur<br />Diriku ini sayang<br />Bukan pula sekedar pelepas<br />Rindumu oh sayang<br />Sakit hatiku<br />Kau buat begitu</p><p><br />Kau datang dan pergi<br />Sesuka hatimu<br />Oh kejamnya dikau<br />Teganya dikau padaku</p><p><br />Kau pergi dan datang<br />Sesuka hatimu<br />Oh sakitnya hati<br />Bencinya hati padamu</p><p><br />Sakitnya hati ini<br />Namun aku rindu<br />Bencinya hati ini<br />Tapi aku rindu</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "KENANGAN A",
+      "title": "BERITA KEPADA KAWAN",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/15.ogg",
+      "lyrics": "<p>Perjalanan ini trasa sangat menyedihkan<br />Sayang engkau tak duduk disampingku kawan<br />Banyak cerita yang mestinya kau saksikan<br />Di tanah kering bebatuan</p><p><br />Tubuhku terguncang dihempas batu jalanan<br />Hati tergetar menampak kering rerumputan</p><p><br />Perjalanan ini pun seperti jadi saksi<br />Gembala kecil menangis sedih</p><p><br />Kawan coba dengar apa jawabnya<br />Ketika ia kutanya mengapa<br />Bapak ibunya tlah lama mati<br />Ditelan bencana tanah ini</p><p><br />Sesampainya di laut kukabarkan semuanya<br />Kepada karang kepada ombak kepada matahari</p><p><br />Tetapi semua diam tetapi semua bisu<br />Tinggal aku sendiri terpaku menatap langit</p><p><br />Barangkali di sana ada jawabnya<br />Mengapa di tanahku terjadi bencana</p><p><br />Mungkin Tuhan mulai bosan melihat tingkah kita<br />Yang selalu salah dan bangga dengan dosa-dosa<br />Atau alam mulai enggan bersahabat dengan kita<br />Coba kita bertanya pada rumput yang bergoyang</p><p><br />Kawan coba dengar apa jawabnya<br />Ketika ia kutanya mengapa<br />Bapak ibunya tlah lama mati<br />Ditelan bencana tanah ini</p><p><br />Sesampainya di laut kukabarkan semuanya<br />Kepada karang kepada ombak kepada matahari</p><p><br />Tetapi semua diam tetapi semua bisu<br />Tinggal aku sendiri terpaku menatap langit</p><p><br />Barangkali di sana ada jawabnya<br />Mengapa di tanahku terjadi bencana</p><p><br />Mungkin Tuhan mulai bosan melihat tingkah kita<br />Yang selalu salah dan bangga dengan dosa-dosa<br />Atau alam mulai enggan bersahabat dengan kita<br />Coba kita bertanya pada rumput yang bergoyang</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "KENANGAN A",
+      "title": "GEREJA TUA",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/16.ogg",
+      "lyrics": "<p>Masihkah kau ingat waktu di desa<br />Bercanda bersama di samping gereja<br />Kala itu kita masih remaja<br />Yang polos hatinya bercerita</p><p><br />Waktu kini tlah lama berlalu<br />Sudah sepuluh tahun tak bertemu<br />Entah dimana kini kau berada<br />Tak tahu dimana rumahnya</p><p><br />Hanya satu yang tak terlupakan<br />Kala senja di gereja tua<br />Waktu itu hujan rintik-rintik<br />Kita berteduh di bawah atapnya</p><p><br />Kita berdiri begitu rapat<br />Hingga suasana begitu hangat<br />Tanganmu ku pegang erat-erat<br />Kenangan itu selalu ku ingat</p><p><br />Waktu kini tlah lama berlalu<br />Sudah sepuluh tahun tak bertemu<br />Entah dimana kini kau berada<br />Tak tahu dimana rumahnya</p><p><br />Hanya satu yang tak terlupakan<br />Kala senja di gereja tua<br />Waktu itu hujan rintik-rintik<br />Kita berteduh di bawah atapnya</p><p><br />Meskipun kini kau telah berdua<br />Itu bukanlah kesalahanmu<br />Ku hanya ingin dapat bertemu<br />Bila bertemu puaslah hatiku<br />Bila bertemu puaslah hatiku</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "KENANGAN A",
+      "title": "ANTARA BENCI DAN RINDU",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/17.ogg",
+      "lyrics": "<p>Yang, hujan turun lagi<br />Di bawah payung hitam kuberlindung<br />Yang, ingatkah kau padaku?<br />Di jalan ini dulu kita berdua<br />Basah tubuh ini<br />Basah rambut ini<br />Kau hapus dengan sapu tanganmu</p><p><br />Yang, rindukah kau padaku?<br />Tak inginkah kau duduk di sampingku?<br />Kita bercerita tentang laut biru<br />Di sana harapan dan impian</p><p><br />Benci, benci, benci, tapi rindu jua<br />Memandang wajah dan senyummu sayang<br />Rindu, rindu, rindu, tapi benci jua<br />Bila ingat kau sakiti hatiku</p><p><br />Antara benci dan rindu di sini<br />Membuat mataku menangis</p><p><br />Yang, pernahkah kau bermimpi?<br />Kita bersatu bagai dulu lagi<br />Tak pernah bersedih<br />Tak pernah menangis<br />Seperti saat rindu begini</p><p><br />Yang, hujan turun lagi, yang<br />Di bawah payung hitam kita berlindung<br />Basah tubuh ini<br />Basah rambut ini<br />Kuhapus dengan sapu tanganku<br />Kita bercerita tentang laut biru<br />Di sana tumpuan dan impian</p><p><br />Yang, rindukah kau padaku?<br />Tak inginkah kau duduk di sampingku?<br />Kita bercerita tentang laut biru<br />Di sana harapan dan impian</p><p><br />Benci, benci, benci, tapi rindu jua<br />Memandang wajah dan senyummu sayang<br />Rindu, rindu, rindu, tapi benci jua<br />Bila ingat kau sakiti hatiku</p><p><br />Antara benci dan rindu di sini<br />Membuat mataku menangis</p><p><br />Antara benci dan rindu di sini<br />Membuat mataku menangis</p>"
+	  },
+	  {
+      "id": 18,
+      "name_category": "KENANGAN A",
+      "title": "AKU TAK RELA",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/18.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 19,
+      "name_category": "KENANGAN A",
+      "title": "ANDAKAN KAU DATANG KEMBALI",
+      "image": "file:///android_asset/image/KA.jpg",
+      "link_mp3": "mp3/19.ogg",
+      "lyrics": "<p>Terlalu indah dilupakan<br />Terlalu sedih dikenangkan<br />Setelah aku jauh berjalan<br />Dan kau kutinggalkan</p><p><br />Betapa hatiku bersedih<br />Mengenang kasih dan sayangmu<br />Setulus pesanmu kepadaku<br />Engkau 'kan menunggu</p><p><br />Andaikan kau datang kemari<br />Jawaban apa yang 'kan kuberi?<br />Adakah jalan yang kautemui<br />Untuk kita kembali lagi?</p><p><br />Bersinarlah bulan purnama<br />Seindah serta tulus cintanya<br />Bersinarlah terus sampai nanti<br />Lagu ini kuakhiri</p><p><br />Betapa hatiku bersedih<br />Mengenang kasih dan sayangmu<br />Setulus pesanmu kepadaku<br />Engkau 'kan menunggu</p><p><br />Andaikan kau datang kemari<br />Jawaban apa yang 'kan kuberi?<br />Adakah jalan yang kautemui<br />Untuk kita kembali lagi?</p><p><br />Bersinarlah bulan purnama<br />Seindah serta tulus cintanya<br />Bersinarlah terus sampai nanti<br />Lagu ini kuakhiri</p><p><br />Bersinarlah bulan purnama<br />Seindah serta tulus cintanya</p>"
+	  },
+	  {
+      "id": 20,
+      "name_category": "KENANGAN B",
+      "title": "AYAH",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/20.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 21,
+      "name_category": "KENANGAN B",
+      "title": "CINTA DIANTARA KITA",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/21.ogg",
+      "lyrics": "<p>Diujung malam yang sepi<br />Ku terpaku merenungi<br />Kegagalan hidup ini<br />Jadi belenggu dalam diriku</p><p><br />Kemana harus kucari<br />Kekasih yang telah pergi<br />Siang malam tiada henti<br />Seakan semua semakin menyiksa</p><p><br />Cinta dalam hidupku<br />Kini seakan mati<br />Untuk pertama yang pernah ada<br />Kini entah kemana</p><p><br />Tuhan tunjukkanlah jalan<br />Agar kulupakan semua<br />Kegagalan hidup ini<br />Biar berlalu dalam hidupku</p><p><br />Selamat jalan kasih<br />Selamat datang bahagia<br />Biarlah semua yang dulu<br />Kujadikan pedoman hidupku</p><p><br />Cinta dalam hidupku<br />Kini seakan mati<br />Untuk pertama yang pernah ada<br />Kini entah kemana</p><p><br />Tuhan tunjukkanlah jalan<br />Agar kulupakan semua<br />Kegagalan hidup ini<br />Biar berlalu dalam hidupku</p><p><br />Selamat jalan kasih<br />Selamat datang bahagia<br />Biarlah semua yang dulu<br />Kujadikan pedoman hidupku</p><p><br />Tuhan tunjukkanlah jalan<br />Agar kulupakan semua<br />Kegagalan hidup ini<br />Biar berlalu dalam diriku</p><p><br />Selamat jalan kasih<br />Selamat datang bahagia<br />Biarlah semua yang dulu<br />Kujadikan pedoman hidupku</p>"
+	  },
+	  {
+      "id": 22,
+      "name_category": "KENANGAN B",
+      "title": "DISAAT KAU HARUS MEMILIH",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/22.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 23,
+      "name_category": "KENANGAN B",
+      "title": "HATI DAN CINTAMU",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/23.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 24,
+      "name_category": "KENANGAN B",
+      "title": "JANGAN SAKITI HATINYA",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/24.ogg",
+      "lyrics": "<p>Masihkah kau ingat sayang<br />Gadis yang pernah kau sayang<br />Dia menunggumu sayang<br />Cintanya</p><p><br />Kau berikan dia janji<br />Kau berikan dia cinta<br />Yang indah</p><p><br />Kau nyanyikan lagu sayang<br />Tentang rembulan yang indah<br />Semua lagu-lagu indah darimu</p><p><br />Kau berikan dia mimpi<br />Kau berikan dia senyum yang indah</p><p><br />Jangan jangan kau sakiti hatinya<br />Jangan lagi sayang<br />Jangan jangan kau hancurkan cintanya<br />Jangan lagi sayang</p><p><br />Sedangkan bunga tak ingin layu<br />Sedangkan hujan bernyanyi merdu<br />Jangan jangan lagi<br />Kau redupkan cinta yang indah ini</p><p><br />Jangan kau bersedih sayang<br />Esok kan berganti sayang<br />Masih ada lagi sayang baginya</p><p><br />Kau nyanyikan lagu sayang<br />Tentang rembulan yang indah<br />Semua lagu-lagu indah darimu</p><p><br />Kau berikan dia mimpi<br />Kau berikan dia senyum yang indah</p><p><br />Jangan jangan kau sakiti hatinya<br />Jangan lagi sayang<br />Jangan jangan kau hancurkan cintanya<br />Jangan lagi sayang</p><p><br />Sedangkan bunga tak ingin layu<br />Sedangkan hujan bernyanyi merdu<br />Jangan jangan lagi<br />Kau redupkan cinta yang indah ini</p>"
+	  },
+	  {
+      "id": 25,
+      "name_category": "KENANGAN B",
+      "title": "JANGAN SALAHKAN SIAPA",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/25.ogg",
+      "lyrics": "<p>Sampai kapan kau menutupi<br />Apa yang dihatimu<br />Sampai kapan lagi<br />Kau hindari kenyataaan</p><p><br />Kutahu engkau menyayangku<br />Dari sinar matamu<br />Tapi kau bertahan<br />Kau mencoba menutupinya</p><p><br />Sekian lamanya kutunggu<br />Kau masih bertahan juga<br />Jangan salahkan siapa<br />Bila akhirnya diriku berlalu</p><p><br />Sekian lama kutersiksa<br />Dalam penantian ini<br />Jangan salahkan siapa<br />Bila kututup pintu hatiku ini</p><p><br />Seringkali engkau bertanya<br />Tentang kesetiaanku<br />Apa guna kujawab<br />Sebab engkau masih menutup diri</p><p><br />Kutahu engkau menyayangku<br />Dari sinar matamu<br />Tapi kau bertahan<br />Kau mencoba menutupinya</p><p><br />Sekian lamanya kutunggu<br />Kau masih bertahan juga<br />Jangan salahkan siapa<br />Bila akhirnya diriku berlalu</p><p><br />Sekian lama kutersiksa<br />Dalam penantian ini<br />Jangan salahkan siapa<br />Bila tertutup pintu hatiku ini</p><p><br />Jangan salahkan siapa<br />Bila akhirnya diriku berlalu</p>"
+	  },
+	  {
+      "id": 26,
+      "name_category": "KENANGAN B",
+      "title": "JANGAN TANGAN YANG BICARA",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/26.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 27,
+      "name_category": "KENANGAN B",
+      "title": "KAPAN KAPAN",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/27.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 28,
+      "name_category": "KENANGAN B",
+      "title": "KAU DAN AKU BERBEDA",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/28.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 29,
+      "name_category": "KENANGAN B",
+      "title": "KAU TERCIPTA BUKAN UNTUKU",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/29.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 30,
+      "name_category": "KENANGAN B",
+      "title": "KU TAK AKAN BERSUARA",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/30.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 31,
+      "name_category": "KENANGAN B",
+      "title": "MANA MUNGKIN MENDUA HATI",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/31.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 32,
+      "name_category": "KENANGAN B",
+      "title": "MUNGKINKAH",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/32.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 33,
+      "name_category": "KENANGAN B",
+      "title": "SATUKANLAH HATI KAMI",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/33.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 34,
+      "name_category": "KENANGAN B",
+      "title": "TANGAN TAK SAMPAI",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/34.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 35,
+      "name_category": "KENANGAN B",
+      "title": "TIADA",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/35.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 36,
+      "name_category": "KENANGAN B",
+      "title": "UNTUK SEBUAH NAMA",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/36.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 37,
+      "name_category": "KENANGAN B",
+      "title": "KISAH KASIH DISEKOLAH",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/37.ogg",
+      "lyrics": "lirik segera hadir"
+	  },
+	  {
+      "id": 38,
+      "name_category": "KENANGAN B",
+      "title": "JANGAN SALAH MENILAI",
+      "image": "file:///android_asset/image/KB.jpg",
+      "link_mp3": "mp3/38.ogg",
+      "lyrics": "lirik segera hadir"
+	  }
+  ]
+}
