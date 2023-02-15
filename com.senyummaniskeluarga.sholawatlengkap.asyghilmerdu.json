@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "MERDU A",
+      "image": "file:///android_asset/image/MSA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "MERDU B",
+      "image": "file:///android_asset/image/MSB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MERDU A",
+      "title": "SHOLAWAT ASYGHIL 1 ABAD",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p>Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p>Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi wasalim</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi wasalim</p><p>&nbsp;</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "MERDU A",
+      "title": "SHOLAWAT ASYGHIL",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p>Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />ya allah..ya allah..ya allah</p><p><br />Allahumma sholli ala Muhammad<br />Ya robbi sollialla hi wasalim<br />Allahumma sholli ala Muhammad<br />Ya robbi sollialla hi wasalim</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "MERDU A",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": "<p>Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p>Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "MERDU A",
+      "title": "SHOLAWAT BUSYRO",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": "<p>Allahumma Sholli wa sallim ala sayyidina<br />muhammadin sohibil busyro<br />sholatan tubassiruna bihaa<br />wa ahlana wa awlaadanaa<br />wa jamiia masyakhinaa<br />wa muallimiinaa wa tholabatanaa wa tholibatinaa<br />min waumina hadza ilaa yaumil akhiroh</p><p><br />Allahumma Sholli wa sallim ala sayyidina<br />muhammadin sohibil busyro<br />sholatan tubassiruna bihaa<br />wa ahlana wa awlaadanaa<br />wa jamiia masyakhinaa<br />wa muallimiinaa wa tholabatanaa wa tholibatinaa<br />min waumina hadza ilaa yaumil akhiroh</p><p><br />Allahumma Sholli wa sallim ala sayyidina<br />muhammadin sohibil busyro<br />sholatan tubassiruna bihaa<br />wa ahlana wa awlaadanaa<br />wa jamiia masyakhinaa<br />wa muallimiinaa wa tholabatanaa wa tholibatinaa<br />min waumina hadza ilaa yaumil akhiroh</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "MERDU A",
+      "title": "SHOLAWAT NARIYAH",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": "<p>Alloohumma sholi sholaatan<br />Kaamilatan wasallim salaaman<br />Taamman &lsquo;alaa sayyidina muhammadinil ladzii</p><p><br />Tanhallu bihil &lsquo;uqodu<br />Wa tanfariju bihil kurobu<br />Wa tuqdhoo bihil hawaa-iju<br />Wa tunaalu bihir roghoo ibu</p><p><br />Wa husnul khowaatimi<br />Wa yustasqol ghomaamu<br />Bi wajhihil kariimi wa &lsquo;alaa aalihii</p><p><br />Wa shohbihi fii kulli Lamhatin<br />wa nafasin Bi &lsquo;adadi<br />kulli ma&rsquo;luumin laka</p><p><br />Alloohumma sholi sholaatan<br />Kaamilatan wasallim salaaman<br />Taamman &lsquo;alaa sayyidina muhammadinil ladzii</p><p><br />Tanhallu bihil &lsquo;uqodu<br />Wa tanfariju bihil kurobu<br />Wa tuqdhoo bihil hawaa-iju<br />Wa tunaalu bihir roghoo ibu</p><p><br />Wa husnul khowaatimi<br />Wa yustasqol ghomaamu<br />Bi wajhihil kariimi wa &lsquo;alaa aalihii</p><p><br />Wa shohbihi fii kulli Lamhatin wa nafasin<br />nafasin Bi &lsquo;adadi<br />kulli ma&rsquo;luumin laka</p><p>Wa shohbihi fii kulli Lamhatin wa nafasin<br />nafasin Bi &lsquo;adadi<br />kulli ma&rsquo;luumin laka</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "MERDU A",
+      "title": "SHOLAWAT BADAR",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": "<p>Shalaatullaah Salaamul laah &lsquo;Alaa Thaaha Rasuulillaah<br />Shalaatullaah Salaamullah &lsquo;Alaa Yaa Siin Habiibillaah</p><p><br />Tawassalnaa Bibismi llaah Wabil Haadi Rasuulillaah<br />Wakulli Mujaahidin Lillaah Bi Ahlil Badri Yaa Allaah</p><p><br />llaahi Sallimil Ummah Minal Aafaati Wanniqmah<br />Wamin Hammin Wamin Ghummah Bi Ahlil Badri Yaa Allaah</p><p><br />llaahi Sallimil Ummah Minal Aafaati Wanniqmah<br />Wamin Hammin Wamin Ghummah Bi Ahlil Badri Yaa Allaah</p><p><br />Shalaatullaah Salaamul laah &lsquo;Alaa Thaaha Rasuulillaah<br />Shalaatullaah Salaamullah &lsquo;Alaa Yaa Siin Habiibillaah</p><p><br />Shalaatullaah Salaamul laah &lsquo;Alaa Thaaha Rasuulillaah<br />Shalaatullaah Salaamullah &lsquo;Alaa Yaa Siin Habiibillaah<br />Shalaatullaah Salaamullah &lsquo;Alaa Yaa Siin Habiibillaah<br />Shalaatullaah Salaamullah &lsquo;Alaa Yaa Siin Habiibillaah<br />Alaa Yaa Siin Habiibillaah</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "MERDU A",
+      "title": "SHOLAWAT QURANIYAH",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": "<p>Sholatullahi wa salam <br />&lsquo;ala man &ucirc;hiyal qur-an<br />Sholatullahi wa salam <br />&lsquo;ala man &ucirc;hiyal qur-an</p><p><br />Wa ahli baitihil kirom<br />wa shohbihi - hi dzawal qur-an<br />Wa ahli baitihil kirom<br />wa shohbihi - hi dzawal qur-an</p><p><br />Salamullahi warridlwan<br />&lsquo;ala man &lsquo;adhdhomal qur-an<br />Salamullahi warridlwan<br />&lsquo;ala man &lsquo;adhdhomal qur-an</p><p><br />Biqolbin kholishin nawa<br />muhibbin roghibil qur-an<br />muhibbin roghibil qur-an</p><p><br />Sholatullahi wa salam <br />&lsquo;ala man &ucirc;hiyal qur-an<br />Sholatullahi wa salam <br />&lsquo;ala man &ucirc;hiyal qur-an</p><p><br />Wa ahli baitihil kirom<br />wa shohbihi - hi dzawal qur-an<br />Wa ahli baitihil kirom<br />wa shohbihi - hi dzawal qur-an</p><p><br />Sholatullahi wa salam <br />&lsquo;ala man &ucirc;hiyal qur-an<br />Sholatullahi wa salam <br />&lsquo;ala man &ucirc;hiyal qur-an</p><p><br />Wa ahli baitihil kirom<br />wa shohbihi - hi dzawal qur-an<br />Wa ahli baitihil kirom<br />wa shohbihi - hi dzawal qur-an</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "MERDU A",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "MERDU A",
+      "title": "ASMAUL HUSNA",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "MERDU A",
+      "title": "KISAH SANG RASUL",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p>Rohatil athyaru tasydu<br />bi layaa lil maulidi<br />wa bariqunnu riyabdu<br />min ma&rsquo;aani Ahmadi</p><p><br />Rohatil athyaru tasydu<br />bi layaa lil maulidi<br />wa bariqunnu riyabdu<br />min ma&rsquo;aani Ahmadi</p><p><br />Wa bariqunnu riyabdu,<br />min ma&rsquo;aani Ahmadi<br />Wa bariqunnu riyabdu,<br />min ma&rsquo;aani Ahmadi<br />bi layaa lil maulidi<br />bi layaa lil maulidi</p><p><br />Abdullah nama ayahnya, Aminah ibundanya<br />Abdul muthalib kakeknya, Abu thalib pamannya<br />Khadijah istri setia, Fatimah putri tercinta<br />Semua bernasad mulia, dari Quraisy ternama</p><p><br />Inilah kisah sang Rosul yang penuh suka duka<br />Inilah kisah sang Rosul yang penuh suka duka<br />Oh penuh suka duka, oh penuh suka duka</p><p><br />8 tahun usia kakek meninggalkanya<br />Abuthalib-pun menjaga paman paling membela<br />Saat kecil penggembala dagang saat remaja<br />Umur 25 memperistri Khodijah</p><p><br />Inilah kisah sang Rosul yang penuh suka duka<br />Inilah kisah sang Rosul yang penuh suka duka<br />Oh penuh suka duka, oh penuh suka duka, oh penuh suka duka</p><p><br />Di umur ke-30 mempersatukan bangsa<br />Saat peletakkan batu Hajar Aswad mulia<br />Genap 40 tahun mendapatkan risalah<br />Ia pun menjadi Rasul Akhir para annbiya</p><p><br />Inilah kisah sang Rosul yang penuh suka duka<br />Inilah kisah sang Rosul yang penuh suka duka<br />Oh penuh suka duka, Oh penuh suka duka</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "MERDU A",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p>Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Baldatun al-Auliya<br />Baldatun al-Auliya<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Bijahi Ba &lsquo;Alawi<br />Bijahi Ba &lsquo;Alawi<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Saqqofuna waliyyun<br />Saqqofuna waliyyun<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Al-Muhdlor wal &lsquo;Aydarus<br />Al-Muhdlor wal &lsquo;Aydarus<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Al-Haddad wal &lsquo;Aththos<br />Al-Haddad wal &lsquo;Aththos<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Wa jamiil wali<br />Wa jamiil wali<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "MERDU A",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p>Ilahanaa.. Yaa Ilahanaa<br />Yasir Lanaa Umuuronaa<br />Ilahanaa.. Yaaa ilahanaa<br />Mindiininaa wadun yaanaa..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u, <br />Yaa Aliimu..<br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan<br />Waf-ta? Quluubanaa.. <br />Wafta? Quluubanaa.. <br />Ala Ta&rsquo;alumil Uluumi<br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Allah Yaa Robb.. Allah Yaa Robbi..<br />Mudahkanlah Urusan Kami<br />Agama Kami Dunia Kami<br />Wahai Allah Yang Mengetahui</p><p><br />Buka Hati Kami.. Buka Hati Kami..<br />Untuk Membaca Al Qur&rsquo;an..<br />Bacalah Al Qur&rsquo;an.. Bacalah Al Qur&rsquo;an..<br />Al Qur&rsquo;an Sumber Kehidupan..</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "MERDU A",
+      "title": "SADUNA FIDDUNYA",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal maruuf<br />Wal Athoil maluuf<br />Ghoroota lilmalhuuf<br />Innakum bihiadroo</p><p><br />Ya Uhailal mathluub<br />Wal Athoil mauhuub<br />Ghoroota lilmakruub<br />Innakum bihiadroo</p><p><br />Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal ihsaan<br />Wal Atho walghufroon<br />Ghorootal lilkhairoon<br />Innakum bihiadroo</p><p><br />Ya Uhailal Isaad<br />Wal Atho walirfaan<br />Ghoroota yaasyaad<br />Innakum bihiadroo</p><p><br />Saduu-naa fiddunyaa<br />Fauzuu-naa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "MERDU A",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/MSA.jpg",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p>Man ana man ana, man ana laulaakum</p><p><br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p><p><br />Maa siwaaya wa laa ghoirokum siwaakum<br />Laa wa man fiil mahabbah &lsquo;alayya wulaakum</p><p><br />Antum antum muroodii wa antum qoshdii<br />Laisa ahadun fiil mahabbati siwaakum &lsquo;indii</p><p><br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p><p><br />Kullamaa zaadanii fii hawaakum wajdii<br />Qultu yaa saadatii muhjatii tafdaakum<br />Lau qotho&rsquo;tum wariidii bihaddi maadlii<br />Qultu wallaahi ana fii hawaakum roodlii</p><p><br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p><p><br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "MERDU A",
+      "title": "MUHAMMAD NABINA",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p>Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p><p><br />Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p><p><br />Yaa imaamnaa, yaa amiin, ya sanad lilmuslimiin<br />Ya habiibii, ya Muhammad, yabna a&rsquo;bdillah</p><p><br />Tammatir rusaalaat tamaam, walhabiib miskil khitaam<br />Thul hayatiiwuf sholaatii badi&rsquo;i shollii waroh</p><p><br />Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p><p>&nbsp;</p><p>&nbsp;</p><p>Min awwil yuum fii u&rsquo;mrii sama&rsquo;t abuu yaa ummii<br />Biisholluu a&rsquo;layk, allahumma shollina&rsquo;layk</p><p><br />Habibnii fiil iimaan, hassisnii bil-amaan<br />Watta-a&rsquo;llaqti biih, allaahumma sholli wa sallim wa baarik a&rsquo;layh<br />Allaahumma sholli wa sallim wa baarik a&rsquo;layh</p><p><br />Nafsasyuufak fil manaam, ya Rasuulallah<br />Wabkaa a&rsquo;laa kitfak wa anaam, ya habiiballah<br />Waanuul syarof luqoo shuhbitak<br />Wa khotthii fii shuhuuf ummitak wathaamaa fiik</p><p><br />Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Yaa habiibii yaa thoha, yabghonniil mataahah<br />Ghoyyar biddunyaa fii a&rsquo;yniinaa bagna liilaw wa dhuhaahaa</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "MERDU A",
+      "title": "ITIROF",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p>Ilaahii lastu lil firdausi ahlaan<br />wa laa aqwaa alaa naaril jahiimi<br />Fa hablii taubatan waghfir zunuubii<br />fa innaka ghaafirudzdzambil azhiimi<br />Dzunuubii mitslu adaadir rimaali<br />fa hablii taubatan yaa dzaaljalaali</p><p><br />Wa umrii naaqishun fii kulli yaumi<br />wa dzambii zaa-idun kaifah timaali<br />Ilaahii abdukal aashii ataaka<br />muqirran bidzdzunuubi wa qad daaaka</p><p><br />Ilaahii lastu lil firdausi ahlaan<br />wa laa aqwaa alaa naaril jahiimi</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "MERDU A",
+      "title": "YA BADROTIM",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p>Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p>Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p>Antal-ladzi asyroq-ta fi ufuqil ula<br />Famahauta bil anwar-i kulla dlolali</p><p>Antal-ladzi asyroq-ta fi ufuqil ula<br />Famahauta bil anwar-i kulla dlolali</p><p>Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p>Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p><br />Sholla alaikallahu Robbi da-iman<br />Abadan ma&rsquo;al ibka-ri wal asholi</p><p><br />Sholla alaikallahu Robbi da-iman<br />Abadan ma&rsquo;al ibka-ri wal asholi</p><p><br />Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p><br />Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p><p><br />Ya Badrotim<br />min haza kulla kamali<br />Madza yu&rsquo;ab<br />biru an &rsquo;ulaka maqoli</p>"
+	  },
+	  {
+      "id": 18,
+      "name_category": "MERDU A",
+      "title": "YA SAYYIDI",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p>Yaa Sayyidi Yaa Rasulallaah <br />Yaa man lahul jaahu indallaah</p><p>Innal musii-iina qod ja-uuk<br />Lidz-dzanbi yastaghfiruunallaah</p><p><br />Ya sayyidar-rusli Haadinaa<br />Hayya bighaarah ilainal-an <br />Yaa Himmatas-saadaatil aqthaab <br />Ma&rsquo;aadina-shidqi was-sirri</p><p><br />Hatiku yang resah<br />Imanku yang goyah<br />Berilah hidayah<br />Bila hamba salah</p><p><br />Allaahu yaa Rohman <br />Allaahu yaa Rahim<br />Allaahumma Shalli&rsquo;alaihi wasallim</p><p>&nbsp;</p><p>Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa</p><p><br />Yaa Sayyidi Yaa Rasulallaah<br />Yaa man lahul jaahu indallaah</p><p><br />Innal musii-iina qod ja-uuk<br />Lidz-dzanbi yastaghfiruunallaah</p><p><br />Hatiku yang resah<br />Imanku yang goyah<br />Berilah hidayah<br />Bila hamba salah</p><p><br />Allaahu yaa Rohman<br />Allaahu yaa Rahim<br />Allaahumma Shalli&rsquo;alaihi wasallim<br />Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa<br />Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa</p>"
+	  },
+	  {
+      "id": 19,
+      "name_category": "MERDU A",
+      "title": "ALLAH ALLAH AGHISNA",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "MERDU A",
+      "title": "ANTAL AMIN",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "MERDU A",
+      "title": "BIL QURANI",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p>Bil qurani saamdhi<br />Aj-lu khobatsal ardhi<br />Huwa nafli huwa fardhi<br />Wa minal ayati sana faidh</p><p><br />Saua hidu ya maula<br />Filan lala qoula<br />Nashru kitabi aula<br />wa sayablughu biddunya thoula</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla<br />Wanzaa haljuurr</p><p><br />Bil qurani saamdhi<br />Aj-lu khobatsal ardhi<br />Huwa nafli huwa fardhi<br />Wa minal ayati sana faidh</p><p><br />Saua hidu ya maula<br />Filan lala qoula<br />Nashru kitabi aula<br />wa sayablughu biddunya thoula</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla<br />Wanzaa haljuurr</p>"
+	  },
+	  {
+      "id": 22,
+      "name_category": "MERDU A",
+      "title": "BIL QURANI SAAMDHI",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "MERDU A",
+      "title": "NATAWASSALBILHUBABAH",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "MERDU A",
+      "title": "QODAN SHOHA",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "MERDU A",
+      "title": "SHOLATUM MINALLAH",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "MERDU A",
+      "title": "SHOLLALLAHU ALA MUHAMMAD",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "MERDU A",
+      "title": "TAWASSUL",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p>Ya Robbana Ya Ghoffar Aqbil Sujudana<br />Warhamna Warzuqna Warfadarojatina<br />Iyyaka iyyaka natawassalu alaika<br />Innaka innaka Innaka ala kulli syaiin qadir</p><p><br />Ibadallah Ibadalah rijalallah<br />rijalallah, Aghitsuna, Aghitsuna li-ajlillah<br />Wa kunu aunana lillah<br />Asa nahdho bifadl-lillah</p><p><br />Kuatkanlah iman kami<br />Kuatkan taqwa kami<br />Berilah rahmat untuk kami<br />Angkatlah derajat kami</p><p><br />Iyyaka iyyaka natawassalu alaika<br />Innaka innaka innaka ala kulli syaiin qadir</p><p><br />Iyyaka iyyaka natawassalu alaika<br />Innaka innaka innaka ala kulli syaiin qadir</p><p>&nbsp;</p><p>Ibadallah Ibadallah rijalallah<br />rijalallah, Aghitsuna, Aghitsuna li-ajlillah<br />Wa kunu aunana lillah<br />Asa nahdho bifadl-lillah</p><p><br />Robbi yassir, Robbi yassir wala tuassir<br />tu assir, Robbi tammim Robbi tammim bil khoiri<br />Ya Hayyu Ya Qoyyumu<br />bi rohmatika astaghitsu</p><p><br />Ya Robbana Ya Ghoffar Aqbil Sujudana</p>"
+	  },
+	  {
+      "id": 28,
+      "name_category": "MERDU A",
+      "title": "YA ROBBI YA NABI NIDIK",
+      "image": "file:///android_asset/image/MSB.jpg",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
