@@ -1,0 +1,300 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "XX",
+      "main_ads_intertitial":"XX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"NULL",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "GAMBUS",
+      "image": "file:///android_asset/image/GA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "QOSIDAH",
+      "image": "file:///android_asset/image/GQ.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "GAMBUS",
+      "title": "LEMBAH DUKA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA1.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 2,
+      "name_category": "GAMBUS",
+      "title": "DUDA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA2.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 3,
+      "name_category": "GAMBUS",
+      "title": "JANGAN DULU",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA3.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 4,
+      "name_category": "GAMBUS",
+      "title": "KHAYALANKU",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA4.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 5,
+      "name_category": "GAMBUS",
+      "title": "LAILA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA5.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 6,
+      "name_category": "GAMBUS",
+      "title": "LAYANG LAYANG",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA6.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 7,
+      "name_category": "GAMBUS",
+      "title": "MR PAKONG",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA7.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 8,
+      "name_category": "GAMBUS",
+      "title": "PANGIULAN HAJI",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA8.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 9,
+      "name_category": "GAMBUS",
+      "title": "PENGANTIN BARU",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA9.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 10,
+      "name_category": "GAMBUS",
+      "title": "PILIHANKU",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA10.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 11,
+      "name_category": "GAMBUS",
+      "title": "REMBULAN DALAM PELUKAN",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA11.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 12,
+      "name_category": "GAMBUS",
+      "title": "SADARLAH HAI MATA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA12.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 13,
+      "name_category": "GAMBUS",
+      "title": "SERBA DUA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA13.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 14,
+      "name_category": "GAMBUS",
+      "title": "SUBHANAKALLAH",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA14.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 15,
+      "name_category": "GAMBUS",
+      "title": "WAHAI UMAT NABI",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA15.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 16,
+      "name_category": "GAMBUS",
+      "title": "YA ILLAHAL LAMINA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA16.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 17,
+      "name_category": "GAMBUS",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA17.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 18,
+      "name_category": "GAMBUS",
+      "title": "BULAN AMPUNAN",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA18.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 19,
+      "name_category": "GAMBUS",
+      "title": "HIKMAH PUASA",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA19.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 20,
+      "name_category": "GAMBUS",
+      "title": "KALIMATSYAHADAD",
+      "image": "file:///android_asset/image/GA.jpg",
+      "link_mp3": "mp3/BUSUBKA20.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 21,
+      "name_category": "QOSIDAH",
+      "title": "AHBABINAYAAINI",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA21.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 22,
+      "name_category": "QOSIDAH",
+      "title": "ALABALADILMAHBUB",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA22.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 23,
+      "name_category": "QOSIDAH",
+      "title": "TAUBAT",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA23.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 24,
+      "name_category": "QOSIDAH",
+      "title": "ALAIK SHOLAH",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA24.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 25,
+      "name_category": "QOSIDAH",
+      "title": "ASSALAMUALAIK YAA WAZIR",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA25.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 26,
+      "name_category": "QOSIDAH",
+      "title": "AYUHHAN NAIM",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA26.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 27,
+      "name_category": "QOSIDAH",
+      "title": "BALA DIL HASIB",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA27.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 28,
+      "name_category": "QOSIDAH",
+      "title": "BERSYUKUR",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA28.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 29,
+      "name_category": "QOSIDAH",
+      "title": "SAYANG SUNGGUH SAYANG",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA29.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 30,
+      "name_category": "QOSIDAH",
+      "title": "SHOLAWAT KELOAS",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA30.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 31,
+      "name_category": "QOSIDAH",
+      "title": "SHOLAWAT NAHNU MUSLIMUN",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA31.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  },
+	  {
+      "id": 32,
+      "name_category": "QOSIDAH",
+      "title": "TAFA DHOLU",
+      "image": "file:///android_asset/image/GQ.jpg",
+      "link_mp3": "mp3/BUSUBKA32.mp3",
+      "lyrics": "lirik belum tersedia saat ini"
+	  }
+  ]
+}
