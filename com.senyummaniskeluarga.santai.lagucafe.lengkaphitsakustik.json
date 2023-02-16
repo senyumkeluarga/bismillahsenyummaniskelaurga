@@ -1,0 +1,348 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "VIRAL",
+      "image": "file:///android_asset/image/CF.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "HITS",
+      "image": "file:///android_asset/image/CH.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "VIRAL",
+      "title": "HAMPA",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI1.mp3",
+      "lyrics": "<p>Kupejamkan mata ini<br />Mencoba 'tuk melupakan<br />Segala kenangan indah<br />Tentang dirimu<br />Tentang mimpiku</p><p><br />Semakin aku mencoba<br />Bayangmu semakin nyata<br />Merasuk hingga ke jiwa<br />Tuhan, tolonglah<br />Diriku</p><p><br />Entah di mana dirimu berada<br />Hampa terasa hidupku tanpa dirimu<br />Apakah di sana kau rindukan aku?<br />Seperti diriku yang selalu merindukanmu<br />Selalu merindukanmu</p><p><br />Tak bisa aku ingkari<br />Engkaulah satu-satunya<br />Yang bisa membuat jiwaku<br />Yang pernah mati<br />Menjadi berarti</p><p><br />Namun kini kau menghilang<br />Bagaikan ditelan bumi<br />Tak pernahkah kau sadari<br />Arti cintamu untukku?</p><p><br />Entah di mana dirimu berada<br />Hampa terasa hidupku tanpa dirimu<br />Apakah di sana selalu rindukan aku?<br />Seperti diriku yang selalu merindukanmu<br />Selalu merindukanmu</p><p><br />Entah di mana dirimu berada<br />Hampa terasa hidupku tanpa dirimu<br />Apakah di sana selalu rindukan aku?<br />Seperti diriku yang selalu merindukanmu<br />Selalu merindukanmu</p><p><br />Entah di mana dirimu berada<br />Hampa terasa hidupku tanpa dirimu<br />Apakah di sana selalu rindukan aku?<br />Seperti diriku yang selalu merindukanmu<br />Selalu merindukanmu</p><p><br />Entah di mana</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "VIRAL",
+      "title": "KANGEN",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI2.mp3",
+      "lyrics": "<p>Kutrima suratmu<br />Tlah kubaca dan aku mengerti<br />Betapa merindunya dirimu akan hadirnya diriku<br />Didalam hari-harimu<br />Bersama lagi</p><p><br />Kau tanyakan padaku<br />Kapan aku akan kembali lagi<br />Katamu kau tak kuasa<br />Melawan gejolak didalam dada<br />Yang membara menahan rasa<br />Pertemuan kita nanti<br />Saat bersama dirimu</p><p><br />Semua kata rindumu<br />Semakin membuatku tak berdaya<br />Menahan rasa ingin jumpa<br />Percayalah padaku akupun rindu kamu<br />Ku akan pulang melepas semua kerinduan<br />Yang terpendam</p><p><br />Kau tuliskan padaku<br />Kata cinta<br />Yang manis dalam suratmu<br />Kau katakan padaku<br />Saat ini<br />Kuingin hangat pelukmu<br />Dan belai lembut kasihmu<br />Takkan kulupa slamanya<br />Saat kau ada di sisiku</p><p><br />Semua kata rindumu<br />Semakin membuatku tak berdaya<br />Menahan rasa ingin jumpa<br />Percayalah padaku akupun rindu kamu<br />Ku akan pulang melepas semua kerinduan<br />Yang terpendam</p><p><br />Jangan katakan cinta<br />Menambah beban rasa<br />Sudah simpan saja sedihmu itu<br />Ku akan datang</p><p><br />Semua kata rindumu<br />Semakin membuatku tak berdaya<br />Menahan rasa ingin jumpa<br />Percayalah padaku akupun rindu kamu<br />Ku akan pulang melepas semua kerinduan<br />Yang terpendam</p><p><br />Semua kata rindumu<br />Semakin membuatku tak berdaya<br />Menahan rasa ingin jumpa<br />Percayalah padaku akupun rindu kamu<br />Ku akan pulang melepas semua kerinduan<br />Yang terpendam</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "VIRAL",
+      "title": "ANDAIKAN KAU DATANG KEMBALI",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI3.mp3",
+      "lyrics": "<p>Terlalu indah dilupakan<br />Terlalu sedih dikenangkan<br />Setelah aku jauh berjalan<br />Dan kau kutinggalkan</p><p><br />Betapa hatiku bersedih<br />Mengenang kasih dan sayangmu<br />Setulus pesanmu kepadaku<br />Engkau 'kan menunggu</p><p><br />Andaikan kau datang kemari<br />Jawaban apa yang 'kan kuberi?<br />Adakah jalan yang kautemui<br />Untuk kita kembali lagi?</p><p><br />Bersinarlah bulan purnama<br />Seindah serta tulus cintanya<br />Bersinarlah terus sampai nanti<br />Lagu ini kuakhiri</p><p><br />Betapa hatiku bersedih<br />Mengenang kasih dan sayangmu<br />Setulus pesanmu kepadaku<br />Engkau 'kan menunggu</p><p><br />Andaikan kau datang kemari<br />Jawaban apa yang 'kan kuberi?<br />Adakah jalan yang kautemui<br />Untuk kita kembali lagi?</p><p><br />Bersinarlah bulan purnama<br />Seindah serta tulus cintanya<br />Bersinarlah terus sampai nanti<br />Lagu ini kuakhiri</p><p><br />Bersinarlah bulan purnama<br />Seindah serta tulus cintanya</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "VIRAL",
+      "title": "MESIN WAKTU",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI4.mp3",
+      "lyrics": "<p>Kalau harus ku mengingatmu lagi<br />Aku takkan sanggup<br />Dengan yang terjadi pada kita</p><p><br />Jika melupakanmu hal yang mudah<br />Ini takkan berat<br />Takkan membuat hatiku lelah</p><p><br />Kalah, ku akui aku kalah<br />Cinta ini pahit dan tak harus memiliki</p><p><br />Jika aku bisa<br />Ku akan kembali<br />Ku akan merubah<br />Takdir cinta yang kupilih</p><p><br />Meskipun tak mungkin<br />Walapun ku mau<br />Bawa kamu<br />Lewat mesin waktu</p><p><br />Jika melupakanmu hal yang mudah<br />Ini takkan berat<br />Takkan membuat hatiku lelah</p><p><br />Panjang perjalanan yang harus ku lalui<br />Ku merelakanmu</p><p><br />Jika aku bisa<br />Ku akan kembali<br />Ku akan merubah<br />Takdir cinta yang kupilih</p><p><br />Meskipun tak mungkin<br />Walapun ku mau<br />Bawa kamu<br />Lewat mesin waktu</p><p><br />Jika aku bisa<br />Ku akan kembali<br />Ku akan merubah<br />Takdir cinta yang kupilih</p><p><br />Meskipun tak mungkin<br />Walapun ku mau<br />Bawa kamu<br />Lewat mesin waktu</p><p><br />Jika aku bisa<br />Ku akan kembali<br />Ku akan merubah<br />Takdir cinta yang kupilih</p><p><br />Meskipun tak mungkin<br />Walapun ku mau<br />Bawa kamu<br />Lewat mesin waktu</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "VIRAL",
+      "title": "PUPUS",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI5.mp3",
+      "lyrics": "<p>Aku tak mengerti, apa yang kurasa<br />Rindu yang tak pernah begitu hebatnya<br />Aku mencintaimu lebih dari yang kau tau<br />Meski kau takkan pernah tau</p><p><br />Aku persembahkan hidupku untukmu<br />Telah ku relakan, hatiku padamu<br />Namun kau masih bisu, diam seribu bahasa<br />Dan hati kecilku bicara</p><p><br />Baru kusadari cintaku bertepuk sebelah tangan<br />Kau buat remuk sluruh hatiku</p><p><br />Semoga aku akan memahami sisi hatimu yang beku<br />Semoga akan datang keajaiban hingga akhirnya kaupun mau<br />Aku mencintaimu lebih dari yang kau tau<br />Meski kau takkan pernah tau</p><p><br />Baru kusadari cintaku bertepuk sebelah tangan<br />Kau buat remuk sluruh hatiku</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "VIRAL",
+      "title": "ASMALIBRASI",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI6.mp3",
+      "lyrics": "<p>Asmara telah terkalibrasi frekuensi yang sama<br />Saatnya tuk mengikat janji merangkum indahnya</p><p><br />Laras rasa nihil ragu<br />Biar biarlah merayu di ruang biru<br />Bias kita jadi taksu gairah kalbu mendayu<br />Sabda diramu</p><p><br />Jadikan hanya aku satu-satunya<br />Sang garwa pambage sang pelipur lara<br />Nyanyikan ku kidung setia</p><p><br />Jadikan hanya aku satu-satunya<br />Sang garwa pambage sang pelipur lara<br />Nyanyikan ku kidung setia</p><p><br />Kini saatnya merangkai binar asmara<br />Melebur tuk satukan ego dalam indahnya</p><p><br />Berdansa dalam bahtera mahligai rasa<br />Merajut ketulusan jiwa<br />Mengabdi dalam indahnya kalbu<br />Mengukir ruang renjana selamanya</p><p><br />Jadikan hanya aku satu-satunya<br />Sang garwa pambage sang pelipur lara<br />Nyanyikan ku kidung setia</p><p><br />Jadikan hanya aku satu-satunya<br />Sang garwa pambage sang pelipur lara<br />Nyanyikan ku kidung setia</p><p><br />Asmara telah terkalibrasi<br />Jadikanku kidung setia</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "VIRAL",
+      "title": "CELENGAN RINDU",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI7.mp3",
+      "lyrics": "<p>Aku kesal dengan jarak yang sering memisahkan kita<br />Hingga aku hanya bisa berbincang denganmu di Whatsapp<br />Aku kesal dengan waktu yang tak pernah berhenti bergerak<br />Barang sejenak agar aku bisa menikmati tawamu</p><p><br />Inginku berdiri di sebelahmu menggenggam erat jari-jarimu<br />Mendengarkan lagu Sheila on 7 seperti waktu itu<br />Saat kau di sisiku</p><p><br />Dan tunggulah aku di sana memecahkan celengan rinduku<br />Berboncengan denganmu mengelilingi kota<br />Menikmati surya perlahan menghilang<br />Hingga kejamnya waktu menarik paksa kau dari pelukku<br />Lalu kita kembali menabung rasa rindu<br />Saling mengirim doa, sampai nanti, Sayangku</p><p><br />Jangan matikan HP-mu<br />Kau tahu aku benci khawatir saat kau tak mengabari<br />Aku tak suka bertanya-tanya</p><p><br />Ingin kubakar dia yang sering mention-mention-an denganmu di Twitter<br />Namun kau selalu meyakinkanku 'tuk tumbuhkan percaya<br />Bukan rasa curiga</p><p><br />Dan tunggulah aku di sana memecahkan celengan rinduku<br />Berboncengan denganmu mengelilingi kota<br />Menikmati surya perlahan menghilang<br />Hingga kejamnya waktu menarik paksa kau dari pelukku<br />Lalu kita kembali menabung rasa rindu<br />Saling mengirim doa, sampai nanti, Sayangku</p><p><br />Hingga kita bertemu</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "VIRAL",
+      "title": "KISAH SEMPURNA",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI8.mp3",
+      "lyrics": "<p>Tenggelam, jiwaku dalam angan<br />Tersesat, hilang dan tak tau arah<br />Ku terjebak, di masa lalu yang kelam<br />Tak kulihat lagi cahaya cinta</p><p><br />Dan kamu hadir coba bawa bahagia<br />Ketika ku masih mati rasa<br />Karena...</p><p><br />Dia yang pertama membuatku cinta<br />Dia juga yang pertama membuatku kecewa<br />Kamu yang pertama, menyembuhkan luka<br />Tak ingin lagi ku mengulang, keliru akan cinta<br />Jadi kisah yang sempurna</p><p>Tenggelam, jiwaku dalam angan<br />Tak kulihat lagi cahaya cinta<br />Dan kamu hadir coba bawa bahagia<br />Ketika ku masih mati rasa<br />Karena...</p><p><br />Dia yang pertama membuatku cinta<br />Dia juga yang pertama membuatku kecewa<br />Kamu yang pertama, menyembuhkan luka<br />Tak ingin lagi ku mengulang, keliru akan cinta<br />Jadi kisah yang sempurna</p><p><br />Tuhan yakinkan cinta ini<br />Hati yang terkunci terbuka kembali</p><p><br />Dia yang pertama membuatku cinta<br />Dia juga yang pertama membuatku kecewa<br />Kamu yang pertama, menyembuhkan luka<br />Tak ingin lagi ku mengulang, keliru akan cinta<br />(Dia yang pertama membuatku cinta)<br />Dia juga pertama membuatku kecewa<br />(Dia yang pertama) Kamu yang sembuhkan luka<br />(Tak ingin lagi ku mengulang keliru)<br />Kamu untuk selamanya</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "VIRAL",
+      "title": "KISAH KLASIK",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI9.mp3",
+      "lyrics": "<p>Jabat tanganku, mungkin untuk yang terakhir kali<br />Kita berbincang tentang memori di masa itu<br />Peluk tubuhku usapkan juga air mataku<br />Kita terharu seakan tidak bertemu lagi</p><p><br />Bersenang-senanglah<br />Karna hari ini yang kan kita rindukan<br />Di hari nanti sebuah kisah klasik untuk masa depan<br />Bersenang-senanglah<br />Karna waktu ini yang kan kita banggakan di hari tua</p><p><br />[Chorus:]<br />Sampai jumpa kawanku<br />Smoga kita selalu<br />Menjadi sebuah kisah klasik untuk masa depan<br />Sampai jumpa kawanku<br />Smoga kita selalu<br />Menjadi sebuah kisah klasik untuk masa depan</p><p><br />Bersenang-senanglah<br />Karna hari ini yang kan kita rindukan<br />Di hari nanti...</p><p><br />[Chorus]</p><p>Mungkin diriku masih ingin bersama kalian<br />Mungkin jiwaku masih haus sanjungan kalian</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "VIRAL",
+      "title": "KOTA",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI10.mp3",
+      "lyrics": "<p>Di kota ini sehabis hujan<br />Desember yang lalu<br />Di kota ini dalam ruangan<br />Berpenyejuk udara</p><p><br />Kau dan wangimu bersanding dengan<br />Riuh angin diluar</p><p><br />Udara mana kini yang kau hirup?<br />Hujan dimana kini yang kau peluk?<br />Dimana pun kau kini<br />Rindu tentangmu tak pernah pergi</p><p><br />Dijalan ini menguning langit<br />Berkendara denganmu<br />Tajam mentari menembus pelan<br />Bening teduh matamu</p><p><br />Kau dan wangimu berpadu utuh<br />Tabungan kelak rindu</p><p><br />Udara mana kini yang kau hirup?<br />Hujan dimana kini yang kau peluk?<br />Dimana pun kau kini, hmm<br />Rindu tentangmu tak pernah pergi<br />Udara mana kini yang kau hirup?<br />Hujan dimana kini yang kau peluk?<br />Dimana pun kau kini, uh-uuh<br />Rindu tentangmu tak pernah pergi<br />Rindu tentangmu tak pernah pergi</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "VIRAL",
+      "title": "TAKUT",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI11.mp3",
+      "lyrics": "<p>Sudah di kepala dua<br />Harus mulai dari mana?<br />Ambisiku bergejolak<br />Antusias tak karuan<br />Banyak mimpi, mimpi yang kan kukejar</p><p><br />Lika-liku perjalanan<br />Ku terjebak sendirian<br />Tumbuh dari kebaikan<br />Bangkit dari kesalahan<br />Berusaha pendamkan kenyataan bahwa</p><p><br />Takut tambah dewasa<br />Takut aku kecewa<br />Takut tak seindah yang kukira</p><p><br />Takut tambah dewasa<br />Takut aku kecewa<br />Takut tak sekuat yang kukira</p><p><br />Aku tetap bernafas<br />Meski sering tercekat<br />Aku tetap bernafas<br />Meski aku tak merasa bebas</p><p><br />Pertengahan dua lima<br />Selanjutnya bagaimana?<br />Banyak mimpi yang terkubur<br />Mengorbankan waktu tidur<br />Ku tak tahu apalagi yang kan kukejar</p><p><br />Takut tambah dewasa<br />Takut aku kecewa<br />Takut tak seindah yang kukira</p><p><br />Takut tambah dewasa<br />Takut aku kecewa<br />Takut tak sekuat yang kukira</p><p><br />Aku tetap bernafas<br />Meski sering tercekat<br />Aku tetap bernafas<br />Meski aku tak merasa bebas</p><p><br />Maaf jika<br />Belum seturut yang dipinta<br />Maaf jika<br />Seperti tak tahu arah</p><p><br />Aku sudah dewasa<br />Aku sudah kecewa<br />Memang tak seindah yang kukira</p><p><br />Aku sudah dewasa<br />Aku sudah kecewa<br />Memang tak sekuat yang kukira</p><p><br />Aku tetap bernafas<br />Meski sering tercekat<br />Aku tetap bernafas<br />Meski aku tak merasa bebas</p><p><br />(Takut tambah dewasa<br />Takut aku kecewa<br />Takut tak seindah yang kukira)<br />Memang tak seindah yang kukira</p><p><br />(Takut tambah dewasa<br />Takut aku kecewa<br />Takut tak sekuat yang kukira)<br />Memang tak sekuat yang kukira</p><p><br />Engkau tetap bernafas<br />Meski sering tercekat<br />Engkau tetap bernafas<br />Dan langkahmu kan terasa bebas<br />Dan hatimu kan terasa bebas<br />Dan jiwamu kan terasa bebas</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "VIRAL",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI12.mp3",
+      "lyrics": "<p>Apalah arti cinta yang indah<br />Apalah arti cinta dan sayang<br />Slalu terhalang masalah lama<br />Tentang rasa percaya</p><p><br />Hati yang kujaga slalu<br />Untuk dirimu yang mengeluh<br />Tentang pribadi yang slalu salah<br />Di pandanganmu sayang</p><p><br />Tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan slalu menjagamu<br />Hingga akhir hidupku</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu kau terlalu jauh<br />Sebenarnya aku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu</p><p><br />tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan selalu menjagamu</p><p>&nbsp;</p><p>Malam bantu aku luluhkan dia (luluhkan dia)<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p>&nbsp;</p><p>Sebenarnya aku tak seburuk itu diriku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu<br />Semata karna ku tak mampu hidup tanpamu</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "VIRAL",
+      "title": "SESUATU DIJOGJA",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI13.mp3",
+      "lyrics": "<p>Hey cantik, coba kau catat<br />Keretaku tiba pukul empat sore<br />Tak usah kau tanya aku ceritakan nanti</p><p><br />Hey cantik, kemana saja?<br />Tak ada berita, sedikit cerita<br />Tak kubaca lagi pesan di ujung malam</p><p><br />Dan Jakarta muram kehilanganmu<br />Terang lampu kota tak lagi sama</p><p><br />Sudah saatnya kau tengok puing yang tertinggal<br />Sampai kapan akan selalu berlari?<br />Hingga kini masih selalu ku nanti-nanti</p><p><br />Terbawa lagi langkahku ke sana<br />Mantra apa entah yang istimewa<br />Ku percaya selalu ada sesuatu di Jogja</p><p><br />Dengar lagu lama ini katanya<br />Izinkan aku pulang ke kotamu<br />Ku percaya selalu ada sesuatu di Jogja</p><p><br />Hey cantik, bawa aku jalan<br />Jalan kaki saja menyusuri kota<br />Ceritakan semua, ceritamu padaku</p><p><br />Ya Jakarta diam kehilanganmu<br />Bau wangi hujan tak lagi sama</p><p><br />Sudah saatnya kau jemput musik yang tertinggal<br />Sampai kapan aku kan bernyanyi sendiri?<br />Hingga kini masih selalu menanti-nanti</p><p><br />Terbawa lagi langkahku ke sana<br />Mantra apa entah yang istimewa<br />Ku percaya selalu ada sesuatu di Jogja</p><p><br />Dengar lagu lama ini katanya<br />Izinkan aku pulang ke kotamu<br />Ku percaya selalu ada sesuatu di Jogja</p><p><br />Ingat waktu itu ku bertanya<br />Aku mau dengar jawabnya</p><p><br />Terbawa lagi langkahku ke sana<br />Mantra apa entah yang istimewa<br />Ku percaya selalu ada sesuatu di Jogja</p><p><br />Dengar lagu lama ini katanya<br />Izinkan aku pulang ke kotamu<br />Ku percaya selalu ada sesuatu di Jogja</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "VIRAL",
+      "title": "RUNTUH",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI14.mp3",
+      "lyrics": "<p>Ku terbangun lagi<br />Diantara sepi hanya pikiran yang ramai<br />Mengutuki diri<br />Tak bisa kembali tuk mengubah alur kisah</p><p><br />Ketika mereka meminta tawa<br />Ternyata rela tak semudah kata</p><p><br />Tak perlu khawatir ku hanya terluka<br />Terbiasa tuk pura pura tertawa<br />Namun bolehkah skali saja ku menangis<br />Sebelum kembali membohongi diri</p><p><br />Ketika kau lelah<br />Berhentilah dulu, beri ruang, beri waktu<br />Mereka bilang syukurilah saja<br />Padahal rela tak semudah kata</p><p><br />Tak perlu khawatir ku hanya terluka<br />Terbiasa tuk pura pura tertawa<br />Namun bolehkah skali saja ku menangis<br />Sebelum kembali membohongi diri</p><p><br />Ha ha ha aaa<br />Ha ha ha aaa<br />Ha ha ha aaaa</p><p><br />Kita hanyalah manusia yang terluka<br />Terbiasa tuk pura pura tertawa<br />Namun bolehkah skali saja ku menangis<br />Ku tak ingin lagi membohongi diri<br />Ku ingin belajar menerima diri</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "VIRAL",
+      "title": "RUMAH SINGGAH",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI15.mp3",
+      "lyrics": "<p>Saat hatimu terluka<br />Aku lah yang menemanimu<br />Membasuh air matamu</p><p><br />Namun mengapa ketika<br />Hatimu telah tersenyum lagi<br />Aku yang kau lupa</p><p><br />Tak sadarkah selama ini<br />Ku juga selalu menginginkanmu</p><p><br />Mengapa sulit untuk ku bisa miliki hatimu<br />Bahkan selama ini hadirku tak berharga untukmu<br />Yang terjadi kini ku hanya rumah persinggahanmu<br />Di saat kau terluka<br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p><p><br />Jika memang ini tak ada harapan<br />Mengapa aku yang harus jadi tujuan<br />Saat hatimu terluka<br />Aku yang jadi obatnya<br />Tanpa pernah kau hargai<br />Cinta dan kasih yang setulus ini</p><p><br />Mengapa sulit (mengapa sulit) untuk ku bisa miliki hatimu<br />Bahkan selama ini hadirku tak berharga untukmu<br />Yang terjadi kini ku hanya rumah persinggahanmu<br />Di saat kau terluka<br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p><p><br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "VIRAL",
+      "title": "PERGLAH KASIH",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI16.mp3",
+      "lyrics": "<p>Tak pernah kusangka ini terjadi<br />Kisah cinta yang suci ini<br />Kautinggalkan begitu saja<br />Sekian lamanya kita berdua</p><p><br />Tak kusangka begitu cepat berlalu<br />Tuk mencari kesombongan diri<br />Lupa sgala yang pernah kau ucapkan<br />Kautinggalkan daku</p><p><br />Pergilah kasih<br />Kejarlah keinginanmu<br />Selagi masih ada waktu<br />Jangan hiraukan diriku<br />Aku rela berpisah demi untuk dirimu<br />Smoga tercapai sgala keinginanmu</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "VIRAL",
+      "title": "CINTA TAK HARUS MEMILIKI",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "VIRAL",
+      "title": "WAKTU YANG SALAH",
+      "image": "file:///android_asset/image/CF.jpg",
+      "link_mp3": "mp3/KUSLATAI18.mp3",
+      "lyrics": "<p>Jangan tanyakan perasaanku jika kau pun tak bisa beralih<br />Dari masa lalu yang menghantuimu, karena sungguh ini tidak adil<br />Bukan maksudku menyakitimu, namun tak mudah 'tuk melupakan<br />Cerita panjang yang pernah aku lalui, tolong yakinkan saja raguku</p><p><br />Pergi saja engkau pergi dariku, biar kubunuh perasaan untukmu<br />Meski berat melangkah, hatiku hanya tak siap terluka<br />Beri kisah kita sedikit waktu, semesta mengirim dirimu untukku<br />Kita adalah rasa yang tepat di waktu yang salah</p><p><br />Hidup memang sebuah pilihan, tapi hati bukan 'tuk dipilih<br />Bila hanya setengah dirimu hadir dan setengah lagi untuk dia</p><p><br />Pergi saja engkau pergi dariku, biar kubunuh perasaan untukmu<br />Meski berat melangkah, hatiku hanya tak siap terluka<br />Beri kisah kita sedikit waktu, semesta mengirim dirimu untukku<br />Kita adalah rasa yang tepat di waktu yang salah</p><p><br />Bukan ini yang ku mau<br />Lalu untuk apa kau datang?<br />Rindu tak bisa diatur<br />Kita tak pernah mengerti<br />Kau dan aku menyakitkan</p><p><br />Pergi saja engkau pergi dariku, biar kubunuh perasaan untukmu<br />Meski berat melangkah, hatiku hanya tak siap terluka<br />Beri kisah kita sedikit waktu, semesta mengirim dirimu untukku<br />Kita adalah rasa yang tepat di waktu yang salah<br />Di waktu yang salah</p>"
+	  },
+	  {
+      "id": 19,
+      "name_category": "HITS",
+      "title": "AKU CINTA KAU APA ADANYA",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "HITS",
+      "title": "AKU INGIN",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI20.mp3",
+      "lyrics": "<p>Kau boleh acuhkan diriku<br />Dan anggap ku tak ada<br />Tapi takkan merubah perasaanku<br />Kepadamu</p><p><br />Kuyakin pasti suatu saat<br />Semua kan terjadi<br />Kau kan mencintaiku<br />Dan tak akan pernah melepasku</p><p><br />Aku mau mendampingi dirimu<br />Aku mau cintai kekuranganmu<br />Selalu bersedia bahagiakanmu<br />Apapun terjadi<br />Kujanjikan aku ada</p><p><br />Kau boleh jauhi diriku<br />Namun kupercaya<br />Kau kan mencintaiku<br />Dan tak akan pernah melepasku</p><p><br />Aku mau mendampingi dirimu<br />Aku mau cintai kekuranganmu<br />Selalu bersedia bahagiakanmu<br />Apapun terjadi<br />Kujanjikan aku ada<br />Aku mau mendampingi dirimu<br />Aku mau cintai kekuranganmu<br />Aku yang rela terluka<br />Untukmu selalu</p>"
+	  },
+	  {
+      "id": 21,
+      "name_category": "HITS",
+      "title": "AKU MILIKMU MALAM INI",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "HITS",
+      "title": "BEBASKAN DIRIKU",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "HITS",
+      "title": "BERTAUT",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI23.mp3",
+      "lyrics": "<p>Bun, hidup berjalan seperti bajingan<br />Seperti landak yang tak punya teman<br />Ia menggonggong bak suara hujan<br />Dan kau pangeranku, mengambil peran</p><p><br />Bun, kalau saat hancur ku disayang<br />Apalagi saat ku jadi juara<br />Saat tak tahu arah kau di sana<br />Menjadi gagah saat ku tak bisa</p><p><br />Sedikit ku jelaskan tentang ku dan kamu<br />Agar seisi dunia tau</p><p><br />Keras kepala ku sama denganmu<br />Cara ku marah cara ku tersenyum<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karna denganmu<br />Aku masih ada sampai disini<br />Melihatmu kuat setengah mati<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karna denganmu</p><p><br />Bun aku masih tak mengerti banyak hal<br />Semua nya berenang di kepala<br />Dan kau dan semua yang kau tau tentangnya<br />Menjadi jawab saat ku bertanya</p><p><br />Sedikit ku jelaskan tentang ku dan kamu<br />Agar seisi dunia tau</p><p><br />Keras kepala ku sama denganmu<br />Cara ku marah cara ku tersenyum<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karna denganmu<br />Aku masih ada sampai disini<br />Melihatmu kuat setengah mati<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karna denganmu</p><p><br />Semoga lama hidupmu disini<br />Melihatku berjuang sampai akhir<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karna denganmu</p>"
+	  },
+	  {
+      "id": 24,
+      "name_category": "HITS",
+      "title": "HANYA RINDU",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI24.mp3",
+      "lyrics": "<p>Saat Ku Sendiri, kulihat photo dan video<br />Bersamamu yang tlah lama kusimpan<br />Hancur hati ini melihat semua gambar diri<br />Yang tak bisa ku<br />Ku ulang kembali</p><p><br />Kuingin saat ini, engkau ada di sini<br />Tertawa bersamaku, seperti dulu lagi<br />Walau hanya sebentar, Tuhan tolong kabulkanlah<br />Bukannya diri ini tak terima kenyataan<br />Hati Ini Hanya Rindu</p><p><br />Segala cara telah kucoba<br />Agar aku bisa tanpa dirimu<br />Namun semua, berbeda<br />Sulitku menghapus kenangan bersamamu</p><p><br />Kuingin saat ini, engkau ada di sini<br />Tertawa bersamaku, seperti dulu lagi<br />Walau hanya sebentar, Tuhan tolong kabulkanlah<br />Bukan diri ini tak terima kenyataan<br />Hati Ini Hanya Rindu<br />Hanya Rindu</p><p><br />Kuingin saat ini, engkau ada di sini<br />Tertawa bersamaku, seperti dulu lagi<br />Walau hanya sebentar, Tuhan tolong kabulkanlah<br />Bukannya diri ini tak terima kenyataan<br />Bukannya diri ini tak terima kenyataan<br />Hati Ini Hanya Rindu<br />Hati Ini Hanya Rindu<br />Kurindu senyummu Ibu</p>"
+	  },
+	  {
+      "id": 25,
+      "name_category": "HITS",
+      "title": "KAU RUMAHKU",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "HITS",
+      "title": "KAU TERCIPTA BUKAN UNTUKKU",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "HITS",
+      "title": "KEHADIRANMU",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "HITS",
+      "title": "KEKASIH BAYANGAN",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "HITS",
+      "title": "KUKIRA KAU RUMAH",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI29.mp3",
+      "lyrics": "<p>Kau datang tatkala<br />Sinar senjaku telah redup<br />Dan pamit ketika<br />Purnamaku penuh seutuhnya</p><p><br />Kau yang singgah tapi tak sungguh<br />Kau yang singgah tapi tak sungguh</p><p><br />Kukira kau rumah<br />Nyatanya kau cuma aku sewa<br />Dari tubuh seorang perempuan<br />Yang memintamu untuk pulang</p><p><br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah</p><p><br />Kukira kau rumah<br />Nyatanya kau cuma aku sewa<br />Dari tubuh seorang perempuan<br />Yang memintamu untuk pulang</p><p><br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah</p><p><br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah</p>"
+	  },
+	  {
+      "id": 30,
+      "name_category": "HITS",
+      "title": "MUAK",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "HITS",
+      "title": "MUNGKIN HARI ESOK ATAU NANTI",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI31.mp3",
+      "lyrics": "<p>Kuhampiri jalan yang kita lewati<br />Setiap hari kita di sini<br />Kumenanti hadirmu tuk kembali<br />Hanyalah kenangan yang tersisa di sini<br />Namun skarang kau tlah pergi dan kuyakini kau takkan kembali</p><p><br />Mungkin hari ini hari esok atau nanti<br />Berjuta memori yang terpatri dalam hati ini<br />Mungkin hari ini hari esok atau nanti<br />Tak lagi saling menyapa meski ku masih harapkanmu</p><p><br />Kumenanti hadirmu tuk kembali<br />Hanya kenangan yg tersisa di sini<br />(Namun skarang)<br />Namun skarang kau tlah pergi dan kuyakini kau takkan kembali</p><p><br />Mungkin hari ini hari esok atau nanti<br />Berjuta memori yang terpatri dalam hati ini<br />Mungkin hari ini hari esok atau nanti<br />Tak lagi saling menyapa meski ku masih harapkanmu</p><p><br />Sesungguhnya hatiku tak sanggup menerima dan lupakan sgalanya</p><p><br />Mungkin hari ini hari esok atau nanti<br />Berjuta memori yang terpatri dalam hati ini<br />Mungkin hari ini hari esok atau nanti<br />Tak lagi saling menyapa meski ku masih harapkanmu (Harapkanmu) oh...<br />Meski ku masih harapkanmu oh...<br />Kurelakanmu</p>"
+	  },
+	  {
+      "id": 32,
+      "name_category": "HITS",
+      "title": "PERAHU KERTAS",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI32.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "HITS",
+      "title": "RESAH JADI LUKA",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI33.mp3",
+      "lyrics": "<p>Ku menemukanmu saat ku terjebak<br />Di situasi yang membuatku resah<br />Kau merangkulku di saat yang lain menindasku<br />Ingin rasanya aku selalu bersamamu</p><p><br />Tapi mengapa tiba-tiba seakan kau pergi<br />Melepas rangkulanmu dan berhenti melindungiku tanpa sebab</p><p><br />Mungkin alam semesta tak menerimanya<br />Dan waktu tak memberi kesempatannya<br />Tapi setidaknya kau telah merubahku<br />Dari resah menjadi luka</p><p><br />Ku menemukanmu saat aku terjatuh<br />Ke dalam ruang yang penuh kepahitan<br />Kau melindungiku di saat yang lain menyerangku<br />Ingin rasanya aku melihatmu di setiap langkahku</p><p><br />Tapi mengapa tiba-tiba seakan kau pergi<br />Melepas rangkulanmu dan berhenti melindungiku tanpa sebab</p><p><br />Mungkin alam semesta tak menerimanya<br />Dan waktu tak memberi kesempatannya<br />Tapi setidaknya kau telah merubahku<br />Dari resah menjadi luka ah</p><p><br />Namun aku akan tetap disini<br />Menunggu alam semesta menerima<br />Dan angin membawakan jawabannya<br />Karena detak jantung dan nadiku akan selalu<br />Merindukanmu</p>"
+	  },
+	  {
+      "id": 34,
+      "name_category": "HITS",
+      "title": "SELAMAT",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI34.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 35,
+      "name_category": "HITS",
+      "title": "TAK INGIN USAI",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI35.mp3",
+      "lyrics": "<p>Berdiri ku memutar waktu<br />Teringat kamu yang dulu<br />Ada disampingku setiap hari<br />Jadi sandaran ternyaman<br />Saat ku lemah saat ku lelah</p><p><br />Tersadar kutinggal sendiri<br />Merenungi semua yang tak mungkin<br />Bisa kuputarkan kembali seperti dulu<br />Kubahagia tapi semuanya hilang, tanpa sebab<br />Kau hentikan semuanya</p><p><br />Terluka dan menangis tapi kuterima<br />Semua keputusan yang telah kau buat<br />Satu yang harus kau tahu<br />Ku menanti kau tuk kembali</p><p><br />Jujur ku tak ingin engkau pergi<br />Tinggalkan semua usai disini<br />Tak tertahan air mata ini<br />Mengingat semua yang tlah terjadi</p><p><br />Kutahu kau pun sama sperti aku<br />Tak ingin cinta usai disini<br />Tapi mungkin inilah jalannya<br />Harus berpisah</p><p><br />Terluka dan menangis tapi kuterima<br />Semua keputusan yang telah kau buat<br />Satu yang harus kau tahu<br />Ku menanti kau tuk kembali</p><p><br />(Jujur ku tak ingin engkau pergi<br />Tinggalkan semua usai disini)<br />Tinggalkan semua usai disini<br />(Tak tertahan air mata ini<br />Mengingat semua yang tlah terjadi)</p><p><br />Ku tahu kaupun sama sperti aku<br />Tak ingin cinta usai disini<br />Tapi mungkin inilah jalannya<br />Harus berpisah</p><p><br />Berharap suatu saat nanti<br />Kau dan aku kan bertemu lagi<br />Sperti yang kau ucapkan<br />Sebelum kau tinggalkan aku</p>"
+	  },
+	  {
+      "id": 36,
+      "name_category": "HITS",
+      "title": "TAK AKAN HILANG",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI36.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 37,
+      "name_category": "HITS",
+      "title": "TUNGGU AKU DIJAKARTA",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI37.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 38,
+      "name_category": "HITS",
+      "title": "SELURUH NAFAS INI",
+      "image": "file:///android_asset/image/CH.jpg",
+      "link_mp3": "mp3/KUSLATAI39.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
