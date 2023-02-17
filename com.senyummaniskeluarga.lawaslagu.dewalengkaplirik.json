@@ -1,0 +1,260 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DEWA A",
+      "image": "file:///android_asset/image/DA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DEWA B",
+      "image": "file:///android_asset/image/DB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DEWA A",
+      "title": "KANGEN",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA1.mp3",
+      "lyrics": "<p>Kutrima suratmu<br />Tlah kubaca dan aku mengerti<br />Betapa merindunya dirimu akan hadirnya diriku<br />Didalam hari-harimu<br />Bersama lagi</p><p><br />Kau tanyakan padaku<br />Kapan aku akan kembali lagi<br />Katamu kau tak kuasa<br />Melawan gejolak didalam dada<br />Yang membara menahan rasa<br />Pertemuan kita nanti<br />Saat bersama dirimu</p><p><br />Semua kata rindumu<br />Semakin membuatku tak berdaya<br />Menahan rasa ingin jumpa<br />Percayalah padaku akupun rindu kamu<br />Ku akan pulang melepas semua kerinduan<br />Yang terpendam</p><p><br />Kau tuliskan padaku<br />Kata cinta<br />Yang manis dalam suratmu<br />Kau katakan padaku<br />Saat ini<br />Kuingin hangat pelukmu<br />Dan belai lembut kasihmu<br />Takkan kulupa slamanya<br />Saat kau ada di sisiku</p><p><br />Semua kata rindumu<br />Semakin membuatku tak berdaya<br />Menahan rasa ingin jumpa<br />Percayalah padaku akupun rindu kamu<br />Ku akan pulang melepas semua kerinduan<br />Yang terpendam</p><p><br />Jangan katakan cinta<br />Menambah beban rasa<br />Sudah simpan saja sedihmu itu<br />Ku akan datang</p><p><br />Semua kata rindumu<br />Semakin membuatku tak berdaya<br />Menahan rasa ingin jumpa<br />Percayalah padaku akupun rindu kamu<br />Ku akan pulang melepas semua kerinduan<br />Yang terpendam</p><p><br />Semua kata rindumu<br />Semakin membuatku tak berdaya<br />Menahan rasa ingin jumpa<br />Percayalah padaku akupun rindu kamu<br />Ku akan pulang melepas semua kerinduan<br />Yang terpendam</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "DEWA A",
+      "title": "KIRANA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA2.mp3",
+      "lyrics": "<p>Kucoba memahami tempatku berlabuh<br />Terdampar dikeruhnya satu sisi dunia<br />Hadir dimuka bumi tak tersaji indah<br />Kuingin rasakan cinta</p><p><br />Lusuh lalu tercipta mendekap diriku<br />Hanya usung sahaja kudamba kirana<br />Ratapan mulai usang nur yang kumohon<br />Kuingin rasakan cinta<br />Manis seperti mereka</p><p><br />Ayah bunda tercinta satu yang tersisa<br />Mengapa kau tiupkan nafasku kedunia<br />Hidup tak kusesali mungkin kutangisi<br />Kuingin rasakan cinta</p><p><br />Peluhkupun mengering menanti jawabmu<br />Takkan pernah usai cintaku padamu<br />Hanya kata yang lugas yang kini tercipta<br />Kuingin rasakan cinta</p><p><br />Smakin jauh kumelangkah<br />Smakin perih jejak langkahku<br />Harikupun semakin sombong<br />Meski hidup terus berjalan terus berjalan</p><p><br />Kirana jamah aku jamahlah rinduku<br />Hanya wangi terurai yang dapat kucumbu</p><p><br />Ayah bunda tercinta satu yang tersisa<br />Mengapa kau tiupkan nafasku kedunia<br />Hidup tak kusesali mungkin kutangisi<br />Kuingin rasakan cinta</p><p><br />Manis seperti mereka<br />Tulus seperti adanya<br />Suci seperti dirimu<br />Ingin rasakan cintamu</p><p><br />Kirana jamah aku jamahlah rinduku<br />Takkan pernah usai cintaku padamu<br />Hanya kata yang lugas yang kini tersisa<br />Kuingin rasakan cinta</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "DEWA A",
+      "title": "PUPUS",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA3.mp3",
+      "lyrics": "<p>Aku tak mengerti, apa yang kurasa<br />Rindu yang tak pernah begitu hebatnya<br />Aku mencintaimu lebih dari yang kau tau<br />Meski kau takkan pernah tau</p><p><br />Aku persembahkan hidupku untukmu<br />Telah ku relakan, hatiku padamu<br />Namun kau masih bisu, diam seribu bahasa<br />Dan hati kecilku bicara</p><p><br />Baru kusadari cintaku bertepuk sebelah tangan<br />Kau buat remuk sluruh hatiku</p><p><br />Semoga aku akan memahami sisi hatimu yang beku<br />Semoga akan datang keajaiban hingga akhirnya kaupun mau<br />Aku mencintaimu lebih dari yang kau tau<br />Meski kau takkan pernah tau</p><p><br />Baru kusadari cintaku bertepuk sebelah tangan<br />Kau buat remuk sluruh hatiku</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "DEWA A",
+      "title": "HADAPI DENGAN SENYUMAN",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA4.mp3",
+      "lyrics": "<p>Hadapi dengan senyuman<br />Semua yang terjadi biar terjadi<br />Hadapi dengan tenang jiwa<br />Semua kan baik-baik saja</p><p><br />Bila ketetapan tuhan<br />Sudah ditetapkan, tetaplah sudah<br />Tak ada yang bisa merubah<br />Dan takkan bisa berubah</p><p><br />Relakanlah saja ini<br />Bahwa semua yang terbaik<br />Terbaik untuk kita semua<br />Menyerahlah untuk menang</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "DEWA A",
+      "title": "RISALAH HATI",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA5.mp3",
+      "lyrics": "<p>Hidupku tanpa cintamu<br />Bagai malam tanpa bintang<br />Cintaku tanpa sambutmu<br />Bagai panas tanpa hujan<br />Jiwaku berbisik lirih<br />Kuharus memilikimu</p><p><br />Aku bisa membuatmu<br />Jatuh cinta kepadaku<br />Meski kau tak cinta kepadaku<br />Beri sedikit waktu<br />Biar cinta datang karena telah terbiasa</p><p><br />Simpan mawar yang kuberi<br />Mungkin wanginya mengilhami<br />Sudikah dirimu untuk kenali aku dulu<br />Sebelum kau ludahi aku<br />Sebelum kau robek hatiku</p><p><br />Aku bisa membuatmu<br />Jatuh cinta kepadaku<br />Meski kau tak cinta kepadaku<br />Beri sedikit waktu<br />Biar cinta datang karena telah terbiasa</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "DEWA A",
+      "title": "SEPARUH NAFASKU",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA6.mp3",
+      "lyrics": "<p>Separuh nafas ku terbang<br />Bersama dirimu<br />Saat kau tinggalkanku<br />Salahkanku</p><p><br />Salahkah aku<br />Bila aku bukanlah<br />Seperti aku yang dahulu</p><p><br />Ada makna tergali dari sini<br />Dari pertikaian yang terjadi</p><p><br />Kau hancurkan diriku<br />Bila kau tinggalkan aku<br />Kau dewiku<br />Kembalilah padaku<br />Bawa separuh nafasku<br />Kau dewiku</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "DEWA A",
+      "title": "CINTA KAN MEMBAWAMU",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA7.mp3",
+      "lyrics": "<p>Tiba saat mengerti<br />Jerit suara hati<br />Letih meski mencoba<br />Menaklukkan<br />Rasa yang ada<br />Mohon tinggal sejenak<br />Lupakanlah waktu<br />Temani air mataku<br />Teteskan lara<br />Merajut asa<br />Menjalin mimpi<br />Endapkan sepi-sepi</p><p><br />Cinta 'kan membawamu kembali di sini<br />Menuai rindu, membasuh perih<br />Bawa serta dirimu, dirimu yang dulu<br />Mencintaiku apa adanya</p><p><br />Saat dusta mengalir<br />Jujurkanlah hati<br />Genangkan batin jiwamu<br />Genangkan cinta<br />Seperti dulu<br />Saat bersama<br />Tak ada keraguan</p><p><br />Cinta 'kan membawamu kembali di sini<br />Menuai rindu, membasuh perih<br />Bawa serta dirimu, dirimu yang dulu<br />Mencintaiku apa adanya</p><p><br />Cinta 'kan membawamu kembali di sini<br />Menuai rindu, membasuh perih<br />Bawa serta dirimu, dirimu yang dulu<br />Mencintaiku apa adanya</p><p><br />Cinta 'kan membawamu kembali di sini<br />Menuai rindu, membasuh perih</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "DEWA A",
+      "title": "DEWI",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA8.mp3",
+      "lyrics": "<p>Dewi aku mohon<br />Beri kesempatan<br />Tuk bisa menebus dosaku kepadamu</p><p><br />Maafkanlah aku yang menyakitimu<br />Aku tidak pernah menyangka bisa begini</p><p><br />Oh Dewi<br />Dengarkanlah<br />Dewi<br />Kaulah hidupku<br />Aku cinta padamu sanpai mati</p><p><br />Dewi<br />Belah lah dadaku<br />Agar kau tahu<br />Agar kau mengerti</p><p><br />Semua terjadi begitu saja<br />Tak ada serius antara dia dan aku<br />Tidak cinta dan tak ada hati<br />Hanya karena aku lelaki dan dia wanita</p><p><br />Oh Dewi<br />Dengarkanlah</p><p><br />Dewi<br />Kaulah hidupku<br />Aku cinta padamu sanpai mati</p><p><br />Dewi<br />Belah lah dadaku<br />Agar kau tahu<br />Agar kau mengerti</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "DEWA A",
+      "title": "ELANG",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA9.mp3",
+      "lyrics": "<p>Aku ingin terbang tinggi<br />Seperti elang<br />Melewati siang malam<br />Menembus awan</p><p><br />Ini tanganku untuk kau genggam<br />Ini tubuhku untuk kau peluk<br />Ini bibirku untuk kau cium<br />Tapi tak bisa kau miliki aku</p><p><br />Tak usah kau terus tangisi kepergianku<br />Air mata takkan memanggilku<br />Untuk kembali</p><p><br />Aku adalah mimpi - mimpi sedang melintasi<br />Sang perawan yang bermain dengan perasaan</p><p><br />Ini tanganku untuk kau genggam<br />Ini tubuhku untuk kau peluk<br />Ini bibirku untuk kau cium<br />Tapi tak bisa kau miliki aku</p><p><br />Tak usah kau terus tangisi kepergianku<br />Air mata takkan memanggilku<br />Untuk kembali</p><p><br />Ini tanganku untuk kau genggam<br />Ini tubuhku untuk kau peluk<br />Ini bibirku untuk kau cium<br />Tapi tak bisa kau miliki aku<br />Tak usah kau terus tangisi kepergianku<br />Air mata takkan memanggilku<br />Untuk kembali</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "DEWA A",
+      "title": "KAMULAH SATU SATUNYA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA10.mp3",
+      "lyrics": "<p>Laras hati berkelana iris janji<br />Mengukir bisikan bisikan memacu hasrat<br />Desir-desir mimpi isyaratkan legit dunia</p><p><br />Kamulah satu-satunya<br />Yang ternyata mengerti aku<br />Maafkan aku selama ini<br />Yang sedikit melupakanmu</p><p><br />Sgala santun yang kau endap dijiwaku<br />Tak terisap dulu kini kecapkan sesalku<br />Anyaman cintamu terkoyak buram mataku</p><p><br />Kamulah satu-satunya<br />Yang ternyata mengerti aku<br />Maafkan aku selama ini<br />Yang sedikit melupakanmu</p><p><br />Laras hati alirkan diri kembali<br />Membujur tubuhku sejuk pangkuan dirimu<br />Tak ingin terbungkus terbungkus penyesalan</p><p><br />Puing, puing janjiku<br />Kupugar kembali untukmu<br />Sgala denyut nadi memanggil<br />Kamulah satu-satunya<br />Kamulah satu-satunya<br />Maafkanlah aku selama ini</p><p><br />Kamulah satu-satunya<br />Yang ternyata mengerti aku<br />Maafkan aku selama ini<br />Yang sedikit melupakanmu</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "DEWA A",
+      "title": "ROMAN PICISAN",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA11.mp3",
+      "lyrics": "<p>Tatap matamu bagai busur panah<br />Yang kau lepaskan ke jantung hatiku<br />Meski kau simpan cintamu masih<br />Tetap nafasku wangi hiasi suasana<br />Saat ku kecup manis bibirmu</p><p><br />Cintaku tak harus, miliki dirimu<br />Meski perih mengiris-iris segala janji</p><p><br />Aku berdansa diujung gelisah<br />Di iringi syahdu lembut lakumu<br />Kau sebar benih anggun jiwamu<br />Namun kau tiada, menuai buah cintaku<br />Yang ada hanya sekuntum rindu</p><p><br />Cintaku tak harus, miliki dirimu<br />Meski perih mengiris-iris segala janji</p><p><br />Malam-malamku bagai malam seribu bintang<br />Yang terbentang di angkasa bila kau disini<br />Tuk sekedar menemani,'tuk melintasi wangi<br />Yang s'lalu tersaji di satu sisi hati</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "DEWA A",
+      "title": "SITI NURBAYA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA12.mp3",
+      "lyrics": "lirik belum tersedia"
+	  },
+	  {
+      "id": 13,
+      "name_category": "DEWA A",
+      "title": "TAK KAN ADA CINTA YANG LAIN",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA13.mp3",
+      "lyrics": "lirik belum tersedia"
+	  },
+	  {
+      "id": 14,
+      "name_category": "DEWA A",
+      "title": "ARJUNA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DEWSLA14.mp3",
+      "lyrics": "<p>Sudah kudaki gunung tertinggi<br />Hanya untuk mencari dimana dirimu<br />Sudah kujelajahi isi bumi<br />Hanya untuk dapat hidup bersamamu</p><p><br />Sudah kuarungi laut samudera<br />Hanya untuk mencari tempat berlabuhmu<br />Tapi semakin jauh ku mencari<br />Cinta semakin aku tak mengerti</p><p><br />Akulah Arjuna<br />Yang mencari cinta<br />Wahai wanita<br />Cintailah aku</p><p><br />Mungkin kutemui cinta sejati<br />Saat aku hembuskan nafas terakhirku<br />Mungkin cinta sejati memang tak ada<br />Dalam cerita kehidupan ini</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "DEWA B",
+      "title": "AKU DISINI UNTUKMU",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA15.mp3",
+      "lyrics": "lirik belum tersedia"
+	  },
+	  {
+      "id": 16,
+      "name_category": "DEWA B",
+      "title": "AKU MILIKMU",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA16.mp3",
+      "lyrics": "<p>Terdengar lirih bisikanmu<br />Diantara bayang-bayangmu<br />Terucap kata cinta<br />Yang dulu tersimpan<br />Dan tak mau pergi</p><p><br />Sekejap cinta terlahir<br />Namun jadi sebuah cerita<br />Yang tak mungkin terlupa<br />Kuukir dihati<br />Dan tak mau pergi</p><p><br />Mungkinkah kumiliki<br />Cinta seperti ini lagi<br />Jangan biarkan aku<br />Kehilangan dirimu</p><p><br />Coba dengarkanlah sumpahku (janji suci)<br />Dari hati aku cinta kamu<br />Jangan dengar kata mereka<br />Yang tak ingin kita satu<br />Yakinkan aku milikmu<br />Aku milikmu</p><p><br />Jalinan cinta tulus suci<br />Terpadu terikat erat<br />Jangan terpisah lagi<br />Waktu 'kan menguji<br />Cinta kita berdua</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "DEWA B",
+      "title": "ANGIN",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA17.mp3",
+      "lyrics": "<p>Angin tolonglah aku sedang<br />Jatuh cinta<br />Tapi aku tak punya nyali tuk katakan<br />Bahwasanya setiap hari kumerindukan dia</p><p><br />Angin masukkan aku ke dalam mimpinya<br />Jadikan aku Raja dan dia Ratunya<br />Buat dia selalu memikirkan diriku</p><p><br />Angin katakan padanya<br />Bahwa aku cinta dia<br />Angin sampaikan padanya<br />Bahwa aku butuh dia</p><p><br />Angin, tancapkanlah busur panah cintaku<br />Tancapkanlah cepat, tepat di jantung hatinya<br />Sebelum hatinya jadi beku dan membatu</p>"
+	  },
+	  {
+      "id": 18,
+      "name_category": "DEWA B",
+      "title": "CINTA GILA",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA18.mp3",
+      "lyrics": "lirik belum tersedia"
+	  },
+	  {
+      "id": 19,
+      "name_category": "DEWA B",
+      "title": "JALAN KITA MASIH PANJANG",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA19.mp3",
+      "lyrics": "lirik belum tersedia"
+	  },
+	  {
+      "id": 20,
+      "name_category": "DEWA B",
+      "title": "KOSONG",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA20.mp3",
+      "lyrics": "<p>Kamu seperti hantu<br />Terus menghantuiku<br />Kemana pun tubuhku pergi<br />Kau terus membayangi aku</p><p><br />Salahku biarkan kamu<br />Bermain dengan hatiku<br />aku tak bisa memusnahkan<br />Kau dari pikiranku ini</p><p><br />Didalam keramaian aku masih merasa sepi<br />Sendiri memikirkan kamu<br />Kau genggam hatiku<br />Dan kau tuliskan namamu<br />Kau tulis namamu</p><p><br />Tubuhku ada di sini<br />Tetapi tidak jiwaku<br />Kosong yang hanya kurasakan<br />Kau telah tinggal di hatiku</p>"
+	  },
+	  {
+      "id": 21,
+      "name_category": "DEWA B",
+      "title": "LARUT",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA21.mp3",
+      "lyrics": "<p>Mungkin aku pernah juga<br />Merasakan cinta<br />Tapi tak pernah seindah ini<br />Mungkin aku juga pernah<br />Merasakan rindu<br />Tapi tak pernah<br />Sedalam ini</p><p><br />Mungkin kamu takkan pernah percaya<br />Bahwa sesungguhnya aku telah terjatuh</p><p><br />Kuakui aku telah larut<br />Larut ke dalam<br />Kamu yang kucintai</p>"
+	  },
+	  {
+      "id": 22,
+      "name_category": "DEWA B",
+      "title": "LASKAR CINTA",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA22.mp3",
+      "lyrics": "<p>Wahai jiwa jiwa yg tenang<br />Berhati-hatilah dirimu<br />Kepada hati hati yang penuh<br />Dengan kebencian yang dalam</p><p><br />Karena sesungguhnya iblis<br />Ada dan bersemayam<br />Di hati yang penuh dengan benci<br />Dihati yang penuh dengan prasangka</p><p><br />Laskar cinta<br />Sebarkanlah benih-benih cinta<br />Musnahkanlah virus-virus benci<br />Virus yang bisa merusakkan jiwa<br />Dan busukkan hati<br />Laskar cinta<br />Ajarkanlah ilmu tentang cinta<br />Karena cinta adalah hakikat<br />Dan jalan yang terang bagi semua manusia</p><p><br />Jika kebencian meracunimu<br />Kepada manusia lainnya<br />Maka sesungguhnya iblis<br />Sudah berkuasa atas dirimu</p><p><br />Maka jangan pernah berharap<br />Aku akan mengasihi<br />Menyayangi manusia-manusia<br />Yang penuh benci seperti kamu</p><p><br />Laskar cinta<br />Sebarkanlah benih-benih cinta<br />Musnahkanlah virus-virus benci<br />Virus yang bisa merusakkan jiwa<br />Dan busukkan hati<br />Laskar cinta<br />Ajarkanlah ilmu tentang cinta<br />Karena cinta adalah hakikat<br />Dan jalan yang terang bagi semua manusia<br />[x2]</p>"
+	  },
+	  {
+      "id": 23,
+      "name_category": "DEWA B",
+      "title": "MATI AKU",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA23.mp3",
+      "lyrics": "lirik belum tersedia"
+	  },
+	  {
+      "id": 24,
+      "name_category": "DEWA B",
+      "title": "MISTIKUS CINTA",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA24.mp3",
+      "lyrics": "lirik belum tersedia"
+	  },
+	  {
+      "id": 25,
+      "name_category": "DEWA B",
+      "title": "MUNJAT CINTA",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA25.mp3",
+      "lyrics": "lirik belum tersedia"
+	  },
+	  {
+      "id": 26,
+      "name_category": "DEWA B",
+      "title": "PANGERAN CINTA",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA26.mp3",
+      "lyrics": "lirik belum tersedia"
+	  },
+	  {
+      "id": 27,
+      "name_category": "DEWA B",
+      "title": "SEDANG INGIN BERCINTA",
+      "image": "file:///android_asset/image/DB.jpg",
+      "link_mp3": "mp3/DEWSLA27.mp3",
+      "lyrics": "lirik belum tersedia"
+	  }
+  ]
+}
