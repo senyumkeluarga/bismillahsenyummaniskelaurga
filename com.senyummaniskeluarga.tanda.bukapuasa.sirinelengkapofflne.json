@@ -1,0 +1,296 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BEDUK",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SIRINE",
+      "image": "file:///android_asset/image/B.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "BEDUK ADZAN",
+      "image": "file:///android_asset/image/C.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "SIRINE ADZAN",
+      "image": "file:///android_asset/image/D.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "ADZAN",
+      "image": "file:///android_asset/image/E.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "TAHRIM",
+      "image": "file:///android_asset/image/F.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "BEDUK",
+      "title": "BEDUK MAGHRIB 1",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/SIRBEDK1.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "BEDUK",
+      "title": "BEDUK MAGHRIB 2",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/SIRBEDK2.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "BEDUK",
+      "title": "BEDUK MAGHRIB 3",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/SIRBEDK3.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SIRINE",
+      "title": "SIRINE BUKA PUASA 1",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/SIRBEDK4.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "SIRINE",
+      "title": "SIRINE BUKA PUASA 2",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/SIRBEDK5.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "SIRINE",
+      "title": "SIRINE BUKA PUASA 3",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/SIRBEDK6.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "SIRINE",
+      "title": "SIRINE BUKA PUASA 4",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/SIRBEDK7.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "SIRINE",
+      "title": "SIRINE BUKA PUASA 5",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/SIRBEDK8.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SIRINE",
+      "title": "SIRINE BUKA PUASA 6",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/SIRBEDK9.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "BEDUK ADZAN",
+      "title": "BEDUK + ADZAN 1",
+      "image": "file:///android_asset/image/C.jpg",
+      "link_mp3": "mp3/SIRBEDK10.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "BEDUK ADZAN",
+      "title": "BEDUK + ADZAN 2",
+      "image": "file:///android_asset/image/C.jpg",
+      "link_mp3": "mp3/SIRBEDK11.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "BEDUK ADZAN",
+      "title": "BEDUK + ADZAN 3",
+      "image": "file:///android_asset/image/C.jpg",
+      "link_mp3": "mp3/SIRBEDK12.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "SIRINE ADZAN",
+      "title": "SIRINE + ADZAN 1",
+      "image": "file:///android_asset/image/D.jpg",
+      "link_mp3": "mp3/SIRBEDK13.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "SIRINE ADZAN",
+      "title": "SIRINE + ADZAN 2",
+      "image": "file:///android_asset/image/D.jpg",
+      "link_mp3": "mp3/SIRBEDK14.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "SIRINE ADZAN",
+      "title": "SIRINE + ADZAN 3",
+      "image": "file:///android_asset/image/D.jpg",
+      "link_mp3": "mp3/SIRBEDK15.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "SIRINE ADZAN",
+      "title": "SIRINE + ADZAN 4",
+      "image": "file:///android_asset/image/D.jpg",
+      "link_mp3": "mp3/SIRBEDK16.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "ADZAN",
+      "title": "ADZAN INDONESIA",
+      "image": "file:///android_asset/image/E.jpg",
+      "link_mp3": "mp3/SIRBEDK17.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "ADZAN",
+      "title": "ADZAN INDONESIA 1",
+      "image": "file:///android_asset/image/E.jpg",
+      "link_mp3": "mp3/SIRBEDK18.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "ADZAN",
+      "title": "ADZAN KURDI",
+      "image": "file:///android_asset/image/E.jpg",
+      "link_mp3": "mp3/SIRBEDK19.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "ADZAN",
+      "title": "ADZAN MADINA",
+      "image": "file:///android_asset/image/E.jpg",
+      "link_mp3": "mp3/SIRBEDK20.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "ADZAN",
+      "title": "ADZAN MEKKAH",
+      "image": "file:///android_asset/image/E.jpg",
+      "link_mp3": "mp3/SIRBEDK21.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "ADZAN",
+      "title": "ADZAN MESIR",
+      "image": "file:///android_asset/image/E.jpg",
+      "link_mp3": "mp3/SIRBEDK22.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "ADZAN",
+      "title": "ADZAN PALESTINA",
+      "image": "file:///android_asset/image/E.jpg",
+      "link_mp3": "mp3/SIRBEDK23.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 1",
+      "image": "file:///android_asset/image/F.jpg",
+      "link_mp3": "mp3/SIRBEDK24.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 2",
+      "image": "file:///android_asset/image/F.jpg",
+      "link_mp3": "mp3/SIRBEDK25.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 3",
+      "image": "file:///android_asset/image/F.jpg",
+      "link_mp3": "mp3/SIRBEDK26.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 4",
+      "image": "file:///android_asset/image/F.jpg",
+      "link_mp3": "mp3/SIRBEDK27.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 5",
+      "image": "file:///android_asset/image/F.jpg",
+      "link_mp3": "mp3/SIRBEDK28.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 6",
+      "image": "file:///android_asset/image/F.jpg",
+      "link_mp3": "mp3/SIRBEDK29.ogg",
+      "lyrics": ""
+	  }
+  ]
+}
