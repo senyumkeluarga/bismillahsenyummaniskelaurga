@@ -1,0 +1,316 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "XX",
+      "main_ads_intertitial":"XX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"NULL",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ARIEF A",
+      "image": "file:///android_asset/image/RA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "ARIEF A",
+      "image": "file:///android_asset/image/RB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ARIEF A",
+      "title": "KURANGNNYA APA",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI1.mp3",
+      "lyrics": "<p>Kukira<br />Hatimu tempat untukku berteduh<br />Aku kira<br />Cintamu tempat hatiku berlabuh</p><p><br />Ternyata hatimu bukan tempatku berada<br />Dan ternyata cintamu hanya membuatku terluka<br />Kau anggap apa hadirku disini<br />Mengapa tega kau hianati</p><p><br />Kurangnya apa aku slama ini<br />Maunya apa aku tak mengerti<br />Bukan sekali engkau menyakiti<br />Berulang kali</p><p><br />Harusnya apa agar kau peduli<br />Katakan saja agar kau mengerti<br />Berkali kali engkau menyakiti<br />Tak kau sesali</p><p><br />Ternyata hatimu bukan tempatku berada<br />Dan ternyata cintamu hanya membuatku terluka<br />Kau anggap apa hadirku disini<br />Mengapa tega kau hianati</p><p><br />Kurangnya apa aku slama ini<br />Maunya apa aku tak mengerti<br />Bukan sekali engkau menyakiti<br />Berulang kali</p><p><br />Harusnya apa agar kau peduli<br />Katakan saja agar kau mengerti<br />Berkali kali engkau menyakiti<br />Tak kau sesali</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "ARIEF A",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI2.mp3",
+      "lyrics": "<p>jangan tanya bagaimana esok<br />ku tak ingin menerka perasaan ini<br />yang ku tahu hari ini ku mencintai mu<br />yang ku tahu ku sangat menyayangi mu</p><p><br />biarlah semua berlalu<br />jalani seperti apa adanya<br />bunga kan mekar meski kemarau melanda<br />bunga kan mekar meski kemarau melanda</p><p><br />bukan ku ingin memastikan<br />akulah cinta sejati mu<br />yakinkan hatimu<br />akulah takdir yang engkau nantikan</p><p><br />ku ingin kau mersa tentram<br />biarlah berada di sampingku<br />karna diriku sangat menyayangi mu<br />ku akan membuktikan cinta di hati mu<br />satu rasa menggapai bahagia<br />ku pinang dirimu sebagai teman hidupku<br />berjanjilah kasih setia bersama ku</p><p><br />biarlah semua berlalu<br />jalani seperti apa adanya<br />bunga kan mekar meski kemarau melanda<br />bunga kan mekar meski kemarau melanda<br />bukan ku ingin memastikan<br />akulah cinta sejatimu<br />yakinkan hatimu<br />akulah takdir yang engkau nantikan</p><p><br />ku ingin kau mersa tentram<br />biarlah berada di sampingku<br />karna diriku sangat menyayangi mu<br />ku akan membuktikan cinta di hati mu<br />satu rasa menggapai bahagia<br />ku pinang dirimu sebagai teman hidupku<br />berjanjilah kasih setia bersama ku</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "ARIEF A",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI3.mp3",
+      "lyrics": "<p>Tiara menggamit kenangan zaman persekolahan<br />Tiara kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam dimlam pesta<br />Engkau bisikkan kata azimat ditelinga</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak alam yang nyata<br />Engkau jauh meniti puncak menara azazi<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi hidup tertekan</p><p><br />JIka kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Dipenjara terpuruk terhukum hanya berteman kan sepi<br />Bisakah kau menghargai cintaku yang suci ini</p><p><br />Oh tiara perih nya<br />Dapat kah kau merasakan<br />Oh tiara pedih nya<br />Dapat kah kau merasakan nya</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak alam yang nyata<br />Engkau jauh meniti puncak menara azazi<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi hidup tertekan</p><p><br />JIka kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Dipenjara terpuruk terhukum hanya berteman kan sepi<br />Bisakah kau menghargai cintaku yang suci ini</p><p><br />Oh tiara perih nya<br />Dapat kah kau merasakan<br />Oh tiara pedih nya<br />Dapat kah kau merasakan nya<br />Dapat kah kau merasakan nya</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "ARIEF A",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI4.mp3",
+      "lyrics": "<p>dingin nya angin malam ini<br />menyapa tub uhku<br />namun tidak dapat<br />dinginkan panas hatiku ini</p><p><br />rasa terhempasnya<br />diriku ini krna sikapmu<br />apakah karna aku<br />insan kekurangan<br />mudahnya kau mainkan</p><p><br />oh mungkinkah diri ini<br />dapat merubah buih yang memutih<br />menjadi permadani<br />seperti pinta yang kau ucap<br />dalam janji cinta</p><p><br />juga mustahil bagiku<br />menggapai bintang dilangit<br />siapalah diriku<br />hanya insan biasa<br />semua itu sungguh aku<br />tiada mampu</p><p><br />salah aku juga<br />karna jatuh cinta<br />insan sepertimu<br />seanggun bidadari</p><p><br />seharusnya aku<br />cerminkan diriku<br />sebelum tirai hati<br />aku bukan untuk mencintaimu</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "ARIEF A",
+      "title": "CINTA SAMPAI MATI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI5.mp3",
+      "lyrics": "<p>duhai engkau sang belahan jiwa<br />namamu terukir dalam pusara<br />disetiap langkah ku slalu berdoa<br />semoga kita bersama</p><p><br />duhai engkau tambahkan hatiku<br />lagukan lah cintamu dihidupku<br />ku ingin kau tahu betapa merindu<br />hiduplah engkau denganku</p><p><br />dengarkan lah disepanjang malam aku berdoa <br />bersujud dan lalu aku meminta<br />semoga kita bersama <br />dengarkan lah disepanjang malam aku berdoa</p><p><br />cinta ku untukmu slalu terjaga<br />dan aku pasti setia<br />hoo hoo hoo hoo<br />duhai engkau tambahkan hatiku</p><p><br />lagukan lah cintamu dihidupku<br />ku ingin kau tahu betapa merindu<br />hiduplah engkau denganku<br />dengarkan lah disepanjang malam aku berdoa</p><p><br />bersujud dan lalu aku meminta<br />semoga kita bersama <br />dengarkan lah disepanjang malam aku berdoa<br />cinta ku untukmu slalu terjaga</p><p><br />dan aku pasti setia<br />dengarkan lah disepanjang malam aku berdoa<br />bersujud dan lalu aku meminta<br />semoga kita bersama</p><p><br />dengarkan lah disepanjang malam aku berdoa<br />cinta ku untukmu slalu terjaga<br />dan aku pasti setia<br />hoo hoo hoo hoo</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "ARIEF A",
+      "title": "GERHANA DALAM CINTA",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI6.mp3",
+      "lyrics": "<p>Manalah ku tahu engkau suka<br />Dimata tak ada jejak cinta<br />Bagai di terik mentari<br />Hujan datang tiba-tiba</p><p><br />Keputusanmu memilih si dia<br />Membuat aku kecewa<br />Pertunanganmu hancurkan mimpiku<br />Aku tak menyangka<br />Akhirnya kau pilih dia</p><p><br />Lama ku simpan cinta ini<br />Engkau yang tak pernah peduli<br />Bukan, bukanlah maksud hati<br />Maaf cintamu tak ku sadari</p><p><br />Tiada kini harapan lagi<br />Sampai mati kan aku sendiri<br />Jangan, jangan kau patah hati<br />Jodoh hanya tuhan yang tau pasti</p><p><br />Haaaa aaa aa aa<br />Ini sebab gerhana cinta</p><p><br />Haaaa aaa aa aa<br />Sembunyi di hati yang lara</p><p><br />Haaaa aaa aa aa<br />Terlambat menyatakan cinta</p><p><br />Haaaa aaa aa aa<br />Tinggalah aku yang merana</p><p><br />Manalah ku tahu engkau suka<br />Dimata tak ada jejak cinta<br />Bagai di terik mentari<br />Hujan datang tiba-tiba</p><p><br />Keputusanmu memilih si dia<br />Membuat aku kecewa<br />Pertunanganmu hancurkan mimpiku<br />Aku tak menyangka<br />Akhirnya kau pilih dia</p><p><br />Lama ku simpan cinta ini<br />Engkau yang tak pernah peduli<br />Bukan, bukanlah maksud hati<br />Maaf cintamu tak ku sadari</p><p><br />Tiada kini harapan lagi<br />Sampai mati kan aku sendiri<br />Jangan, jangan kau patah hati<br />Jodoh hanya tuhan yang tau pasti</p><p><br />Haaaa aaa aa aa<br />Ini sebab gerhana cinta</p><p><br />Haaaa aaa aa aa<br />Sembunyi di hati yang lara</p><p><br />Haaaa aaa aa aa<br />Terlambat menyatakan cinta</p><p><br />Haaaa aaa aa aa<br />Tinggalah aku yang merana</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "ARIEF A",
+      "title": "DALAM GELAKU MENANGIS",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI7.mp3",
+      "lyrics": "<p>Hilang kasih hilanglah sayang<br />Hilang rindu hampa dihati<br />Sejak kau pergi tinggalkan aku<br />Tanpa alasan engkau berlalu</p><p><br />Hingga hati bertanya tanya<br />Sebab apa dikau berlalu<br />Adakah salah ku pada dirimu<br />Sampai saat ini aku tak tahu</p><p><br />Tiada mendung hujan pun turun<br />Panas terik aku kedinginan<br />Seperti itu diriku<br />Rasa bersalah tidakku tahu</p><p><br />Bukannya mimpi tapi tlah nyata<br />Bertahun-tahun diriku tersiksa<br />Didalam gelap aku menangis<br />Bayangan kasih slalu mendatang</p><p><br />Hingga hati bertanya tanya<br />Sebab apa dikau berlalu<br />Adakah salah ku pada dirimu<br />Sampai saat ini aku tak tahu</p><p><br />Tiada mendung hujan pun turun<br />Panas terik aku kedinginan<br />Seperti itu diriku kini<br />Rasa bersalah tidakku tahu</p><p><br />Bukannya mimpi tapi tlah nyata<br />Bertahun-tahun diriku tersiksa<br />Didalam gelap aku menangis<br />Bayangan kasih slalu mendatang</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "ARIEF A",
+      "title": "RELA KAU TINGGALKAN",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI8.mp3",
+      "lyrics": "<p>Bertahun lamanya kita t&rsquo;lah bersama<br />Menjalin hubungan asmara cinta<br />Meski kini engkau bersama dirinya<br />Biarlah kusimpan dengan air mata</p><p><br />Besarlah harapku bersama dirimu<br />Membangun mahligai di tenda biru<br />Namun, apa daya, semua hanya bisu<br />Diriku mengira kita akan bersatu</p><p><br />Bagaikan tertusuk duri<br />Kulalui semua masa sulit ini<br />Kuikhlaskan dirimu yang telah pergi<br />Ketabahan hati dalam hidup ini</p><p><br />Hancur lebur harapanku<br />Kau tinggalkan diriku yang menyayangimu<br />Ku hanya bisa berdoa untukmu<br />S&rsquo;moga kau bahagia selalu</p><p><br />Bertahun lamanya kita t&rsquo;lah bersama<br />Menjalin hubungan asmara cinta<br />Meski kini engkau bersama dirinya<br />Biarlah kusimpan dengan air mata</p><p><br />Besarlah harapku bersama dirimu<br />Membangun mahligai di tenda biru<br />Namun, apa daya, semua hanya bisu<br />Diriku mengira kita akan bersatu</p><p><br />Bagaikan tertusuk duri<br />Kulalui semua masa sulit ini<br />Kuikhlaskan dirimu yang telah pergi<br />Ketabahan hati dalam hidup ini</p><p><br />Hancur lebur harapanku<br />Kau tinggalkan diriku yang menyayangimu<br />Ku hanya bisa berdoa untukmu<br />S&rsquo;moga kau bahagia selalu</p><p><br />Bagaikan tertusuk duri<br />Kulalui semua masa sulit ini<br />Kuikhlaskan dirimu yang telah pergi<br />Ketabahan hati dalam hidup ini</p><p><br />Hancur lebur harapanku<br />Kau tinggalkan diriku yang menyayangimu<br />Ku hanya bisa berdoa untukmu<br />S&rsquo;moga kau bahagia selalu</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "ARIEF A",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI9.mp3",
+      "lyrics": "<p>Rembulan malam berbalut sepi<br />Suasana dingin merayu hati<br />Cah'ya di bulan ikut menghiasi<br />Nuansa misteri menyelimuti</p><p><br />Hilang pandangan di dalam mata<br />Bayanganmu menepi di angkasa<br />Entah berapa lama kau di sana<br />Sehingga diriku ingin bersua</p><p><br />Korbankan diri dalam ilusi<br />Hilangkan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu</p><p><br />Pada malam kutitipkan salam<br />Untuk dirimu yang aku sayang<br />Semoga cinta kita 'kan abadi<br />Sampai mati ku akan menanti</p><p><br />Hilang pandangan di dalam mata<br />Bayanganmu menepi di angkasa<br />Entah berapa lama kau di sana<br />Sehingga diriku ingin bersua</p><p><br />Korbankan diri dalam ilusi<br />Hilangkan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu</p><p><br />Korbankan diri dalam ilusi<br />Hilangkan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu</p><p><br />Pada malam kutitipkan salam<br />Untuk dirimu yang aku sayang<br />Semoga cinta kita 'kan abadi<br />Sampai mati ku akan menanti</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "ARIEF A",
+      "title": "SETIA BERBALAS DUSTA",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI10.mp3",
+      "lyrics": "<p>Kau hadir membuat hariku berseri<br />Kau pergi disaat cintaku bersemi<br />Kau berikan aku harap<br />Tapi hanya sesaat</p><p>Teganya dirimu buatku bersedih<br />Teganya engkau melukai hati ini<br />Sungguh diriku tak tahu<br />Dimana kekuranganku</p><p>Sakit yang kau rasa<br />Tak sebanding luka yang kuterima darimu<br />Setiaku kau balas dusta<br />Kau berpaling dariku</p><p>Dan kini kau hadir kepadaku<br />Membawa seribu penyesalan<br />Maafkanlah kasih<br />Ku tak bisa untuk menerima</p><p>(*)</p><p>Teganya dirimu buatku bersedih<br />Teganya engkau melukai hati ini<br />Sungguh diriku tak tahu<br />Dimana kekuranganku</p><p>Sakit yang kau rasa<br />Tak sebanding luka yang kuterima darimu<br />Setiaku kau balas dusta<br />Kau berpaling dariku</p><p>Dan kini kau hadir kepadaku<br />Membawa seribu penyesalan<br />Maafkanlah kasih<br />Ku tak bisa untuk menerima</p><p>(**)</p><p>Sakit yang kau rasa tak sebanding luka yang kuterima darimu<br />Setiaku kau balas dusta kau berpaling dariku<br />Dan kini kau hadir kepadaku membawa seribu penyesalan<br />Maafkanlah kasih ku tak bisa untuk menerima</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "ARIEF A",
+      "title": "EMAS HANTARAN",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI11.mp3",
+      "lyrics": "<p>berakhir sudah impian cinta<br />tinggallah puing puingnya<br />mimpi yang indah tak jadi nyata<br />terkikis ombak menerpa</p><p><br />aku yang dulu engkau sayangi<br />mengapa kau tinggal pergi<br />oh dimanakah janji yang suci<br />yang katamu tak berbagi</p><p><br />ku ingin kau mengerti<br />apa yang ku alami<br />takdir diriku harus melangkah<br />jauh darimu</p><p><br />andaikan aku boleh bertanya<br />apakah ada salah diriku<br />agar ku jauh dari prasangka<br />rasa cemburu</p><p><br />tiada salah dirimu, kasih<br />salah pada nasibku sendiri<br />karena tak punya emas permata<br />hantaran cinta</p><p><br />aku yang dulu engkau sayangi<br />mengapa kau tinggal pergi<br />oh dimanakah janji yang suci<br />yang katamu tak berbagi</p><p><br />ku ingin kau mengerti apa yang ku alami<br />takdir diriku harus melangkah jauh darimu</p><p><br />andaikan aku boleh bertanya, apakah ada salah diriku<br />agar ku jauh dari prasangka rasa cemburu<br />tiada salah dirimu, kasih, salah pada nasibku sendiri<br />karena tak punya emas permata hantaran cinta</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "ARIEF A",
+      "title": "HARUSKAH AKU MATI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI12.mp3",
+      "lyrics": "<p>Andai kau merasakan<br />Sakit yang kau berikan kepadaku<br />Ku yakin, kau tak akan<br />Sanggup untuk bertahan</p><p><br />Andai yang kau lakukan<br />Dapat kukembalikan kepadamu<br />Kupastikan dirimu<br />Lebih rapuh dariku</p><p><br />Namun, ku tak ingin<br />Lukai hatimu</p><p><br />Aku sekuat hati bertahan<br />Kamu sebisanya menghancurkan<br />Aku mengalah kerana cinta<br />Kamu sengaja menggores luka</p><p><br />Dengan cara apa lagi<br />Kau melunakkan hati?<br />Haruskah diriku mati<br />Agar kau bisa hargai?</p><p><br />Andai kau merasakan<br />Sakit yang kau berikan kepadaku<br />Ku yakin, kau tak akan<br />Sanggup untuk bertahan</p><p><br />Andai yang kau lakukan<br />Dapat kukembalikan kepadamu<br />Kupastikan dirimu<br />Lebih rapuh dariku</p><p><br />Namun, ku tak ingin<br />Lukai hatimu</p><p><br />Aku sekuat hati bertahan<br />Kamu sebisanya menghancurkan<br />Aku mengalah kerana cinta<br />Kamu sengaja menggores luka</p><p><br />Dengan cara apa lagi<br />Kau melunakkan hati?<br />Haruskah diriku mati<br />Agar kau bisa hargai?</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "ARIEF A",
+      "title": "HENDAKLAH CARI PENGGANTI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI13.mp3",
+      "lyrics": "<p>Dingin malam yang sepi, aku terdiam diri<br />Mahligai cinta kita s'makin menepi<br />Dirimu kusayangi dengan sepenuh hati<br />Namun sepenggal diri telah berganti</p><p><br />Lelah kaki melangkah, sesat, dan tanpa arah<br />Dan di puncak khayalan, dirimu kuharapkan<br />Namun engkau berubah tak seperti biasa<br />Sungguh aku terluka dengan ini semua</p><p><br />Hendaklah engkau cari pengganti<br />Aku tak pantas engkau miliki<br />Kita bagaikan langit dan bumi<br />Jauh sekali</p><p><br />Sungguh sukar memilikimu<br />Ingin kugapai tapi tak mampu<br />Cinta yang dulu sangat menggebu<br />Hilang berlalu</p><p><br />Lelah kaki melangkah, sesat, dan tanpa arah<br />Dan di puncak khayalan, dirimu kuharapkan<br />Namun engkau berubah tak seperti biasa<br />Sungguh aku terluka dengan ini semua</p><p><br />Hendaklah engkau cari pengganti<br />Aku tak pantas engkau miliki<br />Kita bagaikan langit dan bumi<br />Jauh sekali</p><p><br />Sungguh sukar memilikimu<br />Ingin kugapai tapi tak mampu<br />Cinta yang dulu sangat menggebu<br />Hilang berlalu<br />Hendaklah engkau cari pengganti<br />Aku tak pantas engkau miliki<br />Kita bagaikan langit dan bumi<br />Jauh sekali</p><p><br />Sungguh sukar memilikimu<br />Ingin kugapai tapi tak mampu<br />Cinta yang dulu sangat menggebu<br />Hilang berlalu</p><p><br />Cinta yang dulu sangat menggebu<br />Hilang berlalu<br />Cinta yang dulu sangat menggebu<br />Hilang berlalu</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "ARIEF A",
+      "title": "LUKA SEKRAT RASA",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI14.mp3",
+      "lyrics": "<p>Rela aku terima keputusan darimu<br />'Tuk memilih dirinya dan meninggalkan aku<br />Dalam semak berduri, tergores dan terperih<br />Sakit terucap lirih</p><p><br />Memang aku akui, akulah yang bersalah<br />Telah memberi hati walau sekerat rasa<br />Maafkan aku atas khilafku<br />Permainkan hatimu</p><p><br />Mengapa kau dan aku bersua<br />Menyatu dalam alunan nada<br />Takdirmu, takdirku<br />Akhirnya berpisah</p><p><br />Sirih kasih di pucuk pauh<br />Kuntum melati sukar di gubah<br />Jika kita bercerai jauh<br />Di dalam hati jangan berubah</p><p><br />Hendak gugur, gugurlah bunga<br />Jangan menimpa si ranting rapuh<br />Hendak tidur, tidurlah mata<br />Jangan mengenang orang nan jauh</p><p><br />Rela aku terima keputusan darimu<br />'Tuk memilih dirinya dan meninggalkan aku<br />Dalam semak berduri, tergores dan terperih<br />Sakit terucap lirih</p><p><br />Memang aku akui, akulah yang bersalah<br />Telah memberi hati walau sekerat rasa<br />Maafkan aku atas khilafku<br />Permainkan hatimu</p><p><br />Mengapa kau dan aku bersua<br />Menyatu dalam alunan nada<br />Takdirmu, takdirku<br />Akhirnya berpisah</p><p><br />Sirih kasih di pucuk pauh<br />Kuntum melati sukar di gubah<br />Jika kita bercerai jauh<br />Di dalam hati jangan berubah</p><p><br />Hendak gugur, gugurlah bunga<br />Jangan menimpa si ranting rapuh<br />Hendak tidur, tidurlah mata<br />Jangan mengenang orang nan jauh</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "ARIEF A",
+      "title": "TAK SEDALAM INI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI15.mp3",
+      "lyrics": "<p>Jangan kau obati luka ini<br />Biarkan mengalir darah tak henti<br />Ku tahu kau hanya membuat lukaku semakin perih<br />Kini kau datang, esok kau pergi<br />Seakan engkau tak punya hati</p><p><br />Terlalu aku mencintaimu<br />Rupanya kesempatan bagimu<br />Maafku untukmu berulang kali, tapi tiada arti<br />Kini denganku, esok dengannya<br />Aku tak sanggup lagi</p><p><br />Sakitnya, perihnya<br />Melihat kau bercumbu dengannya<br />Kau tega menyiksa<br />Aku yang selalu setia</p><p><br />Andai rasa di hati tak sedalam ini<br />Dari dahulu engkau tlah ku tinggalkan<br />Cinta yang ku miliki tak bisa kau bandingkan<br />Rugilah engkau kerna memilih dia</p><p><br />Terlalu aku mencintaimu<br />Rupanya kesempatan bagimu<br />Maafku untukmu berulang kali, tapi tiada arti<br />Kini denganku, esok dengannya<br />Aku tak sanggup lagi</p><p><br />Sakitnya, perihnya<br />Melihat kau bercumbu dengannya<br />Kau tega menyiksa<br />Aku yang selalu setia</p><p><br />Andai rasa di hati tak sedalam ini<br />Dari dahulu engkau tlah ku tinggalkan<br />Cinta yang ku miliki tak bisa kau bandingkan<br />Rugilah engkau kerna memilih dia</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "ARIEF A",
+      "title": "BENCI KUSANGKA SAYANG",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI16.mp3",
+      "lyrics": "<p>Masih membasah luka<br />Yang dulu pernah kaucipta<br />Kausayat kembali<br />Di atas derita lama</p><p><br />Tak pernah menjadi impian<br />Dan hitam bukanlah harapan<br />Mengering air mata, mengenang percintaan<br />Yang kini tinggal igauan</p><p><br />Masih segar di ingatan<br />Kenangan kita bersama<br />Cinta yang telah berlalu<br />Kusimpan jadi sejarah</p><p><br />Biarlah kujalani lara<br />Biarlah, 'kan kutelan duka<br />Semoga kau mengerti, tak pernah kurestui<br />Pemergian dirimu, sungguh menyayat hati</p><p><br />Benar kata pujangga, Selasih kusangka mayang<br />Mayang kusangkakan daun selada<br />Orang benci kusangka sayang, namun, diri tak merasa<br />Tetapi apa 'kan daya</p><p><br />Kenang-kenanglah aku, Sayang<br />Rinduilah aku dalam ingatanmu<br />Yang telah tinggalkanku selama ini<br />Jauh mengejar mimpi yang tiada pasti</p><p><br />Biar hujan datang berturun<br />Takkan tawar rasa lautan cinta<br />Kukhayalkan kasihmu memekakkan rasa<br />Kiranya gerimismu tawarkan lautan</p><p><br />Benar kata pujangga, Selasih kusangka mayang<br />Mayang kusangkakan daun selada<br />Orang benci kusangka sayang, namun, diri tak merasa<br />Tetapi apa 'kan daya</p><p><br />Kenang-kenanglah aku, Sayang<br />Rinduilah aku dalam ingatanmu<br />Yang telah tinggalkanku selama ini<br />Jauh mengejar mimpi yang tiada pasti</p><p><br />Biar hujan datang berturun<br />Takkan tawar rasa lautan cinta<br />Kukhayalkan kasihmu memekakkan rasa<br />Kiranya gerimismu tawarkan lautan</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "ARIEF A",
+      "title": "HANYA INSAN BIASA",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/RIMLAI17.mp3",
+      "lyrics": "<p>Maaf, aku tak berdaya<br />Seperti yang engkau inginkan<br />Untuk melupakan dirimu<br />Dan segala yang ada padamu</p><p><br />Aku hanya insan biasa<br />Tak pantas menerima cinta<br />Apalagi berkasih mesra<br />Ku tak ingin akhirnya kau kecewa</p><p><br />Sejak ku mengenali dirimu<br />Ku depa luasnya langit biru<br />Dari detik pertama bersua<br />Ingin aku meluahkan rasa</p><p><br />Cintanya bulan di mata hujan<br />Di bawah kelambu kalbu<br />Kan bersinaran dan kebasahan<br />Lalu berpayungkan rindu</p><p><br />Manalah mungkin di ruang langit<br />Akan tertulis namaku<br />Aku hanyalah si burung pipit<br />Di mata orang tuamu</p><p><br />Maaf, aku tak berdaya<br />Seperti yang engkau inginkan<br />Untuk melupakan dirimu<br />Dan segala yang ada padamu</p><p><br />Aku hanya insan biasa<br />Tak pantas menerima cinta<br />Apalagi berkasih mesra<br />Ku tak ingin akhirnya kau kecewa</p><p><br />Sejak ku mengenali dirimu<br />Ku depa luasnya langit biru<br />Dari detik pertama bersua<br />Ingin aku meluahkan rasa</p><p><br />Cintanya bulan di mata hujan<br />Di bawah kelambu kalbu<br />Kan bersinaran dan kebasahan<br />Lalu berpayungkan rindu</p><p><br />Manalah mungkin di ruang langit<br />Akan tertulis namaku<br />Aku hanyalah si burung pipit<br />Di mata orang tuamu</p>"
+	  },
+	  {
+      "id": 18,
+      "name_category": "ARIEF B",
+      "title": "AKU BERHARAP ENGAKU BERHIANAT",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI18.mp3",
+      "lyrics": "<p>Satu kali, dua kali<br />Cukuplah sampai di sini<br />S'lama ini aku beri<br />Tiba-tiba engkau ingkari</p><p><br />Perih menyayat hati<br />Aku tak sanggup lagi<br />Perih menyayat hati<br />Aku tak sanggup lagi</p><p><br />Mengapa engkau begitu?<br />Sungguh teganya dirimu<br />Hancurnya harapanku<br />Jauh darimu</p><p><br />Kini kurasakan kau beda<br />Setelah kau punya segalanya<br />Kau berubah dan engkau lupa<br />Dengan janji kita berdua</p><p><br />Setelah sekian lama bersama<br />Kautinggalkan aku untuk dia<br />Kaulupa dengan sumpahmu, setia</p><p><br />Setelah sekian lama bersama<br />Kautinggalkan aku untuk dia<br />Kaulupa dengan sumpahmu, setia</p><p><br />Mengapa engkau begitu?<br />Sungguh teganya dirimu<br />Hancurnya harapanku<br />Jauh darimu</p><p><br />Kini kurasakan kau beda<br />Setelah kau punya segalanya<br />Kau berubah dan engkau lupa<br />Dengan janji kita berdua</p><p><br />Setelah sekian lama bersama<br />Kautinggalkan aku untuk dia<br />Kaulupa dengan sumpahmu, setia</p><p><br />Setelah sekian lama bersama<br />Kautinggalkan aku untuk dia<br />Kaulupa dengan sumpahmu, setia</p>"
+	  },
+	  {
+      "id": 19,
+      "name_category": "ARIEF B",
+      "title": "AKU INGIN BAHAGIA",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI19.mp3",
+      "lyrics": "<p>Diantara sepinya hati aku selalu merindukan cinta<br />Di sela-sela puing puing derita aku ingin hidup bahagia</p><p><br />di dalam renungan malam kucoba menuliskan kata<br />namun tiada kalimat yang sempurna yang dapat tuk mengungkapkan rasa</p><p><br />Keindahan rona wajahmu tiada sanggup aku lukiskan<br />Menyatu dalam angan-anganku<br />Membelai kasih dalam kalbu</p><p><br />Segala yang ada padaku kasih<br />akan kuserahkan padamu sayang<br />dan kuharapkan cinta yang putih<br />tumbuh bersemi di dalam hati</p><p>(*)</p><p>di dalam renungan malam kucoba menuliskan kata<br />namun tiada kalimat yang sempurna yang dapat tuk mengungkapkan rasa</p><p><br />Keindahan rona wajahmu tiada sanggup aku lukiskan<br />Menyatu dalam angan-anganku<br />Membelai kasih dalam kalbu</p><p><br />Segala yang ada padaku kasih<br />akan kuserahkan padamu sayang<br />yang kuharapkan cinta yang putih<br />tumbuh bersemi di dalam hati</p>"
+	  },
+	  {
+      "id": 20,
+      "name_category": "ARIEF B",
+      "title": "AKULAH YANG KAU CARI",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI20.mp3",
+      "lyrics": "<p>Aku tak tahu<br />Apa alasan yang membuatku bertahan<br />Sedang dirimu s'lalu menyiksa batinku</p><p><br />Berkali-kali ku dipatahkan<br />Harusnya cukup jadi alasan<br />Untuk pergi menjauh dari kehidupanmu</p><p><br />Tidakkah kau rasakan<br />Besarnya cintaku?<br />Ketulusan hati yang terdalam<br />Hanya untukmu</p><p><br />Harusnya dirimu menyadari<br />Akulah yang kau cari<br />Sudahi pencarian cintamu<br />Lihatlah aku</p><p><br />Di sini, ku masih bertahan untukmu<br />Menanti kau menyadari cintaku<br />Tak akan berpindah ke lain hati<br />Menunggu sampai kau mencintaiku</p><p><br />Berkali-kali ku dipatahkan<br />Harusnya cukup jadi alasan<br />Untuk pergi menjauh dari kehidupanmu</p><p><br />Tidakkah kau rasakan<br />Besarnya cintaku?<br />Ketulusan hati yang terdalam<br />Hanya untukmu</p><p><br />Harusnya dirimu menyadari<br />Akulah yang kau cari<br />Sudahi pencarian cintamu<br />Lihatlah aku</p><p><br />Di sini, ku masih bertahan untukmu<br />Menanti kau menyadari cintaku<br />Tak akan berpindah ke lain hati<br />Menunggu sampai kau mencintaiku</p>"
+	  },
+	  {
+      "id": 21,
+      "name_category": "ARIEF B",
+      "title": "AKU YANG MENGALAH",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI21.mp3",
+      "lyrics": "<p>Sudah lama kita hidup bersama<br />Merajut, menganyam tali cinta<br />Namun kini, semuanya sirna<br />Kar'na aku orang tak punya</p><p><br />Kini kau anggap aku tiada<br />Kar'na dia yang berpunya<br />Kasih, sayangku tiada berharga<br />Kar'na emas, permata</p><p><br />Cintaku kau anggap debu<br />Di penghujung bara cintamu<br />Oh Kasih, sungguh kau terlalu<br />Kau buat luka hatiku</p><p><br />Merangkak aku, mengejar cinta<br />Berharap kasih yang setia<br />Namun, apalah daya<br />Cinta tak mungkin kupaksa<br />Cinta tak mungkin kupaksa</p><p><br />Kini kau anggap aku tiada<br />Kar'na dia yang berpunya<br />Kasih, sayangku tiada berharga<br />Kar'na emas, permata</p><p><br />Cintaku kau anggap debu<br />Di penghujung bara cintamu<br />Oh Kasih, sungguh kau terlalu<br />Kau buat luka hatiku</p><p><br />Merangkak aku, mengejar cinta<br />Berharap kasih yang setia<br />Namun, apalah daya<br />Cinta tak mungkin kupaksa</p><p><br />Cinta tak mungkin kupaksa<br />Cintaku kau anggap debu<br />Di penghujung bara cintamu<br />Oh Kasih, sungguh kau terlalu<br />Kau buat luka hatiku</p><p><br />Merangkak aku, mengejar cinta<br />Berharap kasih yang setia<br />Namun, apalah daya<br />Cinta tak mungkin kupaksa<br />Cinta tak mungkin kupaksa</p>"
+	  },
+	  {
+      "id": 22,
+      "name_category": "ARIEF B",
+      "title": "ASMARA YANG KANDAS",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI22.mp3",
+      "lyrics": "<p>Inikah yang dinamakan asmara cinta?<br />Telah lama hubungan ini kita bina<br />Dengan mudah engkau menduakan cinta<br />Antara aku dengan dirinya</p><p><br />Diri ini telah percaya kepadamu<br />Rasa sayang ini kucurahkan untukmu<br />Namun itu semua tiada artinya<br />Sungguh sakit hati ini melihatmu</p><p><br />Entah apa yang tejadi kepadaku<br />Kau berani selingkuh di depan mataku<br />Serasa hati ini pilu dan sendu<br />Kau hancurkan diriku</p><p><br />Masih kuingat kalimat janji manismu<br />Kau 'kan s'lalu setia bersama diriku<br />Namun itu janji palsu yang kau ungkapkan<br />Aku pun terpedaya</p><p><br />Diri ini telah percaya kepadamu<br />Rasa sayang ini kucurahkan untukmu<br />Namun itu semua tiada artinya<br />Sungguh sakit hati ini melihatmu</p><p><br />Entah apa yang tejadi kepadaku<br />Kau berani selingkuh di depan mataku<br />Serasa hati ini pilu dan sendu<br />Kau hancurkan diriku</p><p><br />Masih kuingat kalimat janji manismu<br />Kau 'kan s'lalu setia bersama diriku<br />Namun itu janji palsu yang kau ungkapkan<br />Aku pun terpedaya</p>"
+	  },
+	  {
+      "id": 23,
+      "name_category": "ARIEF B",
+      "title": "BELAHAN JIWA",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI23.mp3",
+      "lyrics": "<p>Hanya dirimu dalam hatiku<br />Selain kamu tak ada lagi<br />Di dalam hati engkau singgahi<br />Dengar kasih cinta jangan kau pergi</p><p>Pelipur lara belahan jiwa<br />Bersamamu hidup menjadi indah<br />Aku bahagia tiada batasnya<br />Kumohon kau tetap disini saja</p><p>Jadikan aku pengantinmu<br />Jangan kau ragukan cintaku<br />Sebesar bumi cinta dan kasih<br />Berjanji kasih jangan pernah kau pergi</p><p>Jaga cintaku selamanya<br />Langit dan bumilah saksinya<br />Ku takkan mendua Ku selalu setia<br />Percaya kita takkan pernah terpisah</p><p>(*)</p><p>Pelipur lara belahan jiwa<br />Bersamamu hidup menjadi indah<br />Aku bahagia tiada batasnya<br />Kumohon kau tetap disini saja</p><p>Jadikan aku pengantinmu<br />Jangan kau ragukan cintaku<br />Sebesar bumi cinta dan kasih<br />Berjanji kasih jangan pernah kau pergi</p><p>Jaga cintaku selamanya<br />Langit dan bumilah saksinya<br />Ku takkan mendua Ku selalu setia<br />Percaya kita takkan pernah terpisah</p><p>(**)</p><p>Jadikan aku pengantinmu<br />Jangan kau ragukan cintaku<br />Sebesar bumi cinta dan kasih<br />Berjanji kasih jangan pernah kau pergi</p><p>Jaga cintaku selamanya<br />Langit dan bumilah saksinya<br />Ku takkan mendua Ku selalu setia<br />Percaya kita takkan pernah terpisah</p>"
+	  },
+	  {
+      "id": 24,
+      "name_category": "ARIEF B",
+      "title": "BERTARUH DALAM CINTA",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI24.mp3",
+      "lyrics": "<p>Aku yang mencintaimu<br />Aku yang menyayangimu<br />Mengapa harus diriku yang engkau sakiti<br />Aku yang selalu betahan mengalah karena cinta<br />Namun engkau yang hancurkan<br />Sengaja kau menoreh luka pada diriku<br />Inikah balasan cinamu terlalu aku yan kau siksa<br />Tak pernah kau anggapku ada<br />Sakitnya bagai tertusuk duri berbisa</p><p><br />Aku yang bertaruh dalam cinta demi mahligai yang tlah bina<br />Kamu yang tak ingin aku ada Hingga terus kau buat<br />Puaskanlah hatimu untunk menyakiti sampai bisa kau harga</p><p><br />Aku yang selalu bertahan mengalah karena cinta<br />Namun engkau yang hancurkan<br />Sengaja kau menoreh luka pada diriku<br />Inikah balasan cintamu terlalu aku yan kau siksa<br />Sakitnya bagai tertusuk duri berbisa<br />Aku yang bertaruh dalam cinta<br />Demi mahligai yang tlah bina kamu yang tak ingin aku ada<br />Hingga terus kau buat kecewa<br />Puaskanlah hatimu untuk menyakiti<br />Sampai bisa kau hargai</p>"
+	  },
+	  {
+      "id": 25,
+      "name_category": "ARIEF B",
+      "title": "CINTAMU RINDUKU",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "ARIEF B",
+      "title": "HATIKU BEGITU HAMPA",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "ARIEF B",
+      "title": "KEPERCAYAANMU PADAKU",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "ARIEF B",
+      "title": "MAU PULANG TAKUT KECEWA",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "ARIEF B",
+      "title": "PANAH CINTA MENUSUK LUKA",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "ARIEF B",
+      "title": "PERJALANAN HIDUP",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "ARIEF B",
+      "title": "SEBELUM PUSTUS",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI31.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 32,
+      "name_category": "ARIEF B",
+      "title": "SEMPURNA DENGANMU",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI32.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "ARIEF B",
+      "title": "TAK BERDAYA BUKAN TAK MAMPU",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI33.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 34,
+      "name_category": "ARIEF B",
+      "title": "TOLONG JAGA PERASAANKU",
+      "image": "file:///android_asset/image/RB.jpg",
+      "link_mp3": "mp3/RIMLAI34.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
