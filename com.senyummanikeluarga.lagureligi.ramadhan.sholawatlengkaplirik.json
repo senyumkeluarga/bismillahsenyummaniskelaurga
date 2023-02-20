@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "XX",
+      "main_ads_intertitial":"XX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"NULL",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "RAMADHAN A",
+      "image": "file:///android_asset/image/RHA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "RAMADHAN B",
+      "image": "file:///android_asset/image/RHB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "RAMADHAN A",
+      "title": "RAHMATAN LIL ALAMIN",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI1.mp3",
+      "lyrics": "<p>Yaa man shollaita bikullil Anbiya<br />Yaa man fii qolbika Rohmatun linnas<br />Yaa man allafta quluuban bil Islam<br />Yaa habiibii yaa shafiii yaa Rasula Allah</p><p><br />Bi ummi wa abi, fadaytuka sayyidi<br />Sholatun wa salam, alayka yaa Nabi</p><p><br />Habibi ya Muhammad<br />Atayta bissalami wal huda, Muhammad<br />Habibi ya, ya Muhammad<br />Ya rahmatan lilalameena ya Muhammad</p><p><br />Ya man hallayta hayatana bil iman<br />Ya man bijamalika allamtal ihsan<br />Ya man nawwarta qulubana bil quran<br />Ya habibi ya shafii ya Rasula Allah</p><p><br />Bi ummi wa abi, fadaytuka sayyidi<br />Sholatun wa salam, alayka yaa Nabi</p><p><br />Habibi ya Muhammad<br />Atayta bissalami wal huda, Muhammad<br />Habibi ya, ya Muhammad<br />Ya rahmatan lilalameena ya Muhammad</p><p><br />Salla Allahu ala<br />Khatamil Anbiya</p><p><br />Muhammad, Muhammad<br />Rahmatun lilalameen, Rahmatun lilalameen</p><p><br />Muhammad, Muhammad<br />Rahmatun lilalameen, Rahmatun lilalameen</p><p><br />Muhammad, Muhammad<br />Rahmatun lilalameen, Rahmatun lilalameen</p><p><br />Habibi ya Muhammad<br />Atayta bissalami wal huda, Muhammad<br />Habibi ya, ya Muhammad<br />Ya rahmatan lilalameena ya Muhammad</p><p><br />Habibi ya Muhammad<br />Atayta bissalami wal huda, Muhammad<br />Habibi ya, ya Muhammad<br />Ya rahmatan lilalameena ya Muhammad</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "RAMADHAN A",
+      "title": "RAMADHAN TIBA",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI2.mp3",
+      "lyrics": "<p>Ramadhan tiba<br />Ramadhan tiba<br />Ramadhan tiba<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan</p><p><br />Ramadhan tiba<br />Ramadhan tiba<br />Ramadhan tiba<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan</p><p><br />Ramadhan tiba semua bahagia<br />Tua dan muda bersuka cita<br />Bulan ampunan bulan yang berkah<br />Bulan terbebas api neraka</p><p><br />Andaikan saja Ramadhan semua<br />Bulan yang tiba bulan yang ada<br />Karena besarnya setiap pahala<br />Yang di janjikan kepada kita</p><p><br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan</p><p><br />Dalam bersahur ada pahala<br />Dalam berbuka alangkah indah<br />Menahan diri menahan lidah<br />Menjaga hati menjaga mata</p><p><br />Banyakkan amal hari-harinya<br />Pahala datang berlipat ganda<br />Berlomba lomba untuk ibadah<br />Dunia bahagia surga nantinya</p><p><br />Ramadhan tiba<br />Ramadhan tiba<br />Ramadhan tiba<br />Ramadhan tiba<br />Ramadhan tiba<br />Ramadhan tiba</p><p><br />Dan semoga setiap jiwa<br />Diberikan ampunanNya<br />Dan semoga hapus semua<br />Kesalahan setiap jiwa</p><p><br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan<br />Marhaban Ya Ramadhan</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "RAMADHAN A",
+      "title": "RAMADHAN",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI3.mp3",
+      "lyrics": "<p>Ku menantimu<br />Saban waktu bangkit jiwaku<br />Kau suluh hatiku<br />Dengan sinar kudus kasihmu<br />Kuharapkan terus<br />Bersamamu selamanya</p><p><br />Ramadhan<br />Ramadhan<br />Ramadhan di hati</p><p><br />Ramadhan<br />Ramadhan<br />Kumohon usah pergi</p><p><br />Rahmat melimpah<br />Damainya kurasakan<br />Ramadhan bulan Al-Quran<br />Mendidik jiwaku menyuburkan iman<br />Kuharapkan terus<br />Bersamamu selamanya</p><p><br />Ramadhan<br />Ramadhan<br />Ramadhan di hati</p><p><br />Ramadhan<br />Ramadhan<br />Kumohon usah pergi</p><p><br />Sememangnya kau ku nantikan<br />Hadirmu hidupkan suram di jiwaku<br />Dan ku berjanji<br />Akan kuteruskan<br />Semangat itu<br />Sepanjang hidupku<br />Oh, Ramadhan</p><p><br />Ramadhan<br />Ramadhan<br />Ramadhan di hati<br />Ramadhan</p><p><br />Ramadhan<br />Kumohon usah pergi<br />Ramadhan</p><p><br />Ramadhan<br />Ramadhan di hati<br />Ramadhan</p><p><br />Ramadhan<br />Kumohon usah pergi<br />Kumohon usah pergi</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "RAMADHAN A",
+      "title": "MARHABAN YA RAMADHAN",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI4.mp3",
+      "lyrics": "<p>مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام</p><p><br />Selamat datang, Ramadan, bulan penuh ampunan<br />Selamat datang, Ramadan, bulan penuh ganjaran<br />Mari kita menyambut dengan hati gembira<br />Mari kita menyambut dengan hati bahagia</p><p><br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام</p><p><br />Allah jadikan Ramadan bulan penuh berkah<br />Allah jadikan Ramadan bulan penuh rahmat<br />Perbanyaklah ibadah, jangan lupa sedekah<br />Perbanyaklah tadarus, jangan lupa shalawat</p><p><br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام</p><p><br />Selamat datang bulan yang siang hari mulia<br />Selamat datang bulan yang malamnya pun mulia<br />Nafas dan tidur kita pun mendapat pahala<br />Dosa pun diampuni, doa pun diterima</p><p><br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام<br />مرحبًا يا شهر رمضان<br />يا شهر الصيام</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "RAMADHAN A",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI5.mp3",
+      "lyrics": "<p>Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p>Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "RAMADHAN A",
+      "title": "RINDU MUHAMMAD",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI6.mp3",
+      "lyrics": "<p>Yaa robbi bil-Mustofa<br />Yaa robbi bil-Mustofa<br />Yaa robbi bil-Mustofa balligh maqooshidanaa<br />Waghfirlanaa maamadhoyaa waasi'al karomi</p><p><br />Demi cinta-Mu ya Allah<br />Pada Muhammad nabi-Mu<br />Ampunilah dosaku<br />Wujudkan harapanku<br />Ya Rasulallah salamun alaik<br />Ya rofi'assyaniwaddaroji</p><p><br />Siapa yang cinta pada nabinya<br />Pasti bahagia dalam hidupnya</p><p><br />Muhammadku Muhammadku dengarlah seruanku<br />Aku rindu aku rindu kepadamu Muhammadku</p><p><br />Kau yang mengaku cinta kepada nabimu<br />Kau yang mengaku merindukan nabimu<br />Jika kau benar-benar cinta dan rindu kepada Muhammad nabimu<br />BuktikanTaati perintahNya, tinggalkan laranganNya<br />Teladani akhlaknya<br />Niscaya kelak kau akan berjumpa dengan Rasullallah<br />Niscaya kelak kau akan berkumpul dengan Rasullallah</p><p><br />Muhammadku Muhammadku dengarlah seruanku<br />Aku rindu aku rindu kepadamu Muhammadku</p><p><br />Kau ajarkan hidup ini untuk saling mengasihi<br />Ku tanamkan dalam hati kuamalkan sejak dini</p><p><br />Ya Rasulallah salamun alaik<br />Ya rofi'assyaniwaddaroji</p><p><br />Engkaulah nabi pembawa cinta<br />Kau bimbing kami menuju surga</p><p><br />Muhammadku Muhammadku dengarlah seruanku<br />Aku rindu aku rindu kepadamu Muhammadku</p><p><br />Kau yang mengaku cinta kepada nabimu<br />Kau yang mengaku merindukan nabimu<br />Jika kau benar-benar cinta dan rindu kepada Muhammad nabimu<br />BuktikanTaati perintahNya, tinggalkan laranganNya<br />Teladani akhlaknya<br />Niscaya kelak kau akan berjumpa dengan Rasullallah<br />Niscaya kelak kau akan berkumpul dengan Rasullallah</p><p><br />Yaa robbi bil-Mustofa<br />Yaa robbi bil-Mustofa<br />Yaa robbi bil-Mustofa</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "RAMADHAN A",
+      "title": "SADUNA FIDDUNYA",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI7.mp3",
+      "lyrics": "<p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal maruuf<br />Wal Athoil maluuf<br />Ghoroota lilmalhuuf<br />Innakum bihiadroo</p><p><br />Ya Uhailal mathluub<br />Wal Athoil mauhuub<br />Ghoroota lilmakruub<br />Innakum bihiadroo</p><p><br />Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal ihsaan<br />Wal Atho walghufroon<br />Ghorootal lilkhairoon<br />Innakum bihiadroo</p><p><br />Ya Uhailal Isaad<br />Wal Atho walirfaan<br />Ghoroota yaasyaad<br />Innakum bihiadroo</p><p><br />Saduu-naa fiddunyaa<br />Fauzuu-naa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "RAMADHAN A",
+      "title": "SAMBUT RAMADHAN",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI8.mp3",
+      "lyrics": "<p>Ayo kawan dekatkan diri pada IIlahi<br />Agar terbuka pintu Rahmat-Nya<br />Pintu Kasih-Nya</p><p><br />Janganlah bimbang janganlah ragu<br />Allah membuka pintu bagi Hamba-Nya<br />Marilah kita sambut Rahmat-Nya<br />Terangi hati dengan Cinta-Nya</p><p><br />Marilah kawan kita amalkan isi Al-Quran<br />Dengan tinggalkan larangan Allah juga Nabi-Nya</p><p><br />Ayo kawan dekatkan diri pada Ilahi<br />Agar terbuka pintu Rahmat-Nya<br />Pintu Kasih-Nya</p><p><br />Janganlah bimbang janganlah ragu<br />Allah membuka pintu bagi Hamba-Nya<br />Marilah kita sambut Rahmat-Nya<br />Terangi hati dengan Cinta-Nya</p><p><br />Ya Allah kami selalu berharap selalu meminta<br />Engkau maafkan semua salah dan dosa kami</p><p><br />Ayo kawan dekatkan diri pada Ilahi<br />Agar terbuka pintu Rahmat-Nya<br />Pintu Kasih-Nya</p><p><br />Ayo kawan dekatkan diri pada Ilahi<br />Agar terbuka pintu Rahmat-Nya<br />Pintu Kasih-Nya<br />Pintu Rahmat-Nya<br />Pintu Kasih-Nya<br />Pintu Rahmat-Nya<br />Pintu Kasih-Nya</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "RAMADHAN A",
+      "title": "SEPANJANG HIDUP",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI9.mp3",
+      "lyrics": "<p>Aku bersyukur kau di sini kasih<br />Di kalbuku mengiringi<br />Dan padamu ingin ku sampaikan</p><p><br />Kau cahaya hati<br />Dulu ku palingkan diri dari cinta<br />Hingga kau hadir membasuh segalanya<br />Oh inilah janjiku kepadamu</p><p><br />Reff:<br />Sepanjang hidup bersamamu<br />Kesetiaanku tulus untukmu<br />Hingga akhir waktu kaulah cintaku cintaku<br />Sepanjang hidup seiring waktu<br />Aku bersyukur atas hadirmu<br />Kini dan selamanya aku milikmu</p><p><br />Yakini hatiku kau anugerah Sang Maha Rahim<br />Semoga Allah berkahi kita<br />Kekasih penguat jiwaku</p><p><br />Berdoa kau dan aku di Jannah<br />Ku temukan kekuatanku di sisimu<br />Kau hadir sempurnakan seluruh hidupku<br />Oh inilah janjiku kepadamu</p><p><br />Repeat reff</p><p><br />Yakini hatiku bersamamu ku sadari inilah cinta<br />Tiada ragu dengarkanlah<br />Kidung cintaku yang abadi</p><p><br />Repeat reff</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "RAMADHAN A",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI10.mp3",
+      "lyrics": "<p>Ilahanaa.. Yaa Ilahanaa<br />Yasir Lanaa Umuuronaa<br />Ilahanaa.. Yaaa ilahanaa<br />Mindiininaa wadun yaanaa..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u, <br />Yaa Aliimu..<br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan<br />Waf-ta? Quluubanaa.. <br />Wafta? Quluubanaa.. <br />Ala Ta&rsquo;alumil Uluumi<br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Allah Yaa Robb.. Allah Yaa Robbi..<br />Mudahkanlah Urusan Kami<br />Agama Kami Dunia Kami<br />Wahai Allah Yang Mengetahui</p><p><br />Buka Hati Kami.. Buka Hati Kami..<br />Untuk Membaca Al Qur&rsquo;an..<br />Bacalah Al Qur&rsquo;an.. Bacalah Al Qur&rsquo;an..<br />Al Qur&rsquo;an Sumber Kehidupan..</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "RAMADHAN A",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI11.mp3",
+      "lyrics": "<p>Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Baldatun al-Auliya<br />Baldatun al-Auliya<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Bijahi Ba &lsquo;Alawi<br />Bijahi Ba &lsquo;Alawi<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Saqqofuna waliyyun<br />Saqqofuna waliyyun<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Al-Muhdlor wal &lsquo;Aydarus<br />Al-Muhdlor wal &lsquo;Aydarus<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Al-Haddad wal &lsquo;Aththos<br />Al-Haddad wal &lsquo;Aththos<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Wa jamiil wali<br />Wa jamiil wali<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "RAMADHAN A",
+      "title": "KU MENCINTAIMU",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "RAMADHAN A",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "RAMADHAN A",
+      "title": "ADA ANAK BERTANYA PADA BAPAKNYA",
+      "image": "file:///android_asset/image/RHA.jpg",
+      "link_mp3": "mp3/ROMSHORI14.mp3",
+      "lyrics": "<p>Ada anak bertanya pada bapaknya<br />Buat apa berlapar-lapar puasa<br />Ada anak bertanya pada bapaknya<br />Tadarus tarawih apalah gunanya</p><p><br />Lapar mengajarmu rendah hati selalu<br />Tadarus artinya memahami kitab suci<br />Tarawih mendekatkan diri pada Ilahi</p><p><br />Lihatlah langit keanggunan yang indah<br />Membuka luas dan anginpun semerbak<br />Nafsu angkara terbelenggu dan lemah<br />Ulah ibadah dalam ikhlas sedekah</p><p><br />Lapar mengajarmu rendah hati selalu<br />Tadarus artinya memahami kitab suci<br />Tarawih mendekatkan diri pada Ilahi</p><p><br />Ya Rahman Allah Ya Illahi Ya Robbi</p><p><br />Ada anak bertanya pada bapaknya<br />Buat apa berlapar-lapar puasa<br />Ada anak bertanya pada bapaknya<br />Tadarus tarawih apalah gunanya</p><p><br />Lapar mengajarmu rendah hati selalu<br />Tadarus artinya memahami kitab suci<br />Tarawih mendekatkan diri pada Ilahi</p><p><br />Lihatlah langit keanggunan yang indah<br />Membuka luas dan anginpun semerbak<br />Nafsu angkara terbelenggu dan lemah<br />Ulah ibadah dalam ikhlas sedekah</p><p><br />Lapar mengajarmu rendah hati selalu<br />Tadarus artinya memahami kitab suci<br />Tarawih mendekatkan diri pada Ilahi</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "RAMADHAN B",
+      "title": "ALBI YA ALBI",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "RAMADHAN B",
+      "title": "ALLAH ALLAH AGHISNA",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "RAMADHAN B",
+      "title": "ASSALAMUALAIKA",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "RAMADHAN B",
+      "title": "BARAKAALLAHULAKUMD",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "RAMADHAN B",
+      "title": "DEMI MASA",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI19.mp3",
+      "lyrics": "<p>Demi masa sesungguhnya manusia kerugian<br />Melainkan yang beriman dan beramal sholeh<br />Demi masa sesungguhnya manusia kerugian<br />Melainkan nasehat kepada kebenaran dan kesabaran</p><p><br />a a a.....</p><p><br />Gunakan kesempatan yang masih diberi moga kita takkan menyesal<br />Masa usia kita jangan disiakan kerna ia takkan kembali</p><p><br />Ingat lima perkara sebelum lima perkara<br />Sihat sebelum sakit<br />Muda sebelum tua<br />Kaya sebelum miskin<br />Lapang sebelum sempit<br />Hidup sebelum mati</p><p><br />Ingat lima perkara sebelum lima perkara<br />Ingat lima perkara sebelum lima perkara</p><p><br />Demi masa sesungguhnya manusia kerugian<br />Melainkan yang beriman dan beramal sholeh<br />Gunakan kesempatan yang masih diberi moga kita takkan menyesal<br />Masa usia kita jangan disiakan kerna ia takkan kembali</p><p><br />Ingat lima perkara sebelum lima perkara<br />Sihat sebelum sakit<br />Muda sebelum tua<br />Kaya sebelum miskin<br />Lapang sebelum sempit<br />Hidup sebelum mati</p><p><br />Ingat lima perkara sebelum lima perkara<br />sihat sebelum sakit<br />Muda sebelum tua<br />Kaya sebelum miskin<br />Lapang sebelum sempit</p><p><br />Ingat lima perkara Hidup sebelum mati<br />sebelum lima perkara Sihat sebelum sakit<br />Ingat lima perkara sebelum lima perkara Muda sebelum tua</p><p><br />Ingat lima perkara Kaya sebelum miskin</p><p><br />sebelum lima perkara Lapang sebelum sempit<br />Ingat lima perkara sebelum lima perkara Hidup sebelum mati<br />Ingat lima perkara sebelum lima perkara Hidup sebelum mati<br />Ingat lima perkara sebelum lima perkara</p>"
+	  },
+	  {
+      "id": 20,
+      "name_category": "RAMADHAN B",
+      "title": "INDAHNYA RAMADHAN",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI20.mp3",
+      "lyrics": "<p>Marhaban Ramadhan Marhaban Ramadhan<br />Marhaban, Marhaban, Ramadhan<br />Marhaban Ramadhan Marhaban Ramadhan<br />Marhaban, Marhaban, Ramadhan</p><p><br />Puasa Ramadhan telah datang kembali<br />Langit bumi bintang pun menari<br />Wajah-wajah bahagia menyambut gembira<br />Bulan penuh berkah<br />Bulan penuh dengan ampunan-Nya</p><p><br />Bersyukurlah hati padaMu ya Robbi<br />Ramadhan yang indah kutemui<br />Air mata bahagia di bulan karunia<br />Bulan penuh cinta, bulan dengan berjuta cahaya</p><p><br />Menahan diri, bangun malam, shalat dan mengaji<br />Hari-hari tadarus, tarawih berbagi</p><p><br />Indahnya Ramadhan bulan penuh dengan kasih sayang<br />Ramadhan ramadhan karunia sang Maha Penyayang<br />Ramadhan ramadhan bulan tanpa benci dan dendam<br />Ramadhan ramadhan bulan untuk saling memaafkan</p><p><br />Menahan diri, bangun malam shalat dan mengaji<br />Hari-hari, tadarus tarawih berbagi</p><p>Marhaban<br />Ramadhan Marhaban Ramadhan<br />Marhaban, Marhaban, Ramadhan<br />Marhaban Ramadhan Marhaban Ramadhan<br />Marhaban, Marhaban, Ramadhan</p><p><br />Indahnya Ramadhan bulan penuh dengan kasih sayang<br />Ramadhan ramadhan karunia sang Maha Penyayang<br />Ramadhan ramadhan bulan tanpa benci dan dendam<br />Ramadhan ramadhan bulan untuk saling memaafkan</p><p><br />Indahnya Ramadhan bulan penuh dengan kasih sayang<br />Ramadhan ramadhan karunia sang Maha Penyayang<br />Ramadhan Ramadhan.. Marhaban Marhaban Ramadhan<br />Ramadhan Ramadhan.. Marhaban Marhaban Ramadhan</p>"
+	  },
+	  {
+      "id": 21,
+      "name_category": "RAMADHAN B",
+      "title": "KOTA SANTRI",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI21.mp3",
+      "lyrics": "<p>Suasana di kota santri<br />Asik senangkan hati<br />Suasana di kota santri<br />Asik senangkan hati</p><p><br />Tiap pagi dan sore hari<br />Muda mudi berbusana rapi<br />Menyandang kitab suci<br />Hilir mudik silih berganti<br />Pulang pergi mengaji</p><p><br />Suasana di kota santri<br />Asik senangkan hati<br />Suasana di kota santri<br />Asik senangkan hati</p><p><br />Tiap pagi dan sore hari<br />Muda mudi berbusana rapi<br />Menyandang kitab suci<br />Hilir mudik silih berganti<br />Pulang pergi mengaji</p><p><br />Duhai ayah ibu berikanlah izin daku<br />Untuk menuntut ilmu pergi ke rumah guru<br />Mondok di kota santri banyak ulama kiai<br />Tumpuan orang mengaji, mengkaji ilmu agama<br />Bermanfaat di dunia menuju hidup bahagia<br />Sampai di akhir masa</p><p><br />Suasana di kota santri<br />Asik senangkan hati<br />Suasana di kota santri<br />Asik senangkan hati</p><p><br />Tiap pagi dan sore hari<br />Muda mudi berbusana rapi<br />Menyandang kitab suci<br />Hilir mudik silih berganti<br />Pulang pergi mengaji</p><p><br />Suasana di kota santri<br />Asik senangkan hati<br />Suasana di kota santri<br />Asik senangkan hati</p><p><br />Duhai ayah ibu berikanlah izin daku<br />Untuk menuntut ilmu pergi ke rumah guru<br />Mondok di kota santri banyak ulama kiai<br />Tumpuan orang mengaji, mengkaji ilmu agama<br />Bermanfaat di dunia menuju hidup bahagia<br />Sampai di akhir masa</p><p><br />Suasana di kota santri<br />Asik senangkan hati<br />Suasana di kota santri<br />Asik senangkan hati</p><p><br />Tiap pagi dan sore hari<br />Muda mudi berbusana rapi<br />Menyandang kitab suci<br />Hilir mudik silih berganti<br />Pulang pergi mengaji</p>"
+	  },
+	  {
+      "id": 22,
+      "name_category": "RAMADHAN B",
+      "title": "MUHAMMAD NABINA",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI22.mp3",
+      "lyrics": "<p>Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p><p><br />Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p><p><br />Yaa imaamnaa, yaa amiin, ya sanad lilmuslimiin<br />Ya habiibii, ya Muhammad, yabna a&rsquo;bdillah</p><p><br />Tammatir rusaalaat tamaam, walhabiib miskil khitaam<br />Thul hayatiiwuf sholaatii badi&rsquo;i shollii waroh</p><p><br />Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p><p>&nbsp;</p><p>&nbsp;</p><p>Min awwil yuum fii u&rsquo;mrii sama&rsquo;t abuu yaa ummii<br />Biisholluu a&rsquo;layk, allahumma shollina&rsquo;layk</p><p><br />Habibnii fiil iimaan, hassisnii bil-amaan<br />Watta-a&rsquo;llaqti biih, allaahumma sholli wa sallim wa baarik a&rsquo;layh<br />Allaahumma sholli wa sallim wa baarik a&rsquo;layh</p><p><br />Nafsasyuufak fil manaam, ya Rasuulallah<br />Wabkaa a&rsquo;laa kitfak wa anaam, ya habiiballah<br />Waanuul syarof luqoo shuhbitak<br />Wa khotthii fii shuhuuf ummitak wathaamaa fiik</p><p><br />Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Yaa habiibii yaa thoha, yabghonniil mataahah<br />Ghoyyar biddunyaa fii a&rsquo;yniinaa bagna liilaw wa dhuhaahaa</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p>"
+	  },
+	  {
+      "id": 23,
+      "name_category": "RAMADHAN B",
+      "title": "QALBI MUHAMMAD",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "RAMADHAN B",
+      "title": "SHOLAWAT NARIYAH",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI24.mp3",
+      "lyrics": "<p>Alloohumma sholi sholaatan<br />Kaamilatan wasallim salaaman<br />Taamman &lsquo;alaa sayyidina muhammadinil ladzii</p><p><br />Tanhallu bihil &lsquo;uqodu<br />Wa tanfariju bihil kurobu<br />Wa tuqdhoo bihil hawaa-iju<br />Wa tunaalu bihir roghoo ibu</p><p><br />Wa husnul khowaatimi<br />Wa yustasqol ghomaamu<br />Bi wajhihil kariimi wa &lsquo;alaa aalihii</p><p><br />Wa shohbihi fii kulli Lamhatin<br />wa nafasin Bi &lsquo;adadi<br />kulli ma&rsquo;luumin laka</p><p><br />Alloohumma sholi sholaatan<br />Kaamilatan wasallim salaaman<br />Taamman &lsquo;alaa sayyidina muhammadinil ladzii</p><p><br />Tanhallu bihil &lsquo;uqodu<br />Wa tanfariju bihil kurobu<br />Wa tuqdhoo bihil hawaa-iju<br />Wa tunaalu bihir roghoo ibu</p><p><br />Wa husnul khowaatimi<br />Wa yustasqol ghomaamu<br />Bi wajhihil kariimi wa &lsquo;alaa aalihii</p><p><br />Wa shohbihi fii kulli Lamhatin wa nafasin<br />nafasin Bi &lsquo;adadi<br />kulli ma&rsquo;luumin laka</p><p>Wa shohbihi fii kulli Lamhatin wa nafasin<br />nafasin Bi &lsquo;adadi<br />kulli ma&rsquo;luumin laka</p>"
+	  },
+	  {
+      "id": 25,
+      "name_category": "RAMADHAN B",
+      "title": "WAHAI PEMILIK JIWA",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "RAMADHAN B",
+      "title": "WAQTU SAHAR",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "RAMADHAN B",
+      "title": "YA MAULANA",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "RAMADHAN B",
+      "title": "ZAUJATI",
+      "image": "file:///android_asset/image/RHB.jpg",
+      "link_mp3": "mp3/ROMSHORI28.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
