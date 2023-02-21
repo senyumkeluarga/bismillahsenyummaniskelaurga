@@ -1,0 +1,342 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ADZAN",
+      "image": "file:///android_asset/image/AD.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "ADZAN SUBUH",
+      "image": "file:///android_asset/image/ADS.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "TARHIM",
+      "image": "file:///android_asset/image/TR.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "DOA ADZAN",
+      "image": "file:///android_asset/image/DA.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ADZAN",
+      "title": "SHEIKH ALI AHMED MULLA",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU1.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "ADZAN",
+      "title": "MISYARI RASYID",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "ADZAN",
+      "title": "MOHAMMAD TREX",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "ADZAN",
+      "title": "SALIM BAHANA",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "ADZAN",
+      "title": "MEVLAN KURTIS",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "ADZAN",
+      "title": "SYEIKH MANSOR AL SALEMI",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "ADZAN",
+      "title": "ATIF ASLAM",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "ADZAN",
+      "title": "ADZAN MEKKAH",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "ADZAN",
+      "title": "ADZAN MADINA",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "ADZAN",
+      "title": "ADZAN INDONESIA",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "ADZAN",
+      "title": "ADZAN MALAYSIA",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "ADZAN",
+      "title": "ADZAN PALESTINA",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "ADZAN",
+      "title": "ADZAN MESIR",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "ADZAN",
+      "title": "ADZAN DUBAI",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "ADZAN",
+      "title": "ADZAN JAWA",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "ADZAN",
+      "title": "ADZAN KURDI",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "ADZAN",
+      "title": "ADZAN LEBANON",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "ADZAN",
+      "title": "ADZAN MAROKO",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "ADZAN",
+      "title": "ADZAN PAKISTAN",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "ADZAN",
+      "title": "ADZAN PHILIPINE",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "ADZAN",
+      "title": "ADZAN SINGAPURA",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "ADZAN",
+      "title": "ADZAN TURKI",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "ADZAN",
+      "title": "ADZAN YAMAN",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "ADZAN",
+      "title": "ADZAN YORDANIA",
+      "image": "file:///android_asset/image/AD.jpg",
+      "link_mp3": "mp3/DAHADDU24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "ADZAN SUBUH",
+      "title": "SHEIKH ALI AHMED MULLA",
+      "image": "file:///android_asset/image/ADS.jpg",
+      "link_mp3": "mp3/DAHADDU25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "ADZAN SUBUH",
+      "title": "ADZAN MAKKAH 1",
+      "image": "file:///android_asset/image/ADS.jpg",
+      "link_mp3": "mp3/DAHADDU26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "ADZAN SUBUH",
+      "title": "ADZAN MAKKAH 2",
+      "image": "file:///android_asset/image/ADS.jpg",
+      "link_mp3": "mp3/DAHADDU27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "ADZAN SUBUH",
+      "title": "MISYARI RASYID",
+      "image": "file:///android_asset/image/ADS.jpg",
+      "link_mp3": "mp3/DAHADDU28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "ADZAN SUBUH",
+      "title": "ADZAN MADINA",
+      "image": "file:///android_asset/image/ADS.jpg",
+      "link_mp3": "mp3/DAHADDU29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "ADZAN SUBUH",
+      "title": "ADZAN MALAYSIA",
+      "image": "file:///android_asset/image/ADS.jpg",
+      "link_mp3": "mp3/DAHADDU30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "ADZAN SUBUH",
+      "title": "ADZAN MIZAMIL",
+      "image": "file:///android_asset/image/ADS.jpg",
+      "link_mp3": "mp3/DAHADDU31.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 32,
+      "name_category": "ADZAN SUBUH",
+      "title": "ADZAN SUBUH",
+      "image": "file:///android_asset/image/ADS.jpg",
+      "link_mp3": "mp3/DAHADDU32.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "TARHIM",
+      "title": "TARHIM 1",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/DAHADDU33.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 34,
+      "name_category": "TARHIM",
+      "title": "TARHIM 2",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/DAHADDU34.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 35,
+      "name_category": "TARHIM",
+      "title": "TARHIM 3",
+      "image": "file:///android_asset/image/TR.jpg",
+      "link_mp3": "mp3/DAHADDU35.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 36,
+      "name_category": "DOA ADZAN",
+      "title": "DOA SESUDAH ADZAN",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DAHADDU36.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
