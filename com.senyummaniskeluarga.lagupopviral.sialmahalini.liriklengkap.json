@@ -1,0 +1,284 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "xx",
+      "main_ads_intertitial":"xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "MAHALINI",
+      "image": "file:///android_asset/image/MS.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "POP VIRAL",
+      "image": "file:///android_asset/image/PI.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MAHALINI",
+      "title": "SIAL",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH1.ogg",
+      "lyrics": "<p>Sampai saat ini tak terpikir olehku</p><p>Aku pernah beri rasa pada orang sepertimu</p><p><br />Seandainya sejak awal tak kuyakinkan diriku<br />Tutur kata yang sempurna, tak sebaik yang kukira</p><p><br />Andai ku tahu semua akan sia-sia<br />Takkan kut'rima cinta sesaatmu</p><p><br />Bagaimana dengan aku terlanjur mencintaimu<br />Yang datang beri harapan, lalu pergi dan menghilang<br />Tak terpikirkan olehmu, hatiku hancur kar'namu<br />Tanpa sedikit alasan, pergi tanpa berpamitan<br />Takkan kut'rima cinta sesaatmu</p><p><br />Seandainya sejak awal tak kuyakinkan diriku<br />Tutur kata yang sempurna, tak sebaik yang kukira</p><p><br />Andai ku tahu semua akan sia-sia<br />Takkan kut'rima cinta sesaatmu</p><p><br />Bagaimana dengan aku terlanjur mencintaimu<br />Yang datang beri harapan, lalu pergi dan menghilang<br />Tak terpikirkan olehmu, hatiku hancur kar'namu<br />Tanpa sedikit alasan, pergi tanpa berpamitan<br />Tak akan kut'rima cinta sesaatmu</p><p><br />Sial-sialnya ku bertemu dengan cinta semu<br />Tertipu tutur dan caramu<br />Seolah cintaiku<br />Puas kaucurangi aku</p><p><br />Bagaimana dengan aku terlanjur mencintaimu<br />Yang datang beri harapan, lalu pergi dan menghilang<br />Tak terpikirkan olehmu, hatiku hancur kar'namu<br />Tanpa sedikit alasan, pergi tanpa berpamitan<br />Takkan kut'rima cinta sesaatmu</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "MAHALINI",
+      "title": "BOHONG HATI",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH2.ogg",
+      "lyrics": "<p>Aku tersiksa<br />Melihat semuanya berubah<br />Mengapa<br />Kau tak mau tahu<br />Bagaimana hati ini tanpamu<br />Cintamu</p><p><br />Oh dimana aku bisa temui dirimu<br />Yang dulu cinta<br />Dan anggap aku ada</p><p><br />Jika kau minta aku menjauh<br />Hilang dari seluruh memori indahmu<br />Kan kulakukan semua walau tak mungkin sanggup<br />Bohongi hatiku</p><p>&nbsp;</p><p>Oh dimana aku bisa temui dirimu ha<br />Yang dulu cinta<br />Dan anggap aku ada</p><p><br />Oh jika kau meminta aku menjauh<br />Hilang dari seluruh memori indahmu<br />Kan kulakukan semua walau tak mungkin sanggup<br />Bohongi hatiku</p><p><br />Saat ku rindu ku coba tak rindu<br />Demi bahagiamu yang tak membutuhkanku<br />Entah sampai dimana sanggup ku kan bertahan<br />Tuk bisa tanpamu</p><p><br />Ya tak mungkin kau menemukan yang sama lagi<br />Tulus hati sperti yang aku miliki ho</p><p><br />Jika kau minta aku menjauh<br />Hilang dari seluruh memori indahmu<br />Kan kulakukan semua walau tak mungkin sanggup<br />Bohongi hatiku ho</p><p><br />Saat ku rindu ku coba tak rindu<br />Demi bahagiamu yang tak lagi butuhkanku<br />Entah sampai dimana aku sanggup bertahan<br />Tuk bisa tanpamu<br />Ha<br />Bohongi hatiku</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "MAHALINI",
+      "title": "KISAH SEMPURNA",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH3.ogg",
+      "lyrics": "<p>Tenggelam, jiwaku dalam angan<br />Tersesat, hilang, dan tak tahu arah<br />Ku terjebak masa lalu yang kelam<br />Tak kulihat lagi cahaya cinta<br />Dan kamu hadir coba bawa bahagia<br />Ketika ku masih mati rasa<br />Karna</p><p><br />Dia yang pertama membuatku cinta<br />Dia juga yang pertama membuatku kecewa<br />Kamu yang pertama menyembuhkan luka<br />Tak ingin lagi ku mengulang keliru akan cinta<br />Jadi kisah yang sempurna</p><p><br />Tenggelam, jiwaku dalam angan<br />Tak kulihat lagi cahaya cinta</p><p><br />Dan kamu hadir coba bawa bahagia<br />Ketika ku masih mati rasa<br />Karna</p><p><br />Dia yang pertama membuatku cinta<br />Dia juga yang pertama membuatku kecewa<br />Kamu yang pertama menyembuhkan luka<br />Tak ingin lagi ku mengulang keliru akan cinta<br />Jadi kisah yang sempurna, wo-oh</p><p><br />Tuhan, yakinkan cinta ini, wo-oh-oh<br />Hati yang terkunci, terbuka kembali</p><p><br />Dia yang pertama membuatku cinta<br />Dia juga yang pertama membuatku kecewa<br />Kamu yang pertama menyembuhkan luka<br />Tak ingin lagi ku mengulang keliru akan cinta</p><p><br />Dia juga pertama membuatku kecewa<br />Kamu yang sembuhkan luka</p><p><br />Kamu untuk selamanya</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "MAHALINI",
+      "title": "SISA RASA",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH4.ogg",
+      "lyrics": "<p>Melihatmu bahagia, satu hal yang terindah<br />Anugrah cinta yang pernah kupunya<br />Kau buatku percaya ketulusan cinta<br />Seakan kisah sempurna kan tiba</p><p><br />Masih jelas teringat pelukanmu yang hangat<br />Seakan semua tak mungkin menghilang<br />Kini hanya kenangan yang telah kau tinggalkan<br />Tak tersisa lagi waktu bersama</p><p><br />Mengapa masih ada<br />Sisa rasa di dada<br />Di saat kau pergi begitu saja<br />Mampukah ku bertahan<br />Tanpa hadirmu, sayang<br />Tuhan, sampaikan rindu untuknya (rindu untuknya)</p><p><br />Masih jelas teringat (jelas teringat) pelukanmu yang hangat<br />Seakan semua tak mungkin menghilang (menghilang)<br />Kini hanya kenangan yang tlah kau tinggalkan<br />Tak tersisa lagi waktu bersama (waktu bersama)</p><p><br />Mengapa masih ada<br />Sisa rasa di dada<br />Di saat kau pergi begitu saja (Begitu saja)<br />Mampukah ku bertahan<br />Tanpa hadirmu, sayang<br />Tuhan, sampaikan rindu untuknya</p><p><br />Oh, masih tersimpan<br />Setiap k?nangan, ho-wo-wo-oh<br />Semua cinta yang kau beri<br />Kau takkan terganti</p><p><br />M?ngapa masih ada<br />Sisa rasa di dada<br />Di saat kau pergi begitu saja<br />Mampukah ku bertahan<br />Tuhan, sampaikan rindu untuknya</p><p><br />Sampaikan rinduku untuknya</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "MAHALINI",
+      "title": "MELAWAN RESTU",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH5.ogg",
+      "lyrics": "<p>Indah semua cerita<br />Yang tlah terlewati dalam satu cinta<br />Kita yang pernah bermimpi<br />Jalani semua, hanya ada kita</p><p><br />Namun ternyata, pada akhirnya<br />Tak mungkin bisa kupaksa<br />Restunya tak berpihak<br />Pada kita</p><p><br />Mungkinkah aku meminta<br />Kisah kita selamanya?<br />Tak terlintas dalam benakku<br />Bila hariku tanpamu</p><p><br />Sgala cara tlah kucoba<br />Pertahankan cinta kita<br />Slalu kutitipkan dalam doaku<br />Tapi ku tak mampu melawan restu</p><p><br />Namun ternyata, pada akhirnya<br />Tak mungkin bisa kupaksa<br />Restunya tak berpihak<br />Pada kita</p><p><br />Mungkinkah aku meminta<br />Kisah kita selamanya?<br />Tak terlintas dalam benakku<br />Bila hariku tanpamu</p><p><br />Sgala cara tlah kucoba<br />Pertahankan cinta kita (cinta kita)<br />Slalu kutitipkan dalam doaku<br />Tapi ku tak mampu melawan restu, ho-oh</p><p><br />Mungkinkah aku meminta<br />Kisah kita selamanya?<br />Tak terlintas dalam benakku<br />Bila hariku tanpamu</p><p><br />Sgala cara tlah kucoba<br />Pertahankan cinta kita<br />Slalu kutitipkan dalam doaku<br />Tapi ku tak mampu melawan restu</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "MAHALINI",
+      "title": "JANJI KITA",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH6.ogg",
+      "lyrics": "<p>Di dalam hati ini<br />Hanya ada satu cinta<br />Dan itu cuma ada di kamu<br />Kamu</p><p><br />Dan kamu cinta pertama di hidupku<br />Dan aku berjanji<br />Kau jadi cinta terakhirku</p><p><br />Aku pun merasakan sama<br />Saat kau hadir di hidupku oh<br />Kumerasakan cinta yang tulus<br />Dari dirimu oh</p><p><br />Janji kita berdua<br />Semoga s'lamanya<br />Kau dan aku jadi satu<br />Di dalam ikatan cinta kita</p><p><br />Tanpamu aku tak akan bisa<br />Merasakan cinta sempurna<br />Kau lengkapiku kamulah cinta<br />Yang dikirim Tuhan untukku oh</p><p><br />Aku pun merasakan sama<br />Saat kau hadir di hidupku<br />Kumerasakan cinta yang tulus<br />Dari dirimu oh</p><p><br />Janji kita berdua<br />Semoga s'lamanya<br />Kau dan aku jadi satu<br />Di dalam ikatan cinta kita</p><p><br />Tanpamu aku tak akan bisa<br />Merasakan cinta sempurna<br />Kau lengkapiku<br />Kamulah cinta<br />Yang dikirim Tuhan untukku</p><p><br />Selamanya<br />Bersama<br />Kamu aku kita<br />Dalam ikatan cinta</p><p><br />Janji kita berdua<br />Kita<br />Kau dan aku jadi satu<br />Di dalam ikatan cinta kita</p><p><br />Tanpamu aku tak akan bisa<br />Merasakan cinta sempurna<br />Kau lengkapiku oh<br />Kau lengkapiku<br />Kamulah cinta untukku<br />Yang dikirim Tuhan untukku</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "MAHALINI",
+      "title": "KULAKUKAN SEMUA INI UNTUKMU",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH7.ogg",
+      "lyrics": "<p>Hanya denganmu aku berbagi<br />Hanya dirimu paling mengerti<br />Kegelisahan dalam hatiku<br />Yang selama ini tak menentu.</p><p><br />Tak ada ragu dalam hatiku<br />Pastikan aku jadi cintamu<br />Seiring waktu yang tlah berlalu<br />Mungkin kau yang terakhir untukku.</p><p><br />Akan kulakukan semua untukmu<br />Akan kuberikan seluruh cintaku<br />Janganlah engkau berubah<br />Dalam menyayangi dan memahamiku.</p><p><br />Pegang tanganku, genggam jariku<br />Rasakan semua hangat diriku<br />Mengalir tulus untuk cintamu<br />Tak ada yang lain di hatiku.</p><p><br />Akan kulakukan semua untukmu<br />Akan kuberikan seluruh cintaku<br />Janganlah engkau berubah<br />Dalam menyayangi dan memahamiku.</p><p><br />Akan kulakukan semua untukmu<br />Akan kuberikan seluruh cintaku<br />Janganlah engkau berubah<br />Dalam menyayangi dan memahamiku.</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "MAHALINI",
+      "title": "INI LAGUKU",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH8.ogg",
+      "lyrics": "<p>Apalah arti hidupku bila tanpamu<br />Apalah arti cintaku bila bukan kamu<br />Semua perjuanganku tentang dirimu<br />Walaupun ku juga tahu kau ragukan itu</p><p><br />Kumohon dengar ini laguku<br />Semua tentang rasaku padamu</p><p><br />Bukalah hatimu lihat diriku<br />Ku takkan mampu tanpamu tanpamu<br />Bukan maksudku selalu membisu<br />Ku tahu caraku mencintaimu</p><p><br />Semua perjuanganku tentang dirimu<br />Walaupun ku juga tahu kau ragukan itu</p><p><br />Kumohon dengar ini laguku<br />Semua tentang rasaku padamu</p><p><br />Bukalah hatimu lihat diriku<br />Ku takkan mampu tanpamu tanpamu<br />Bukan maksudku selalu membisu<br />Ku tahu caraku mencintaimu wo wo uh</p><p><br />Ku tak mau kita berjarak dan tak menyapa<br />Berubah menjadi hanya teman<br />Biar aku yang mengalah ikuti caramu<br />Walau ku harus berkorban menjadi diriku</p><p><br />Oh oh (ku takkan mampu)<br />Tak mampu ku tanpamu<br />Bukan maksudku selalu membisu<br />Ku tahu caraku mencintaimu<br />Ku tahu caraku mencintaimu</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "MAHALINI",
+      "title": "AKU YANG SALAH",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH9.ogg",
+      "lyrics": "<p>Ku tak mengerti<br />Betapa bodoh diri<br />Membiarkanmu pergi<br />Jauh dari hati</p><p><br />Ku coba mengobati<br />Tuk punya kekasih lagi<br />Namun ku sadar diri<br />Hatiku di kamu</p><p><br /><strong>REFF</strong><br />Dimana kamu<br />Apakah kau rindu<br />Sungguh susah buat lupa<br />Hati tak bisa berdusta</p><p><br />Walauku tau<br />Ku bukan untukmu<br />Tapi tetap kau terindah<br />Cinta tak salah<br />Aku yang salah</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "MAHALINI",
+      "title": "BAWA DIA KEMBALI",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH10.ogg",
+      "lyrics": "<p>Malam ini aku menanti<br />Kedatanganmu mengisi sepiku<br />Lama terasa waktu bergulir<br />Karena dirimu tak bersamaku</p><p><br />Oh Tuhan tolonglah bawa dia kembali<br />Bersamaku di sini menjagaku selalu<br />Dengarlah doaku yang tak pernah meminta<br />Bawa dia kembali bersama walau hanya sesaat</p><p><br />Masih terasa hembus napasmu<br />Saat ku gundah kau lipur laraku<br />Kini terasa semakin dalam<br />Rasa rinduku pada dirimu</p><p><br />Oh Tuhan tolonglah bawa dia kembali<br />Bersamaku di sini menjagaku selalu<br />Dengarlah doaku yang tak pernah meminta<br />Bawa dia kembali bersama walau hanya sesaat</p><p><br />Oh Tuhan tolonglah bawa dia kembali<br />Bersamaku di sini menjagaku selalu<br />Dengarlah doaku yang tak pernah meminta<br />Bawa dia kembali bersama walau hanya sesaat</p><p><br />Oh Tuhan tolonglah bawa dia kembali (bawa dia kembali)<br />Bersamaku di sini menjagaku selalu<br />Dengarlah doaku yang tak pernah meminta<br />Bawa dia kembali bersama walau hanya sesaat</p><p><br />Walau hanya sesaat<br />Walau hanya sesaat</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "MAHALINI",
+      "title": "BIMBANG",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH11.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "MAHALINI",
+      "title": "PUTAR WAKTU",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH12.ogg",
+      "lyrics": "<p>Waktu ke waku kulewati<br />Melihat diriku tak kecil lagi<br />Tuan dan putri mulai menghakimi<br />Berkata usik tak nyaman di hati</p><p><br />Bukankah aku manusia sama seperti mereka<br />Tetapi mengapa seolah paling sempurna</p><p><br />Seandainya bisa kuputar waktu<br />Kan ku kembali ke masa kecilku<br />Tak harus mengerti rasanya pilu<br />Hadapi kerasnya dunia</p><p><br />Tuan dan putri mulai menghakimi</p><p><br />Berkata-kata usik tak nyaman di hati<br />Aku manusia sama seperti mereka (seperti mereka)<br />Tetapi mengapa seolah paling sempurna</p><p><br />Seandainya bisa kuputar waktu<br />Kan ku kembali ke masa kecilku (kecilku)<br />Tak harus mengerti rasanya pilu (rasanya pilu)<br />Hadapi kerasnya dunia</p><p><br />Seandainya bisa kuputar waktu<br />Kan ku kembali ke masa kecilku<br />Tak harus mengerti mengerti rasanya pilu<br />Hadapi kerasnya dunia (kerasnya dunia)</p><p><br />Hadapi kerasnya<br />Dunia</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "MAHALINI",
+      "title": "SATU TUJU",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH13.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "MAHALINI",
+      "title": "YOUR MINE",
+      "image": "file:///android_asset/image/MS.jpg",
+      "link_mp3": "mp3/LINMHALAH14.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "POP VIRAL",
+      "title": "AMINLAH BERSAMAKU",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH15.ogg",
+      "lyrics": "<p>Alasanku memilihmu<br />Bukan karena cinta semata<br />Melainkan ku mengikuti hati ini oh<br />Ku sadari akan hadirmu<br />Sembuhkan sepi dihati<br />Kuyakin kau<br />Bersamamu</p><p><br />Hanyalah dirimu tujuan terakhirku<br />Ku yakin kaulah perjalanan terakhirku</p><p><br />Ku akan berjanji kepadamu<br />Dan aku akan membuatmu bahagia selamanya<br />Sedihkan sirna setia bersama<br />Jalani kisah berdua<br />Ingatlah janjiku<br />Aminlah bersamaku</p><p><br />Ku sadari akan hadirmu<br />Sembuhkan sepi dihatiu<br />Ku yakin kan<br />Bersamamu</p><p><br />Hanyalah dirimu tujuan terakhirku<br />Ku yakin kaulah perjalanan terakhirku</p><p><br />Ku akan berjanji kepadamu<br />Dan aku akan membuatmu bahagia selamanya<br />Sedihkan sirna setia bersama<br />Jalani kisah berdua<br />Ingatlah janjiku ho</p><p><br />Aku akan berjanji kepadamu<br />Dan aku akan membuatmu bahagia selamanya<br />Sedihkan sirna setia bersama<br />Jalani kisah berdua<br />Ingatlah janjiku<br />Aminlah bersamaku</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "POP VIRAL",
+      "title": "EGO",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH16.ogg",
+      "lyrics": "<p>Cinta yang dulu kulewati, begitu indah bersamamu<br />Tawa, canda, tangis, kita lewati bersama, mm</p><p><br />Kini semua berubah<br />Bahagia telah hilang</p><p><br />Maaf, jika memang aku yang bersalah<br />Lelah dengan kesunyian ini<br />Bersama pun tak saling bicara, oh</p><p><br />Aku tak sanggup kita terus begini<br />Tak ingin cinta usai di sini<br />Kurindukan senyummu, ku ingin peluk dirimu, mm<br />Tapi rasa egoku terlalu tinggi<br />Tuhan, tolonglah diriku<br />Ku tak ingin pisah dengannya</p><p><br />Kini semua berubah<br />Bahagia telah hilang</p><p><br />Maaf, jika memang aku yang bersalah, ho<br />Lelah dengan kesunyian ini<br />Bersama pun tak saling bicara</p><p><br />Aku (aku) tak sanggup kita terus begini (tak sanggup begini)<br />Tak ingin cinta usai di sini<br />Kurindukan senyummu, ku ingin peluk dirimu, uh-uh<br />Tapi rasa egoku terlalu tinggi<br />Tuhan, tolonglah diriku<br />Ku tak ingin pisah dengannya</p><p><br />Tuhan, tolonglah diriku<br />Ku tak ingin pisah dengannya</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "POP VIRAL",
+      "title": "JALAN PULANG",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH17.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "POP VIRAL",
+      "title": "JANJI SETIA",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH18.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "POP VIRAL",
+      "title": "KALAU BOSAN",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH19.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "POP VIRAL",
+      "title": "MAAFKAN AKU",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH20.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "POP VIRAL",
+      "title": "MENJADI DIA",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH21.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "POP VIRAL",
+      "title": "MERASA INDAH",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH22.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "POP VIRAL",
+      "title": "MUAK",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH23.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "POP VIRAL",
+      "title": "PERI KECILKU",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH24.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "POP VIRAL",
+      "title": "PESAN TERAKHIR",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH25.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "POP VIRAL",
+      "title": "PILIHAN YANG TERBAIK",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH26.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "POP VIRAL",
+      "title": "SANG DEWI",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH27.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "POP VIRAL",
+      "title": "SETIA MENUNGGU",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH28.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "POP VIRAL",
+      "title": "TAK SEGAMPANG ITU",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH29.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "POP VIRAL",
+      "title": "USAI",
+      "image": "file:///android_asset/image/PI.jpg",
+      "link_mp3": "mp3/LINMHALAH30.ogg",
+      "lyrics": ""
+	  }
+  ]
+}
