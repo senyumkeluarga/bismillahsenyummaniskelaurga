@@ -1,0 +1,231 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "AZMY Z",
+      "image": "file:///android_asset/image/AZH.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "AZMY Z",
+      "title": "HAYANG JAJAN",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN1.ogg",
+      "lyrics": "<p>Hayang jajan, henteu diwaro ku Mamah<br />Hayang jajan, henteu didangu ku Bapa<br />Pura-pura henteu boga, padahal duitmah aya<br />Henteu pira jang meuli kuota</p><p><br />Hayang jajan, henteu diwaro ku Aa<br />Hayang jajan, henteu didangu ku Teteh<br />Pura-pura henteu boga, padahal duitmah aya<br />Meni pedit kabehannana</p><p><br />Karesel, Mah, ieu<br />Karesel, Pa, ieu<br />Cikan, sugan ayamah 12000</p><p><br />Hayang internetan<br />Hayang nga-Youtube-an</p><p><br />Hayang jajan, henteu diwaro ku Mamah<br />Hayang jajan, henteu didangu ku Bapa<br />Pura-pura henteu boga, padahal duitmah aya<br />Henteu pira jang meuli kuota</p><p><br />Hayang jajan, henteu diwaro ku Aa<br />Hayang jajan, henteu didangu ku Teteh<br />Pura-pura henteu boga, padahal duitmah aya<br />Meni pedit kabehannana</p><p><br />Karesel, Mah, ieu<br />Karesel, Pa, ieu<br />Cikan, sugan ayamah 12000</p><p><br />Hayang internetan<br />Hayang nga-Youtube-an</p><p><br />Hayang jajan, henteu diwaro ku Mamah<br />Hayang jajan, henteu didangu ku Bapa<br />Pura-pura henteu boga, padahal duitmah aya<br />Henteu pira jang meuli kuota</p><p><br />Hayang jajan, henteu diwaro ku Aa<br />Hayang jajan, henteu didangu ku Teteh<br />Pura-pura henteu boga, padahal duitmah aya<br />Meni pedit kabehannana</p><p><br />Karesel, Mah, ieu<br />Karesel, Pa, ieu<br />Cikan, sugan ayamah 12000</p><p><br />Hayang internetan<br />Hayang nga-Youtube-an</p><p><br />Karesel, Mah, ieu<br />Karesel, Pa, ieu<br />Cikan, sugan ayamah 12000</p><p><br />Hayang internetan<br />Hayang nga-Youtube-an</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "AZMY Z",
+      "title": "INGET KA MANTAN",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN2.ogg",
+      "lyrics": "<p>Isuk-isuk hudang sare lulunguh keneh<br />Kuring indit ka dapur mawa gelas ninyuh kopi<br />Gek diuk dina korsi ngamparkeun udud jeung kopi<br />Pas kuring ngaregot kopi sakolebat asa ngimpi</p><p><br />Jadi inget ka mantan, jadi inget ka mantan<br />Aduh inget ka mantan<br />Timana asalna timana mimitina<br />Ujug-ujug inget mantan</p><p><br />Lir&hellip; cai caah na walungan<br />Kapikiran kabayang rarayna mantan</p><p><br />Isuk-isuk hudang sare lulunguh keneh<br />Kuring indit ka dapur mawa gelas ninyuh kopi<br />Gek diuk dina korsi ngamparkeun udud jeung kopi<br />Pas kuring ngaregot kopi sakolebat asa ngimpi</p><p><br />Jadi inget ka mantan, jadi inget ka mantan<br />Aduh inget ka mantan<br />Timana asalna timana mimitina<br />Ujug-ujug inget mantan</p><p><br />Lir&hellip; cai caah na walungan<br />Kapikiran kabayang rarayna mantan</p><p><br />Isuk-isuk hudang sare lulunguh keneh<br />Kuring indit ka dapur mawa gelas ninyuh kopi<br />Gek diuk dina korsi ngamparkeun udud jeung kopi<br />Pas kuring ngaregot kopi sakolebat asa ngimpi</p><p><br />Jadi inget ka mantan, jadi inget ka mantan<br />Aduh inget ka mantan<br />Timana asalna timana mimitina<br />Ujug-ujug inget mantan</p><p><br />Lir&hellip; cai caah na walungan<br />Kapikiran kabayang rarayna mantan</p><p><br />Jadi inget ka mantan, jadi inget ka mantan<br />Aduh inget ka mantan<br />Timana asalna timana mimitina<br />Ujug-ujug inget mantan</p><p><br />Lir&hellip; cai caah na walungan<br />Kapikiran kabayang rarayna mantan"
+	  },
+	  {
+      "id": 3,
+      "name_category": "AZMY Z",
+      "title": "RUNTAH",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN3.ogg",
+      "lyrics": "<p>Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup, ti gigir, mani mulus<br />Ngan hanjakal pisan, kalakuan siga setan<br />Gunta-ganti jalu, teu sirikna unggal minggu</p><p><br />Naha kunaon nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Siganamah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha, tungtungna jadi cilaka</p><p><br />Kulit kelir, koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh bet dimumurah<br />Gebleg, hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Ji, wa, lu, pat</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup, ti gigir, mani mulus<br />Ngan hanjakal pisan, kalakuan siga setan<br />Gunta-ganti jalu, teu sirikna unggal minggu<br />Naha kunaon nu geulis loba nu bangor</p><p><br />Naha kunaon nu bangor loba nu geulis<br />Siganamah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha, tungtungna jadi cilaka</p><p><br />Kulit kelir, koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh bet dimumurah<br />Gebleg, hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Kulit kelir, koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh bet dimumurah<br />Gebleg, hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "AZMY Z",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN4.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "AZMY Z",
+      "title": "DUA LALAKI",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN5.ogg",
+      "lyrics": "<p>Hor&eacute;ng, micinta nu samar<br />Asa teu walakaya</p><p><br />Anjeun nu jadi rebutan<br />Antara dua lalaki<br />Nu sami-sami micinta<br />Ka diri salira</p><p><br />Rasana diri geus teu daya<br />Akang micinta anjeunna<br />Harepan ngan ukur harepan<br />Nu ayeuna ngan tinggal lamunan</p><p><br />Anjeun lalaki, kuring lalaki<br />Pada mikaharep miboga dirina<br />Kembang nu jadi impian<br />Tos lami mapa&eacute;s ati<br />Duh, diri micinta</p><p><br />Pasti sarua miboga cinta<br />Pada mikahayang tur metik atina<br />Iraha bakal laksana<br />R&eacute;k metik kembang katresna<br />Nu jadi cengceuman</p><p><br />Diri nandangan kasiksa<br />Gering pikir ngalanglayung<br />Hor&eacute;ng, micinta nu samar<br />Asa teu walakaya</p><p><br />Anjeun nu jadi rebutan<br />Antara dua lalaki<br />Nu sami-sami micinta<br />Ka diri salira</p><p><br />Rasana diri geus teu daya<br />Akang micinta anjeunna<br />Harepan ngan ukur harepan<br />Nu ayeuna ngan tinggal lamunan</p><p><br />Pasti sarua miboga cinta<br />Pada mikahayang tur metik atina<br />Iraha bakal laksana<br />R&eacute;k metik kembang katresna<br />Nu jadi cengceuman?</p><p><br />Diri nandangan kasiksa<br />Gering pikir ngalanglayung<br />Hor&eacute;ng, micinta nu samar<br />Asa teu walakaya</p><p><br />Anjeun nu jadi rebutan<br />Antara dua lalaki<br />Nu sami-sami micinta<br />Ka diri salira</p><p><br />Rasana diri geus teu daya<br />Akang micinta anjeunna<br />Harepan ngan ukur harepan<br />Nu ayeuna ngan tinggal lamunan</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "AZMY Z",
+      "title": "MIDUAN CINTA",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN6.ogg",
+      "lyrics": "<p>Salira ayeuna, ayana dimana<br />Ku teu sangka salira midua cinta</p><p><br />Ngingu langlayangan nu pegat ka pakan<br />Dilangit lenglang ngapung ngoleang<br />Asih nu munggaran naha teu tapakkan<br />Diri ngalayang taya pamuntangan</p><p><br />Naha asihna bet sirna<br />Deudeuhna lumpat kamana<br />Naha cinta na bet ngilang<br />Kapakan duka teuing kamana</p><p><br />Salira ayeuna ayana dimana<br />Abdi leungiteun salira<br />Salira ayeuna ayana dimana<br />Ku teu sangka salira midua cinta</p><p><br />Ngingu langlayangan nu pegat ka pakan<br />Dilangit lenglang ngapung ngoleang<br />Asih nu munggaran naha teu tapakkan<br />Diri ngalayang taya pamuntangan</p><p><br />Naha asihna bet sirna<br />Deudeuhna lumpat kamana<br />Naha cinta na bet ngilang<br />Kapakan duka teuing kamana</p><p><br />Salira ayeuna ayana dimana<br />Abdi leungiteun salira<br />Salira ayeuna ayana dimana<br />Ku teu sangka salira midua cinta</p><p><br />Salira ayeuna ayana dimana<br />Abdi leungiteun salira<br />Salira ayeuna ayana dimana<br />Ku teu sangka salira midua cinta"
+	  },
+	  {
+      "id": 7,
+      "name_category": "AZMY Z",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN7.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "AZMY Z",
+      "title": "TALAK TILU",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN8.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "AZMY Z",
+      "title": "DAUN HIRIS",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN9.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "AZMY Z",
+      "title": "BULEUD",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN10.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "AZMY Z",
+      "title": "MAWAR BODAS",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN11.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "AZMY Z",
+      "title": "ALIM BOBOGIHAN",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN12.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "AZMY Z",
+      "title": "BANG BUNG HIDEUNG",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN13.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "AZMY Z",
+      "title": "BEBENDE",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN14.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "AZMY Z",
+      "title": "BUAH JAGONG",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN15.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "AZMY Z",
+      "title": "JANG",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN16.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "AZMY Z",
+      "title": "LALEURHEJO",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN17.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "AZMY Z",
+      "title": "MANUK DADALI",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN18.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "AZMY Z",
+      "title": "MOJANG PARIANGAN",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN19.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "AZMY Z",
+      "title": "PLESIRAN",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN20.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "AZMY Z",
+      "title": "RAGAJI BEUSI",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN21.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "AZMY Z",
+      "title": "RANGKULAN SALIRA",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN22.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "AZMY Z",
+      "title": "URANG SUNDA",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN23.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "AZMY Z",
+      "title": "WATIR",
+      "image": "file:///android_asset/image/AZH.jpg",
+      "link_mp3": "mp3/JANGMYJAN24.ogg",
+      "lyrics": ""
+	  }
+  ]
+}
