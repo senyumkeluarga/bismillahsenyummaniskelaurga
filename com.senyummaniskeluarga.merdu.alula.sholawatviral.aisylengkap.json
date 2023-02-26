@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ALULA AISY",
+      "image": "file:///android_asset/image/AA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT VIRAL",
+      "image": "file:///android_asset/image/AV.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ALULA AISY",
+      "title": "RAHMATUL LIL ALAMIN",
+      "image": "file:///android_asset/image/AA.jpg",
+      "link_mp3": "mp3/AASHOVA1.mp3",
+      "lyrics": "<p>Yaa man shollaita bikullil Anbiya<br />Yaa man fii qolbika Rohmatun linnas<br />Yaa man allafta quluuban bil Islam<br />Yaa habiibii yaa shafiii yaa Rasula Allah</p><p><br />Bi ummi wa abi, fadaytuka sayyidi<br />Sholatun wa salam, alayka yaa Nabi</p><p><br />Habibi ya Muhammad<br />Atayta bissalami wal huda, Muhammad<br />Habibi ya, ya Muhammad<br />Ya rahmatan lilalameena ya Muhammad</p><p><br />Ya man hallayta hayatana bil iman<br />Ya man bijamalika allamtal ihsan<br />Ya man nawwarta qulubana bil quran<br />Ya habibi ya shafii ya Rasula Allah</p><p><br />Bi ummi wa abi, fadaytuka sayyidi<br />Sholatun wa salam, alayka yaa Nabi</p><p><br />Habibi ya Muhammad<br />Atayta bissalami wal huda, Muhammad<br />Habibi ya, ya Muhammad<br />Ya rahmatan lilalameena ya Muhammad</p><p><br />Salla Allahu ala<br />Khatamil Anbiya</p><p><br />Muhammad, Muhammad<br />Rahmatun lilalameen, Rahmatun lilalameen</p><p><br />Muhammad, Muhammad<br />Rahmatun lilalameen, Rahmatun lilalameen</p><p><br />Muhammad, Muhammad<br />Rahmatun lilalameen, Rahmatun lilalameen</p><p><br />Habibi ya Muhammad<br />Atayta bissalami wal huda, Muhammad<br />Habibi ya, ya Muhammad<br />Ya rahmatan lilalameena ya Muhammad</p><p><br />Habibi ya Muhammad<br />Atayta bissalami wal huda, Muhammad<br />Habibi ya, ya Muhammad<br />Ya rahmatan lilalameena ya Muhammad</p><p>Salla Allahu ala<br />Khatamil Anbiya</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "ALULA AISY",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/AA.jpg",
+      "link_mp3": "mp3/AASHOVA2.mp3",
+      "lyrics": "<p>MUGHROM.. QOLBI BIHUBBIKA MUGHROM<br />YA MUSTHOFANAL MUKARROM<br />YA ROSULALLAAH..</p><p><br />MUGHROM.. QOLBI BIHUBBIKA MUGHROM<br />YA MUSTHOFANAL MUKARROM<br />YA ROSULALLAAH..</p><p><br />JAMALAK MA FITS-NAIN<br />MASYAFIT MITSLUH AIN<br />ASAR FUADI<br />WIZAD WIDADI<br />BADRID-DUJA YA ZAIN</p><p><br />JAMALAK MA FITS-NAIN<br />MASYAFIT MITSLUH AIN<br />ASAR FUADI<br />WIZAD WIDADI<br />BADRID-DUJA YA ZAIN</p><p><br />IMTA HABIBI AROK<br />WAL-QOK WAFROH BINADAK</p><p><br />THOHA JUD BINADROH ILAYYA<br />THOHA YA ADHIMAL-JAH<br />THOHA JUD BINADROH ILAYYA<br />THOHA YA ADHIMAL-JAH</p><p><br />MUGHROM.. QOLBI BIHUBBIKA MUGHROM<br />YA MUSTHOFANAL MUKARROM<br />YA ROSULALLAAH..</p><p><br />MUGHROM.. QOLBI BIHUBBIKA MUGHROM<br />YA MUSTHOFANAL MUKARROM<br />YA ROSULALLAAH..</p><p><br />JAMALAK MA FITS-NAIN<br />MASYAFIT MITSLUH AIN<br />ASAR FUADI<br />WIZAD WIDADI<br />BADRID-DUJA YA ZAIN</p><p><br />JAMALAK MA FITS-NAIN<br />MASYAFIT MITSLUH AIN<br />ASAR FUADI<br />WIZAD WIDADI<br />BADRID-DUJA YA ZAIN</p><p><br />IMTA HABIBI AROK<br />WAL-QOK WAFROH BINADAK</p><p><br />THOHA JUD BINADROH ILAYYA<br />THOHA YA ADHIMAL-JAH<br />THOHA JUD BINADROH ILAYYA<br />THOHA YA ADHIMAL-JAH</p><p><br />MUGHROM.. QOLBI BIHUBBIKA MUGHROM<br />YA MUSTHOFANAL MUKARROM<br />YA ROSULALLAAH..</p><p><br />MUGHROM.. QOLBI BIHUBBIKA MUGHROM<br />YA MUSTHOFANAL MUKARROM<br />YA ROSULALLAAH..</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "ALULA AISY",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/AA.jpg",
+      "link_mp3": "mp3/AASHOVA3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "ALULA AISY",
+      "title": "NATAWASSAL BIL HUBABAH",
+      "image": "file:///android_asset/image/AA.jpg",
+      "link_mp3": "mp3/AASHOVA4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "ALULA AISY",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/AA.jpg",
+      "link_mp3": "mp3/AASHOVA5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "ALULA AISY",
+      "title": "DOA RAJJAB",
+      "image": "file:///android_asset/image/AA.jpg",
+      "link_mp3": "mp3/AASHOVA6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "ALULA AISY",
+      "title": "ALLAHUL KAAFI",
+      "image": "file:///android_asset/image/AA.jpg",
+      "link_mp3": "mp3/AASHOVA7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "ASYGHIL",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA8.mp3",
+      "lyrics": "<p>Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p>Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi ajmain</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi wasalim</p><p><br />Allahumma sholli ala Sayyidina Muhammad<br />wa asyghilizh zholimin bidz zholimin<br />wa akhrijna min bainihim salimin<br />wa ala alihi wa shohbihi wasalim</p><p>&nbsp"
+	  },
+	  {
+      "id": 9,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "BUSYRO",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA9.mp3",
+      "lyrics": "<p>Allahumma Sholli wa sallim ala sayyidina<br />muhammadin sohibil busyro<br />sholatan tubassiruna bihaa<br />wa ahlana wa awlaadanaa<br />wa jamiia masyakhinaa<br />wa muallimiinaa wa tholabatanaa wa tholibatinaa<br />min waumina hadza ilaa yaumil akhiroh</p><p><br />Allahumma Sholli wa sallim ala sayyidina<br />muhammadin sohibil busyro<br />sholatan tubassiruna bihaa<br />wa ahlana wa awlaadanaa<br />wa jamiia masyakhinaa<br />wa muallimiinaa wa tholabatanaa wa tholibatinaa<br />min waumina hadza ilaa yaumil akhiroh</p><p><br />Allahumma Sholli wa sallim ala sayyidina<br />muhammadin sohibil busyro<br />sholatan tubassiruna bihaa<br />wa ahlana wa awlaadanaa<br />wa jamiia masyakhinaa<br />wa muallimiinaa wa tholabatanaa wa tholibatinaa<br />min waumina hadza ilaa yaumil akhiroh</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "SADUNA FIDDUNYA",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA10.mp3",
+      "lyrics": "<p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal maruuf<br />Wal Athoil maluuf<br />Ghoroota lilmalhuuf<br />Innakum bihiadroo</p><p><br />Ya Uhailal mathluub<br />Wal Athoil mauhuub<br />Ghoroota lilmakruub<br />Innakum bihiadroo</p><p><br />Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal ihsaan<br />Wal Atho walghufroon<br />Ghorootal lilkhairoon<br />Innakum bihiadroo</p><p><br />Ya Uhailal Isaad<br />Wal Atho walirfaan<br />Ghoroota yaasyaad<br />Innakum bihiadroo</p><p><br />Saduu-naa fiddunyaa<br />Fauzuu-naa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA11.mp3",
+      "lyrics": "<p>Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p>Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA12.mp3",
+      "lyrics": "<p>Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Baldatun al-Auliya<br />Baldatun al-Auliya<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Bijahi Ba &lsquo;Alawi<br />Bijahi Ba &lsquo;Alawi<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Saqqofuna waliyyun<br />Saqqofuna waliyyun<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Al-Muhdlor wal &lsquo;Aydarus<br />Al-Muhdlor wal &lsquo;Aydarus<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Al-Haddad wal &lsquo;Aththos<br />Al-Haddad wal &lsquo;Aththos<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Wa jamiil wali<br />Wa jamiil wali<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA13.mp3",
+      "lyrics": "<p>Ilahanaa.. Yaa Ilahanaa<br />Yasir Lanaa Umuuronaa<br />Ilahanaa.. Yaaa ilahanaa<br />Mindiininaa wadun yaanaa..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u, <br />Yaa Aliimu..<br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan<br />Waf-ta? Quluubanaa.. <br />Wafta? Quluubanaa.. <br />Ala Ta&rsquo;alumil Uluumi<br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Allah Yaa Robb.. Allah Yaa Robbi..<br />Mudahkanlah Urusan Kami<br />Agama Kami Dunia Kami<br />Wahai Allah Yang Mengetahui</p><p><br />Buka Hati Kami.. Buka Hati Kami..<br />Untuk Membaca Al Qur&rsquo;an..<br />Bacalah Al Qur&rsquo;an.. Bacalah Al Qur&rsquo;an..<br />Al Qur&rsquo;an Sumber Kehidupan..</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "BIL QIRANI",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA14.mp3",
+      "lyrics": "<p>Bil qurani saamdhi<br />Aj-lu khobatsal ardhi<br />Huwa nafli huwa fardhi<br />Wa minal ayati sana faidh</p><p><br />Saua hidu ya maula<br />Filan lala qoula<br />Nashru kitabi aula<br />wa sayablughu biddunya thoula</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla<br />Wanzaa haljuurr</p><p><br />Bil qurani saamdhi<br />Aj-lu khobatsal ardhi<br />Huwa nafli huwa fardhi<br />Wa minal ayati sana faidh</p><p><br />Saua hidu ya maula<br />Filan lala qoula<br />Nashru kitabi aula<br />wa sayablughu biddunya thoula</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Duqtu walalan atakhola<br />An miladil mabrus<br />Sajjil tari khoujudi<br />Min badi hayatil burr</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla</p><p><br />Hinal quranu tajalla<br />Shulth&otilde;nunnafsi tawalla<br />Wanzaa haljuurr"
+	  },
+	  {
+      "id": 15,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA15.mp3",
+      "lyrics": "<p>Man ana man ana, man ana laulaakum</p><p><br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p><p><br />Maa siwaaya wa laa ghoirokum siwaakum<br />Laa wa man fiil mahabbah &lsquo;alayya wulaakum</p><p><br />Antum antum muroodii wa antum qoshdii<br />Laisa ahadun fiil mahabbati siwaakum &lsquo;indii</p><p><br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p><p><br />Kullamaa zaadanii fii hawaakum wajdii<br />Qultu yaa saadatii muhjatii tafdaakum<br />Lau qotho&rsquo;tum wariidii bihaddi maadlii<br />Qultu wallaahi ana fii hawaakum roodlii</p><p><br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p><p><br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "ADFAITA",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "QOLBU MUTTAYAM",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "ANTAL AMIN",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "HUWANNUR",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "SHOLAWAT BUSYRO",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "SHOLAWAT QURANIYAH",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "SHOLLALLAHU ALA MUHAMMAD",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "TAWASSUL",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA23.mp3",
+      "lyrics": "<p>Ya Robbana Ya Ghoffar Aqbil Sujudana<br />Warhamna Warzuqna Warfadarojatina<br />Iyyaka iyyaka natawassalu alaika<br />Innaka innaka Innaka ala kulli syaiin qadir</p><p><br />Ibadallah Ibadalah rijalallah<br />rijalallah, Aghitsuna, Aghitsuna li-ajlillah<br />Wa kunu aunana lillah<br />Asa nahdho bifadl-lillah</p><p><br />Kuatkanlah iman kami<br />Kuatkan taqwa kami<br />Berilah rahmat untuk kami<br />Angkatlah derajat kami</p><p><br />Iyyaka iyyaka natawassalu alaika<br />Innaka innaka innaka ala kulli syaiin qadir</p><p><br />Iyyaka iyyaka natawassalu alaika<br />Innaka innaka innaka ala kulli syaiin qadir</p><p>&nbsp;</p><p>Ibadallah Ibadallah rijalallah<br />rijalallah, Aghitsuna, Aghitsuna li-ajlillah<br />Wa kunu aunana lillah<br />Asa nahdho bifadl-lillah</p><p><br />Robbi yassir, Robbi yassir wala tuassir<br />tu assir, Robbi tammim Robbi tammim bil khoiri<br />Ya Hayyu Ya Qoyyumu<br />bi rohmatika astaghitsu</p><p><br />Ya Robbana Ya Ghoffar Aqbil Sujudana"
+	  },
+	  {
+      "id": 24,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "WAQTU SAHAR",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "ITIRAF",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA25.mp3",
+      "lyrics": "<p>Ilaahii lastu lil firdausi ahlaan<br />wa laa aqwaa alaa naaril jahiimi<br />Fa hablii taubatan waghfir zunuubii<br />fa innaka ghaafirudzdzambil azhiimi<br />Dzunuubii mitslu adaadir rimaali<br />fa hablii taubatan yaa dzaaljalaali</p><p><br />Wa umrii naaqishun fii kulli yaumi<br />wa dzambii zaa-idun kaifah timaali<br />Ilaahii abdukal aashii ataaka<br />muqirran bidzdzunuubi wa qad daaaka</p><p><br />Ilaahii lastu lil firdausi ahlaan<br />wa laa aqwaa alaa naaril jahiimi</p>"
+	  },
+	  {
+      "id": 26,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "ALLAH ALLAH AGHISNA",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "MUHAMMAD NABINA",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA27.mp3",
+      "lyrics": "<p>Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p><p><br />Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p><p><br />Yaa imaamnaa, yaa amiin, ya sanad lilmuslimiin<br />Ya habiibii, ya Muhammad, yabna a&rsquo;bdillah</p><p><br />Tammatir rusaalaat tamaam, walhabiib miskil khitaam<br />Thul hayatiiwuf sholaatii badi&rsquo;i shollii waroh</p><p><br />Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p><p>&nbsp;</p><p>&nbsp;</p><p>Min awwil yuum fii u&rsquo;mrii sama&rsquo;t abuu yaa ummii<br />Biisholluu a&rsquo;layk, allahumma shollina&rsquo;layk</p><p><br />Habibnii fiil iimaan, hassisnii bil-amaan<br />Watta-a&rsquo;llaqti biih, allaahumma sholli wa sallim wa baarik a&rsquo;layh<br />Allaahumma sholli wa sallim wa baarik a&rsquo;layh</p><p><br />Nafsasyuufak fil manaam, ya Rasuulallah<br />Wabkaa a&rsquo;laa kitfak wa anaam, ya habiiballah<br />Waanuul syarof luqoo shuhbitak<br />Wa khotthii fii shuhuuf ummitak wathaamaa fiik</p><p><br />Muhammad nabina binuuruh hadiinaa<br />Min Makkah habiibii nuuruh, satho'al Madiinah</p><p><br />Yaa habiibii yaa thoha, yabghonniil mataahah<br />Ghoyyar biddunyaa fii a&rsquo;yniinaa bagna liilaw wa dhuhaahaa</p><p><br />Min sholla sholaatuh, withalab sifaatuh<br />Ya bakhtillii fii dhulluh maasyii yasyfa&rsquo;lah maatuh</p>"
+	  },
+	  {
+      "id": 28,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "ROBBIYA NABI NIDIK",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "SHOLAWAT VIRAL",
+      "title": "YA SAYYIDI",
+      "image": "file:///android_asset/image/AV.jpg",
+      "link_mp3": "mp3/AASHOVA29.mp3",
+      "lyrics": "<p>Yaa Sayyidi Yaa Rasulallaah <br />Yaa man lahul jaahu indallaah</p><p>Innal musii-iina qod ja-uuk<br />Lidz-dzanbi yastaghfiruunallaah</p><p><br />Ya sayyidar-rusli Haadinaa<br />Hayya bighaarah ilainal-an <br />Yaa Himmatas-saadaatil aqthaab <br />Ma&rsquo;aadina-shidqi was-sirri</p><p><br />Hatiku yang resah<br />Imanku yang goyah<br />Berilah hidayah<br />Bila hamba salah</p><p><br />Allaahu yaa Rohman <br />Allaahu yaa Rahim<br />Allaahumma Shalli&rsquo;alaihi wasallim</p><p>&nbsp;</p><p>Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa</p><p><br />Yaa Sayyidi Yaa Rasulallaah<br />Yaa man lahul jaahu indallaah</p><p><br />Innal musii-iina qod ja-uuk<br />Lidz-dzanbi yastaghfiruunallaah</p><p><br />Hatiku yang resah<br />Imanku yang goyah<br />Berilah hidayah<br />Bila hamba salah</p><p><br />Allaahu yaa Rohman<br />Allaahu yaa Rahim<br />Allaahumma Shalli&rsquo;alaihi wasallim<br />Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa<br />Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa"
+	  }
+  ]
+}
