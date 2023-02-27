@@ -1,0 +1,236 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "xx",
+      "main_ads_intertitial":"xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ VIRAL",
+      "image": "file:///android_asset/image/DV.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ HITS",
+      "image": "file:///android_asset/image/DH.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ VIRAL",
+      "title": "DJ CINTAMU SEPAHIT TOPI MIRING",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ1.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "DJ VIRAL",
+      "title": "DJ AKU TERPIKAT DIRIMU",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "DJ VIRAL",
+      "title": "DJ AIYA SUSANTI",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "DJ VIRAL",
+      "title": "DJ SIAL",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "DJ VIRAL",
+      "title": "DJ IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "DJ VIRAL",
+      "title": "DJ SUWUNG DISOGOK EXIMER",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "DJ VIRAL",
+      "title": "DJ RUNGKAD",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "DJ VIRAL",
+      "title": "DJ GET OUT MY FACE",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "DJ VIRAL",
+      "title": "DJ IH ABANG JAHAT",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "DJ VIRAL",
+      "title": "DJ INGINKU TERIAK",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "DJ VIRAL",
+      "title": "DJ PACARKU TIDAK ADA DIRUMAH",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "DJ VIRAL",
+      "title": "DJ TUHAN BANTU AKU",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/MRREMPIDJ12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "DJ HITS",
+      "title": "DJ BEBASKAN DIRIKU",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "DJ HITS",
+      "title": "DJ AKU RELA MELEPAS DIRIMU",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "DJ HITS",
+      "title": "DJ AKU TAK BISA MENAHAN LANGKAH KAKIMU",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "DJ HITS",
+      "title": "DJ BUKAN CINTA 1 ATAU 2",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "DJ HITS",
+      "title": "DJ CARE BEBEK",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "DJ HITS",
+      "title": "DJ DEMI CINTA YANG MENYALA",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "DJ HITS",
+      "title": "DJ DEVIL INSIDE ME",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "DJ HITS",
+      "title": "DJ PERDON",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "DJ HITS",
+      "title": "DJ EFEK GEDANG KLUTUK",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "DJ HITS",
+      "title": "DJ MAPOPO MBONA",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "DJ HITS",
+      "title": "DJ SUWUNG",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "DJ HITS",
+      "title": "DJ WELCOME TO SAHARA",
+      "image": "file:///android_asset/image/DH.jpg",
+      "link_mp3": "mp3/MRREMPIDJ24.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
