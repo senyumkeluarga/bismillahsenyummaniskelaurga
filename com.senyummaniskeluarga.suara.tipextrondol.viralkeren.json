@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "TRONDOL",
+      "image": "file:///android_asset/image/.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ TRONDOL",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "TRONDOL",
+      "title": "SUPER TRONDOL 1",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO1.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "TRONDOL",
+      "title": "SUPER TRONDOL 2",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "TRONDOL",
+      "title": "SUPER TRONDOL 3",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "TRONDOL",
+      "title": "SUPER TRONDOL 4",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 1",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 2",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 3",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 4",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 5",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 6",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 7",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 8",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 9",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 10",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 11",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 2TAK 1",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 2TAK 2",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 2TAK 3",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 2TAK 4",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 2TAK 5",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 2TAK 6",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "TRONDOL",
+      "title": "TRONDOL 2TAK 7",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/SUTRXDO22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "DJ TRONDOL",
+      "title": "DJ TRONDOL 1",
+      "image": "file:///android_asset/image/DT.jpg",
+      "link_mp3": "mp3/SUTRXDO23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "DJ TRONDOL",
+      "title": "DJ TRONDOL 2",
+      "image": "file:///android_asset/image/DT.jpg",
+      "link_mp3": "mp3/SUTRXDO24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "DJ TRONDOL",
+      "title": "DJ TRONDOL 3",
+      "image": "file:///android_asset/image/DT.jpg",
+      "link_mp3": "mp3/SUTRXDO25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "DJ TRONDOL",
+      "title": "DJ TRONDOL 4",
+      "image": "file:///android_asset/image/DT.jpg",
+      "link_mp3": "mp3/SUTRXDO26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "DJ TRONDOL",
+      "title": "DJ TRONDOL 5",
+      "image": "file:///android_asset/image/DT.jpg",
+      "link_mp3": "mp3/SUTRXDO27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "DJ TRONDOL",
+      "title": "DJ TRONDOL 6",
+      "image": "file:///android_asset/image/DT.jpg",
+      "link_mp3": "mp3/SUTRXDO28.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
