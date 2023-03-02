@@ -1,0 +1,215 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "أبو القاسم ودوبا",
+      "image": "file:///android_asset/image/QDU.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "بجانب عيني",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA1.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أبو القاسم 2023",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أبو القاسم ود ضبا 2023",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أبو القاسم ود ضبا الجديد 2023",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أبو القاسم ود ضبية 2023",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أبو القاسم ود. دوبا 2023",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أبو القاسم ودوبة 2022",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أبو القاسم ودوبة 2023",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أبو القاسم وود ضحى مباشرة",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أبو القصيم ود دوبا",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "اجدد ابو القاسم ود دوبا السعيده 2023",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أخبر تال كت هارتس",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "أرني أين ذهب الضمير",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "الجديد أبو القاسم ود دوبا",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "العالم يضيقني",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "حبيبي العالم المال معي",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "حبيبي العالم مليء بي",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "رأيت الصيد",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "قطع القلب",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "محبوبي",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "مستقل",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "أبو القاسم ودوبا",
+      "title": "نار في القلب",
+      "image": "file:///android_asset/image/QDU.jpg",
+      "link_mp3": "mp3/SUQABUDA22.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
