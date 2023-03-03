@@ -1,0 +1,316 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "VIRAL",
+      "image": "file:///android_asset/image/GV.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "HITS",
+      "image": "file:///android_asset/image/GH.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "VIRAL",
+      "title": "KOMANG",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA1.mp3",
+      "lyrics": "<p>Dari kejauhan tergambar cerita tentang kita<br />Terpisah jarak dan waktu<br />Ingin ku ungkapkan rindu lewat kata indah</p><p><br />Tak cukup untuk dirimu<br />Sebab kau terlalu indah dari sekedar kata<br />Dunia berhenti sejenak menikmati indahmu</p><p><br />Dan apabila tak bersamamu<br />Ku pastikan ku jalani dunia tak seindah kemarin<br />Sederhana tertawamu sudah cukup<br />Lengkapi sempurnanya hidup bersamamu</p><p><br />Jika hari ku lalui tanpa hawamu<br />Percuma senyumku dengan dia, ooh</p><p><br />Dan apabila tak bersamamu<br />Ku pastikan ku jalani dunia tak seindah kemarin<br />Sederhana tertawamu sudah cukup<br />Lengkapi sempurnanya hidup bersamamu</p><p><br />Apabila tak bersamamu<br />Ku pastikan ku jalani dunia tak seindah kemarin<br />Sederhana tertawamu sudah cukup<br />Lengkapi sempurnanya hidup bersamamu</p><p><br />Sebab kau terlalu indah dari sekedar kata<br />Dunia berhenti sejenak menikmati indahmu</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "VIRAL",
+      "title": "SIAL",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA2.mp3",
+      "lyrics": "<p>Sampai saat ini tak terpikir olehku<br />Aku pernah beri rasa pada orang sepertimu<br />Seandainya sejak awal tak ku yakinkan diriku<br />Tutur kata yang sempurna, tak sebaik yang kukira</p><p><br />Andai kutahu semua akan sia-sia<br />Takkan ku terima cinta sesaatmu</p><p><br />Bagaimana dengan aku<br />Terlanjur mencintaimu<br />Yang datang beri harapan<br />Lalu pergi dan menghilang<br />Tak terfikirkan olehmu<br />Hatiku hancur karena mu<br />Tanpa sedikit alasan<br />Pergi tanpa berpamitan<br />Takkan kuterima cinta sesaatmu</p><p><br />Seandainya sejak awal tak ku yakinkan diriku<br />Tutur kata yang sempurna, tak sebaik yang kukira</p><p><br />Andai kutahu semua akan sia-sia<br />Takkan ku terima cinta sesaatmu</p><p><br />Bagaimana dengan aku<br />Terlanjur mencintaimu<br />Yang datang beri harapan<br />Lalu pergi dan menghilang<br />Tak terfikirkan olehmu<br />Hatiku hancur karena mu<br />Tanpa sedikit alasan<br />Pergi tanpa berpamitan<br />Takkan kuterima cinta sesaatmu</p><p><br />Sial, sialnya ku bertemu dengan cinta semu<br />Tertipu tutur dan caramu, seolah cintaiku<br />Puas kau curangi aku?</p><p><br />Bagaimana dengan aku<br />Terlanjur mencintaimu<br />Yang datang beri harapan<br />Lalu pergi dan menghilang<br />Tak terfikirkan olehmu<br />Hatiku hancur karena mu<br />Tanpa sedikit alasan<br />Pergi tanpa berpamitan<br />Takkan kuterima cinta sesaatmu</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "VIRAL",
+      "title": "TAK KAN HILANG",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA3.mp3",
+      "lyrics": "<p>Karna jauh lebih indah<br />Bila kita bersama<br />Seperti yang terjadi kemarin</p><p><br />Kini harus aku lewati<br />Langkah demi langkah yang menyepi<br />Membalut luka lagi<br />Yang ku tahan hingga kini<br />Habis sudah nafasku<br />Menyebutmu namamu</p><p><br />Tak kan hilang cintaku padamu<br />Tak kan hilang walau kau memilih pergi<br />Tak kan hilang<br />Sampai diujung waktu<br />Ku mencintamu</p><p><br />Tak terganti<br />Tak kan hilang<br />Cintaku padamu padamu</p><p><br />Tak kan hilang cintaku padamu<br />Tak kan hilang walau kau memilih pergi<br />Tak kan hilang<br />Sampai diujung waktu<br />Tak kan hilang<br />Tak kan hilang<br />Sampai diujung waktu<br />Tak kan hilang cintaku padamu<br />Tak kan hilang walau kau memilih pergi<br />Tak kan hilang<br />Sampai diujung waktu<br />Ku mencintamu<br />Ku mencintamu</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "VIRAL",
+      "title": "MESRA MESRANYA KECIL KECILAN DULU",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA4.mp3",
+      "lyrics": "<p>Kita mesra-mesraannya<br />Kecil-kecilan dulu ya<br />Tunggu sampai semua mereda<br />Kan kukenalkan<br />Penampilan hujan di tempat lain<br />Pemandangan bagus di tempat yang jauh<br />Bukan yang di dekat rumah saja</p><p><br />Kita kan tangkap<br />Banyak kejadian<br />Yang menarik<br />Koleksi suasana asyik<br />Perasaan-perasaan yang baik<br />Cintanya besar-besaran<br />Meski mesranya kecil-kecilan</p><p><br />Ba, sementara<br />Kita mesra-mesraannya<br />Kecil-kecilan dulu ya<br />Tunggu sampai semua mereda<br />Baju pergimu<br />Jangan kekecilan dulu<br />Kalau iya nanti beli baru<br />Karena engkau tiba-tiba besar</p><p><br />Kita kan tangkap<br />Kejadian yang menarik<br />Koleksi suasana asyik<br />Perasaan-perasaan yang baik<br />Cintanya besar-besaran<br />Meski mesranya kecil-kecilan</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "VIRAL",
+      "title": "TERTAWAN HATI",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA5.mp3",
+      "lyrics": "<p>Sudah kucoba sepenuh hati<br />Untuk menjadi malaikat<br />Menepikan perasaan runtuhkan egoku<br />Namun sayapku remuk</p><p><br />Bila kutanya pada diriku<br />Mengapa aku bertahan<br />Menerima keadaan yang tak baik saja<br />Memaksakan segalanya</p><p><br />Sakit tak sanggup<br />Sadarkah kita terlalu hancur<br />Hilang habis tak bersisa<br />Tapi tak mampu kumenyerah<br />Tertawan hati</p><p><br />Tak mau kehilangan<br />Tapi lelah berjuang<br />Bukankah rumah tempatku bersandar</p><p><br />Sendiri ku tak bisa<br />Bersama kutersiksa<br />Ini kenyataannya kita tak baik saja</p><p><br />Sakit tak sanggup<br />Sadarkah kita terlalu hancur<br />Hilang habis tak bersisa<br />Tapi tak mampu kumenyerah<br />Tertawan hati ho</p><p><br />Oh kita terlalu hancur<br />Hilang habis tak bersisa<br />Tapi tak mampu kumenyerah ho</p><p><br />Tak mampu kumenyerah<br />Tertawan hati</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "VIRAL",
+      "title": "JALAN PULANG",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA6.mp3",
+      "lyrics": "<p>alan yang jauh jangan lupa pulang<br />Pesan-pesan yang selalu saja terngiang<br />Ku terbang jauh, kepak tak berbilang<br />Lewati awan dan angkasa tak berbayang</p><p><br />Cari mencari<br />Untuk mengisi<br />Lengkung hampa yang ingin terobati</p><p><br />Teruslah jalan terus berjalan<br />Kaki mungilku yang terus menahan beban<br />Teruslah jalan terus berjalan<br />Sebentar lagi ku akan sampai tujuan</p><p><br />Jalan yang jauh jangan lupa pulang</p><p><br />Teruslah jalan terus berjalan<br />Kaki mungilku yang terus menahan beban<br />Teruslah jalan terus berjalan<br />Sebentar lagi ku akan sampai tujuan</p><p><br />Lama ku nanti damai di diri<br />Rindukan terang rindukan Cinta Sejati<br />Getar di hati bertemu lagi<br />Rumahku pulang ternyata ada disini</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "VIRAL",
+      "title": "RUMAH SINGGAH",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA7.mp3",
+      "lyrics": "<p>Saat hatimu terluka<br />Aku lah yang menemanimu<br />Membasuh air matamu</p><p>Namun mengapa ketika<br />Hatimu telah tersenyum lagi<br />Aku yang kau lupa</p><p>Tak sadarkah selama ini<br />Ku juga selalu menginginkanmu</p><p><br />Mengapa sulit untuk ku bisa miliki hatimu<br />Bahkan selama ini hadirku tak berharga untukmu<br />Yang terjadi kini ku hanya rumah persinggahanmu<br />Di saat kau terluka<br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p><p><br />Jika memang ini tak ada harapan<br />Mengapa aku yang harus jadi tujuan<br />Saat hatimu terluka<br />Aku yang jadi obatnya<br />Tanpa pernah kau hargai<br />Cinta dan kasih yang setulus ini</p><p><br />Mengapa sulit (mengapa sulit) untuk ku bisa miliki hatimu<br />Bahkan selama ini hadirku tak berharga untukmu<br />Yang terjadi kini ku hanya rumah persinggahanmu<br />Di saat kau terluka<br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p><p><br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "VIRAL",
+      "title": "MESIN WAKTU",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA8.mp3",
+      "lyrics": "<p>Kalau harus ku mengingatmu lagi<br />Aku takkan sanggup<br />Dengan yang terjadi pada kita</p><p><br />Jika melupakanmu hal yang mudah<br />Ini takkan berat<br />Takkan membuat hatiku lelah</p><p><br />Kalah, ku akui aku kalah<br />Cinta ini pahit dan tak harus memiliki</p><p><br />Jika aku bisa<br />Ku akan kembali<br />Ku akan merubah<br />Takdir cinta yang kupilih</p><p><br />Meskipun tak mungkin<br />Walapun ku mau<br />Bawa kamu<br />Lewat mesin waktu</p><p><br />Jika melupakanmu hal yang mudah<br />Ini takkan berat<br />Takkan membuat hatiku lelah</p><p><br />Panjang perjalanan yang harus ku lalui<br />Ku merelakanmu</p><p><br />Jika aku bisa<br />Ku akan kembali<br />Ku akan merubah<br />Takdir cinta yang kupilih</p><p><br />Meskipun tak mungkin<br />Walapun ku mau<br />Bawa kamu<br />Lewat mesin waktu</p><p><br />Jika aku bisa<br />Ku akan kembali<br />Ku akan merubah<br />Takdir cinta yang kupilih</p><p><br />Meskipun tak mungkin<br />Walapun ku mau<br />Bawa kamu<br />Lewat mesin waktu</p><p><br />Jika aku bisa<br />Ku akan kembali<br />Ku akan merubah<br />Takdir cinta yang kupilih</p><p><br />Meskipun tak mungkin<br />Walapun ku mau<br />Bawa kamu<br />Lewat mesin waktu</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "VIRAL",
+      "title": "USAI",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA9.mp3",
+      "lyrics": "<p>Mungkin inilah waktunya<br />Mungkin inilah saatnya<br />Aku mengerti rasa sesal<br />Saat ada yang pergi menghilang<br />Kau datang mengukir luka<br />Yang sayang 'tuk dilupakan<br />Kau pergi tanpa mengajarkan<br />Cara 'tuk merelakanmu</p><p><br />Usai sudah semua cerita<br />Yang telah kita ukir berdua<br />Meninggalkan dirimu adalah<br />Hal terberat yang harus ku jalani<br />Aku memang kehilangan<br />Kamu yang sangat ku cintai<br />Namun kau telah kehilangan<br />Aku yang sangat mencintaimu</p><p><br />Ho-oh-oh<br />Ku akan terus belajar 'tuk melupakan kamu<br />Yang begitu mudah melupakanku<br />Ho-oh</p><p><br />Usai sudah semua cerita<br />Yang telah kita ukir berdua<br />Meninggalkan dirimu adalah<br />Hal terberat yang harus ku jalani<br />Aku memang kehilangan<br />Kamu yang sangat ku cintai<br />Namun kau telah kehilangan<br />Aku yang sangat mencintaimu</p><p><br />(Usai sudah semua cerita)<br />Oh-oh-uh-oh-uh-oh<br />(Yang telah kita ukir berdua)<br />Meninggalkan dirimu adalah<br />Hal terberat yang harus ku jalani<br />Aku memang kehilangan<br />Kamu yang sangat ku cintai<br />Namun kau telah kehilangan<br />Aku yang sangat mencintaimu, hu-hu-uh</p><p><br />Aku yang sangat mencintaimu</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "VIRAL",
+      "title": "BERTAHAN TERLUKA",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA10.mp3",
+      "lyrics": "<p>Entah kah prasangkah atau memang benar firasatku<br />Bahwa dirimu tlah berubah<br />Senyummu berbeda<br />Dan benar saja, ada hati lain yang kau jaga<br />Seakan-akan ku tak bisa membaca<br />Kau buat seperti tak ada yang terluka</p><p><br />Lakukanlah semaumu<br />Sampai kau lelah menyakitiku<br />Sebisa ku tak kan mengusikmu<br />Ku akan mencoba mengerti dirimu</p><p><br />Dan benar saja ada hati lain yang kau jaga<br />Seakan-akan ku tak bisa membaca<br />Kau buat seperti tak ada yang terluka</p><p><br />Lakukanlah semaumu<br />Sampai kau lelah menyakitiku<br />Sebisa ku tak kan mengusikmu<br />Ku akan mencoba mengerti dirimu</p><p><br />Andaikan kau tahu rasa sayangku melebihi rasa sakit ini<br />Mungkin kau takkan pernah menyangka<br />Mengapa aku tetap di sini</p><p><br />Lakukanlah semaumu<br />Sampai kau lelah menyakitiku<br />Sebisa ku takkan mengusikmu<br />Ku akan mencoba</p><p><br />(Lakukanlah) lakukanlah (Semaumu)<br />(Sampai kau lelah) terus kau menyakitiku<br />Sebisa ku takkan mengusikmu<br />Ku akan mencoba mengerti dirimu</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "VIRAL",
+      "title": "KAU RUMAH",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA11.mp3",
+      "lyrics": "<p>Bagaikan sungai yang tak punya malu<br />Mengalir meskipun terancam surut<br />Lalu, kakimu melangkah ke rumahku<br />Setengah melirik, mencoba rayu</p><p><br />Apa yang kau inginkan<br />Dari senyumku, ya tuan?</p><p><br />Gemar sekali kau lukiskan bintang untukku<br />Sungguh lihai tanganmu menata kembali hati<br />Yang hampir mati<br />Kan ku letakkan hangat di tengah dekap kita</p><p><br />Jangan biarkan ku pulang<br />Ke rumah yang bukan engkau</p><p><br />Bicarakan tentang seisi dunia<br />Perlahan mendekat, bisikkan cinta<br />Membuatku terlena<br />Ke dalam pesona sukma yang begitu indah</p><p><br />Apa yang kau inginkan<br />Dari senyumku, ya tuan?<br />Ohh</p><p><br />Gemar sekali kau lukiskan bintang untukku</p><p><br />Sungguh lihai tanganmu menata kembali hati<br />Yang hampir mati<br />Kan ku letakkan hangat di tengah dekap kita<br />Jangan biarkan ku pulang<br />Ke rumah yang bukan engkau</p><p><br />Jika mampu ku menjelajahi langit<br />Kan ku petik pelangi tuk warnai harimu<br />Jangan khawatir, masih ada aku<br />Jangan khawatir, masih ada aku</p><p><br />Gemas sekali kau lukiskan bintang untukku</p><p><br />Sungguh lihai tanganmu menata kembali hati<br />Yang hampir mati<br />Kan ku letakkan hangat di tengah dekap kita</p><p><br />Kan aku persilahkan kau menetap di sini</p>"
+	  },
+	  {
+      "id": 12,
+      "name_category": "VIRAL",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA12.mp3",
+      "lyrics": "<p>Apalah arti cinta yang indah<br />Apalah arti cinta dan sayang<br />Slalu terhalang masalah lama<br />Tentang rasa percaya</p><p><br />Hati yang kujaga slalu<br />Untuk dirimu yang mengeluh<br />Tentang pribadi yang slalu salah<br />Di pandanganmu sayang</p><p><br />Tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan slalu menjagamu<br />Hingga akhir hidupku</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu kau terlalu jauh<br />Sebenarnya aku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu</p><p><br />Ho uh oh tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan selalu menjagamu</p><p><br />Malam bantu aku luluhkan dia (luluhkan dia)<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Sebenarnya aku tak seburuk itu diriku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu<br />Semata karna ku tak mampu hidup tanpamu</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "VIRAL",
+      "title": "SISA RASA",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA13.mp3",
+      "lyrics": "<p>Melihatmu bahagia, satu hal yang terindah<br />Anug'rah cinta yang pernah kupunya<br />Kau buatku percaya, ketulusan cinta<br />Seakan kisah sempurna 'kan tiba</p><p><br />Masih jelas teringat, pelukanmu yang hangat<br />Seakan semua tak mungkin menghilang<br />Kini hanya kenangan, yang telah kau tinggalkan<br />Tak tersisa lagi waktu bersama</p><p><br />Mengapa masih ada?<br />Sisa rasa di dada<br />Disaat kau pergi begitu saja<br />Mampukah ku bertahan?<br />Tanpa hadirmu sayang<br />Tuhan sampaikan rindu untuknya (rindu untuknya)</p><p><br />Masih jelas teringat (jelas teringat), pelukanmu yang hangat<br />Seakan semua tak mungkin menghilang (menghilang)<br />Kini hanya kenangan, yang t'lah kau tinggalkan<br />Tak tersisa lagi waktu bersama (waktu bersama)</p><p><br />Mengapa masih ada? (ooh...)<br />Sisa rasa di dada<br />Disaat kau pergi begitu saja (begitu saja)<br />Mampukah ku bertahan?<br />Tanpa hadirmu sayang<br />Tuhan sampaikan rindu untuknya</p><p><br />(Masih tersimpan) Oh, masih tersimpan<br />Setiap kenangan (ooh...)<br />Semua cinta yang kau beri<br />Kau takkan terganti</p><p><br />Mengapa masih ada? (masih ada)<br />Sisa rasa di dada (rasa di dada)<br />Disaat kau pergi begitu saja<br />Mampukah ku bertahan? (tanpa hadirmu sayang)<br />Tuhan sampaikan rindu untuknya<br />Sampaikan rinduku untuknya</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "VIRAL",
+      "title": "PERAHU KERTAS",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA14.mp3",
+      "lyrics": "<p>Perahu kertasku kan melaju<br />Membawa surat cinta bagimu<br />Kata-kata yang sedikit gila<br />Tapi ini adanya<br />Perahu kertas mengingatkanku<br />Betapa ajaib hidup ini<br />Mencari-cari tambatan hati<br />Kau sahabatku sendiri</p><p><br />Hidupkan lagi mimpi-mimpi (cinta-cinta)<br />Cita-cita (cinta-cinta)<br />Yang lama ku pendam sendiri<br />Berdua ku bisa percaya</p><p><br />Ku bahagia<br />Kau telah terlahir di dunia<br />Dan kau ada<br />Di antara milyaran manusia<br />Dan ku bisa dengan radarku<br />Menemukanmu</p><p><br />Tiada lagi yang mampu berdiri<br />Halangi rasaku<br />Cintaku padamu</p><p><br />Ku bahagia<br />Kau telah terlahir di dunia<br />Dan kau ada<br />Di antara milyaran manusia<br />Dan ku bisa dengan radarku<br />Menemukanmu</p><p><br />Oh bahagia<br />Kau telah terlahir di dunia<br />Dan kau ada<br />Di antara milyaran manusia<br />Dan ku bisa dengan radarku<br />Menemukanmu</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "VIRAL",
+      "title": "ASMALIBRASI",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA15.mp3",
+      "lyrics": "<p>Asmara telah terkalibrasi frekuensi yang sama<br />Saatnya tuk mengikat janji merangkum indahnya</p><p><br />Laras rasa nihil ragu<br />Biar biarlah merayu di ruang biru<br />Bias kita jadi taksu gairah kalbu mendayu<br />Sabda diramu</p><p><br />Jadikan hanya aku satu-satunya<br />Sang garwa pambage sang pelipur lara<br />Nyanyikan ku kidung setia</p><p><br />Jadikan hanya aku satu-satunya<br />Sang garwa pambage sang pelipur lara<br />Nyanyikan ku kidung setia</p><p><br />Kini saatnya merangkai binar asmara<br />Melebur tuk satukan ego dalam indahnya</p><p><br />Berdansa dalam bahtera mahligai rasa<br />Merajut ketulusan jiwa<br />Mengabdi dalam indahnya kalbu<br />Mengukir ruang renjana selamanya</p><p><br />Jadikan hanya aku satu-satunya<br />Sang garwa pambage sang pelipur lara<br />Nyanyikan ku kidung setia</p><p><br />Jadikan hanya aku satu-satunya<br />Sang garwa pambage sang pelipur lara<br />Nyanyikan ku kidung setia</p><p><br />Asmara telah terkalibrasi<br />Jadikanku kidung setia</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "VIRAL",
+      "title": "HATI HATI DIJALAN",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA16.mp3",
+      "lyrics": "<p>Perjalanan membawamu<br />Bertemu denganku<br />Ku bertemu kamu<br />Sepertimu yang kucari<br />Konon aku juga<br />Seperti yang kau cari</p><p><br />Kukira kita asam dan garam<br />Dan kita bertemu di belanga<br />Kisah yang ternyata tak seindah itu</p><p><br />Kukira kita akan bersama<br />Begitu banyak yang sama<br />Latarmu dan latarku<br />Kukira takkan ada kendala<br />Kukira ini kan mudah<br />Kau aku jadi kita</p><p><br />Kasih sayangmu membekas<br />Redam kini sudah<br />Pijar istimewa<br />Entah apa maksud dunia<br />Tentang ujung cerita<br />Kita tak bersama<br />Semoga rindu ini menghilang<br />Konon katanya waktu sembuhkan<br />Akan adakah lagi yang sepertimu</p><p><br />Kukira kita akan bersama<br />Begitu banyak yang sama<br />Latarmu dan latarku<br />Kukira takkan ada kendala<br />Kukira ini kan mudah<br />Kau aku jadi kita</p><p><br />Kau melanjutkan perjalananmu<br />Ku melanjutkan perjalananku</p><p><br />Kukira kita akan bersama<br />Begitu banyak yang sama<br />Latarmu dan latarku<br />Kukira takkan ada kendala<br />Kukira ini kan mudah<br />Kau aku jadi kita<br />Kukira kita akan bersama</p><p><br />Hati-hati di jalan</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "VIRAL",
+      "title": "ANDAI KU BISA",
+      "image": "file:///android_asset/image/GV.jpg",
+      "link_mp3": "mp3/GOPARA17.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 18,
+      "name_category": "HITS",
+      "title": "BERTAHAN ATAU PERGI",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA18.mp3",
+      "lyrics": "<p>Nampaknya tak ada, mmm<br />Yang bisa kukatakan<br />Tuk dapat membuat<br />Kau mendengarkan keluh kesahku</p><p><br />Kini aku tak sepenting itu<br />Mmm<br />Tak semenarik itu<br />Beda saat kau mengejarku<br />Namun telah berlalu<br />Tolong jawablah</p><p><br />Dimanakah kau berada?<br />Ku mencari sisimu yang aku kenali<br />Dan adakah yang tersisa<br />Alasanku tuk bertahan di sini?<br />Oh, dimanakah engkau berada?<br />Uh, yeah</p><p><br />Ku mohon sejenak, mmm<br />Berpaling dari layarmu Layarmu<br />Tuk menatap mataku<br />Jangan buatku selalu merasa</p><p><br />Kini aku tak sepenting itu<br />Mmm<br />Tak semenarik itu<br />Beda saat kau mengejarku<br />Mmm<br />Namun telah berlalu<br />Tolong jawablah</p><p><br />Dimanakah kau berada?<br />Ku mencari sisimu yang aku kenali<br />Dan adakah yang tersisa<br />Alasanku tuk bertahan di sini?</p><p><br />Bisakah kita hapuskan rumitnya?<br />Semua jatuh pada tempatnya, uh-oh<br />Kasih dimanakah<br />Kau berada?<br />Ku mencari sisimu Yang aku kenali<br />Dan adakah Dan adakah<br />Yang tersisa? Yang tersisa?<br />Tuk bertahan di sini<br />Oh, dimanakah engkau berada?<br />Uh-uh-uh<br />Oh, dan adakah yang masih tersisa</p><p><br />Alasanku tuk bertahan di sini?<br />Mmm</p>"
+	  },
+	  {
+      "id": 19,
+      "name_category": "HITS",
+      "title": "CARA MENCINTAIMU",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA19.mp3",
+      "lyrics": "<p>Berjuang untuk di hatimu<br />Di kala ku harus berkorban<br />Tuk dapatkan cintamu<br />Tuk dapatkan hatimu<br />Seutuhnya</p><p><br />Bertahan untuk di hatimu, hmm<br />Di kala ku harus mengalah<br />Ku ingin engkau tahu<br />Ku harap kau mengerti<br />Cintaku</p><p><br />Inilah caraku mencintai dirimu<br />Sampai kau tak ragukan cintaku<br />Takkan berubah tak akan berubah<br />Hingga akhir waktu<br />Sampai kau bahagia bersamaku<br />Kau bahagia bersamaku</p><p><br />Bertahan untuk di hatimu<br />Di kala ku harus mengalah harus mengalah<br />Kuingin engkau tahu<br />Kuharap kau mengerti mengerti, oh<br />Cintaku</p><p><br />inilah caraku mencintai dirimu<br />Sampai kau tak ragukan cintaku<br />Takkan berubah tak akan berubah<br />Hingga akhir waktu<br />Sampai kau bahagia bersamaku, u-o-oh</p><p><br />Jaga hatimu untukku hatimu untukku<br />Saat kau tak di sisiku tiada di sisiku<br />Walau sulit ku berharap<br />Kumau kita selalu bersama bersama, u-ho</p><p><br />Inilah caraku mencintai dirimu<br />Sampai kau tak ragukan cintaku</p><p><br />Inilah caraku mencintai dirimu<br />Sampai engkau tak ragukan, ragukan cintaku, u-oh<br />Ku tak akan berubah<br />Hingga akhir waktu<br />Sampai kau bahagia bersamaku<br />Sampai kau bahagia bersamaku</p>"
+	  },
+	  {
+      "id": 20,
+      "name_category": "HITS",
+      "title": "HILANG TANPA BILANG",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA20.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 21,
+      "name_category": "HITS",
+      "title": "JANJI SETIA",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA21.mp3",
+      "lyrics": "<p>Kini aku mengerti<br />Semua ini terjadi<br />Tak dipungkiri<br />Hanya kamu yang kumiliki</p><p><br />Bumi di kala sunyi<br />Kamu tak kan sendiri<br />Aku disini menantimu kembali</p><p><br />Andai saja ku bisa genggam tanganmu<br />Takkan ada kata rindu di dalam hatiku</p><p><br />Tahukah dirimu betapa diriku merindukan hadirmu ada di sini<br />Percayalah kasih, jarak dan waktu tak mampu menghapus janji setia menjaga hati</p><p><br />Andai saja ku bisa genggam tanganmu<br />Takkan ada kata rindu di dalam hatiku</p><p><br />Tahukah dirimu betapa diriku merindukan hadirmu ada di sini<br />Percayalah kasih, jarak dan waktu tak mampu menghapus janji setia menjaga hati</p><p><br />Hujan turun mewakili hati<br />Terpa angin gambarkan resahku<br />Namun kini pelangi<br />Datang menyinari kita</p><p><br />Merindukan hadirmu ada di sini<br />Percayalah kasih, jarak dan waktu tak mampu menghapus janji setia menjaga hati</p><p><br />Merindukan hadirmu ada di sini<br />Percayalah oh kasihku, jarak dan waktu tak mampu menghapus janji setia menjaga hati</p>"
+	  },
+	  {
+      "id": 22,
+      "name_category": "HITS",
+      "title": "KEBUTUHAN HATI",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA22.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 23,
+      "name_category": "HITS",
+      "title": "MANTAN TERINDAH",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA23.mp3",
+      "lyrics": "<p>Mengapa engkau waktu itu<br />Putuskan cintaku<br />Dan saat ini engkau s'lalu ingin bertemu<br />Dan mengulang jalin cinta</p><p><br />Mau di kata kan apa lagi<br />Kita tak akan pernah satu<br />Engkau di sana aku di sini<br />Meski hatiku memilihmu</p><p><br />Andai ku bisa<br />Ingin aku memelukmu lagi yeah<br />Di hati ini<br />Hanya engkau mantan terindah<br />Yang selalu ku rindukan</p><p><br />Mau dikatakan apa lagi<br />Kita tak akan pernah satu<br />Engkau di sana aku di sini<br />Meski hatiku memilihmu</p><p><br />Engkau meminta padaku<br />Untuk mengatakan bila ku berubah<br />Jangan pernah kau ragukan<br />Engkau kan selalu dilangkahku oohh</p><p><br />Mau dikatakan apa lagi<br />Kita tak akan pernah satu<br />Engkau di sana aku di sini<br />Meski hatiku memilihmu oohh</p><p><br />Engkau di sana aku di sini<br />Meski hatiku memilihmu</p><p><br />Yang t'lah kau buat sungguhlah indah<br />Buat diriku susah lupa</p>"
+	  },
+	  {
+      "id": 24,
+      "name_category": "HITS",
+      "title": "MERASA INDAH",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA24.mp3",
+      "lyrics": "<p>Kemarin engkau, nyatakan hati<br />Tapi terlambat<br />Katamu tak bisa...</p><p><br />Cinta ini takkan berbalas<br />Sayang kupastikan melayang<br />Pedih ku saat merasa indah<br />Semua hilang dan usai</p><p><br />Bila cinta ini tak nyata<br />Jangan engkau beri harapan<br />Sudah, cukup kini kusadari<br />Terlalu cepat jatuhkan hati</p><p><br />Kini ku mengerti kau lebih<br />Memilih dia...</p><p><br />Cinta ini takkan berbalas<br />Sayang kupastikan melayang<br />Pedih ku saat merasa indah<br />Semua hilang dan usai</p><p><br />Bila cinta ini tak nyata<br />Jangan engkau beri harapan<br />Sudah, cukup kini kusadari<br />Terlalu cepat jatuhkan hati</p><p><br />Sempat kau bersikap seolah sandaran jiwaku<br />Namun apa artinya memilih hati yang salah</p><p><br />Pedih ku saat merasa indah<br />Semua hilang dan usai<br />Bila cinta ini tak nyata<br />Jangan engkau beri harapan<br />Sudah, cukup kini kusadari<br />Terlalu cepat jatuhkan hati</p><p><br />Pedih ku saat merasa indah<br />Semua hilang dan usai<br />Bila cinta ini tak nyata<br />Jangan engkau beri harapan<br />Sudah , cukup kini kusadari<br />Terlalu cepat jatuhkan hati<br />Terlalu cepat jatuhkan hati</p>"
+	  },
+	  {
+      "id": 25,
+      "name_category": "HITS",
+      "title": "MISAL",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA25.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 26,
+      "name_category": "HITS",
+      "title": "RUNTUH",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA26.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 27,
+      "name_category": "HITS",
+      "title": "RUNTUH FEBY",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA27.mp3",
+      "lyrics": "<p>Ku terbangun lagi<br />Diantara sepi hanya pikiran yang ramai<br />Mengutuki diri<br />Tak bisa kembali tuk mengubah alur kisah</p><p><br />Ketika mereka meminta tawa<br />Ternyata rela tak semudah kata</p><p><br />Tak perlu khawatir ku hanya terluka<br />Terbiasa tuk pura pura tertawa<br />Namun bolehkah skali saja ku menangis<br />Sebelum kembali membohongi diri</p><p><br />Ketika kau lelah<br />Berhentilah dulu, beri ruang, beri waktu<br />Mereka bilang syukurilah saja<br />Padahal rela tak semudah kata</p><p><br />Tak perlu khawatir ku hanya terluka<br />Terbiasa tuk pura pura tertawa<br />Namun bolehkah skali saja ku menangis<br />Sebelum kembali membohongi diri</p><p><br />Kita hanyalah manusia yang terluka<br />Terbiasa tuk pura pura tertawa<br />Namun bolehkah skali saja ku menangis<br />Ku tak ingin lagi membohongi diri<br />Ku ingin belajar menerima diri</p>"
+	  },
+	  {
+      "id": 28,
+      "name_category": "HITS",
+      "title": "SAAT KAU TELAH MENGERTI",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA28.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 29,
+      "name_category": "HITS",
+      "title": "SELAMAT TINGGAL",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA29.mp3",
+      "lyrics": "<p>Di tempat ini<br />Di tempat pertama aku menemukan mu<br />Kembali kudatangi tempat ini<br />Tapi ku dengan yang lain</p><p><br />Samar kudengar<br />Suara yang selalu kukenal itu suaramu<br />Kau terlihat bahagia bersamanya<br />Dia kekasihmu yang baru</p><p><br />Aku pun terdiam<br />Saat gadis kecil berlari ke arahmu<br />Gadis kecil yang miliki mata indah<br />Persis seperti matamu</p><p><br />Dan kau pun tersenyum<br />Aku pun tersenyum<br />Dan kugenggam tangan wanita di sampingku<br />Dan kau genggam tangannya, dan kau genggam tangannya<br />Dan berkata lirih di dalam hati lirih hati<br />Tentang semua ini</p><p><br />Andai dulu kau tak pergi dari hidupku<br />Takkan mungkin kutemui cinta yang kini ku miliki<br />Cinta yang menerima kekurangan<br />Dan merubah caraku memandang dunia</p><p><br />Andai dulu ku paksakan terus bersama mu<br />Belum tentu kisah kita berdua berakhir bahagia<br />Kisah yang mendewasakan kita berdua<br />Meski lewat luka...</p><p><br />Satu hal yang kini aku mengerti<br />Meski berat bibir ini mengucap<br />Akan selalu ada kata selamat<br />Dalam setiap kata selamat tinggal</p><p><br />Andai dulu kau tak pergi dari hidupku dari hidupku<br />Takkan mungkin kutemui cinta yang kini ku miliki ku miliki<br />Cinta yang menerima kekurangan<br />Dan merubah caraku memandang dunia</p><p><br />Andai dulu ku paksakan terus bersama mu untuk terus bersamamu<br />Belum tentu kisah kita berdua berakhir bahagia<br />Kisah yang mendewasakan kita berdua<br />Meski lewat luka meski lewat luka<br />Meski lewat luka...</p><p><br />Satu hal yang kini aku mengerti<br />Meski berat bibir ini mengucap<br />Akan selalu ada kata selamat<br />Dalam setiap kata selamat tinggal</p><p><br />Selamat tinggal selamat tinggal<br />Samar kudengar<br />Di tempat ini<br />Suara yang selalu ku kenal, itu suaramu<br />Di tempat pertama aku menemukanmu</p>"
+	  },
+	  {
+      "id": 30,
+      "name_category": "HITS",
+      "title": "TAK LAGI SAMA",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA30.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 31,
+      "name_category": "HITS",
+      "title": "TAK MAMPU PERGI",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA31.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 32,
+      "name_category": "HITS",
+      "title": "TAK SEGAMPANG ITU",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA32.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 33,
+      "name_category": "HITS",
+      "title": "TANPA PERASAAN BERSALAH",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA33.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  },
+	  {
+      "id": 34,
+      "name_category": "HITS",
+      "title": "SENYUM YANG INDAH",
+      "image": "file:///android_asset/image/GH.jpg",
+      "link_mp3": "mp3/GOPARA34.mp3",
+      "lyrics": "LIRIK BELUM TERSEDIA...MAAF"
+	  }
+  ]
+}
