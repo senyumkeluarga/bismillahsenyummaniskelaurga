@@ -1,0 +1,383 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BASURI",
+      "image": "file:///android_asset/image/TB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "BASURI",
+      "title": "TELOLET 1",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET1.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 2,
+      "name_category": "BASURI",
+      "title": "TELOLET 2",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "BASURI",
+      "title": "TELOLET 3",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "BASURI",
+      "title": "TELOLET 4",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "BASURI",
+      "title": "TELOLET 5",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "BASURI",
+      "title": "TELOLET 6",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "BASURI",
+      "title": "TELOLET 7",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "BASURI",
+      "title": "TELOLET 8",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "BASURI",
+      "title": "TELOLET 9",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "BASURI",
+      "title": "TELOLET 10",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "BASURI",
+      "title": "TELOLET 11",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "BASURI",
+      "title": "TELOLET 12",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "BASURI",
+      "title": "TELOLET 13",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "BASURI",
+      "title": "TELOLET 14",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "BASURI",
+      "title": "TELOLET 15",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "BASURI",
+      "title": "TELOLET 16",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "BASURI",
+      "title": "TELOLET 17",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "BASURI",
+      "title": "TELOLET 18",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "BASURI",
+      "title": "TELOLET 19",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "BASURI",
+      "title": "TELOLET 20",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "BASURI",
+      "title": "TELOLET 21",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET21.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "BASURI",
+      "title": "TELOLET 22",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "BASURI",
+      "title": "TELOLET 23",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "BASURI",
+      "title": "TELOLET DEWI PERMATA 1",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "BASURI",
+      "title": "TELOLET DEWI PERMATA 2",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "BASURI",
+      "title": "TELOLET DEWI PERMATA 3",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "BASURI",
+      "title": "TELOLET DEWI PERMATA 4",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "BASURI",
+      "title": "TELOLET DEWI PERMATA 5",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "BASURI",
+      "title": "TELOLET DEWI PERMATA 6",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "BASURI",
+      "title": "TELOLET DEWI PERMATA 7",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "BASURI",
+      "title": "TELOLET DEWI PERMATA 8",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET31.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 32,
+      "name_category": "BASURI",
+      "title": "TELOLET TAYO",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET32.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "BASURI",
+      "title": "TELOLET TUNGGAL JAYA 1",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET33.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 34,
+      "name_category": "BASURI",
+      "title": "TELOLET TUNGGAL JAYA 2",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET34.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 35,
+      "name_category": "BASURI",
+      "title": "TELOLET TUNGGAL JAYA 3",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET35.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 36,
+      "name_category": "BASURI",
+      "title": "TELOLET TUNGGAL JAYA 4",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET36.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 37,
+      "name_category": "BASURI",
+      "title": "TELOLET TUNGGAL JAYA 5",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET37.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 38,
+      "name_category": "BASURI",
+      "title": "TELOLET GARUDA MAS 1",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET38.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 39,
+      "name_category": "BASURI",
+      "title": "TELOLET GARUDA MAS 2",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET39.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 40,
+      "name_category": "BASURI",
+      "title": "TELOLET GARUDA MAS 3",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET40.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 41,
+      "name_category": "BASURI",
+      "title": "TELOLET GARUDA MAS 4",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET41.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 42,
+      "name_category": "BASURI",
+      "title": "TELOLET GARUDA MAS 5",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET42.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 43,
+      "name_category": "BASURI",
+      "title": "TELOLET GARUDA MAS 6",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TEBASLET43.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
