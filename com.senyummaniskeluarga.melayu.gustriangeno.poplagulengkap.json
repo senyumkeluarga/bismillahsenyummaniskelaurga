@@ -1,0 +1,308 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "GUSTRIAN",
+      "image": "file:///android_asset/image/GD.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "POP MELAYU",
+      "image": "file:///android_asset/image/PY.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "GUSTRIAN",
+      "title": "SEHARUSNYA AKU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p>Coba kau ingat-ingat kembali<br />Siapa yang ada di saat kamu terluka<br />Aku, bukan dia<br />Namunnya kau tak pernah merasa<br />Aku, bukan dia<br />Namunnya kau tak pernah merasa</p><p>Setelah semuanya kini berlalu<br />Luka di hatimu tak lagi berasa pilu<br />Pahit yang kut'rima<br />Manisnya orang lain yang punya<br />Pahit yang kut'rima<br />Manisnya orang lain yang punya</p><p>Kekasih, di mana kurangnya aku padamu?<br />Sehingga kau tak dapat melihat cinta<br />Sakitmu selalu aku yang ada untukmu<br />Senangmu tak pernah kau bagi untukku</p><p>Harusnya aku, bukanlah dirinya<br />Orang yang pertama kau cinta<br />Harusnya aku, bukanlah dirinya<br />Orang yang pertama kau cinta</p><p>Setelah semuanya kini berlalu<br />Luka di hatimu tak lagi berasa pilu<br />Pahit yang kut'rima<br />Manisnya orang lain yang punya<br />Pahit yang kut'rima<br />Manisnya orang lain yang punya</p><p>Kekasih, di mana kurangnya aku padamu?<br />Sehingga kau tak dapat melihat cinta<br />Sakitmu selalu aku yang ada untukmu<br />Senangmu tak pernah kau bagi untukku</p><p>Harusnya aku, bukanlah dirinya<br />Orang yang pertama kau cinta<br />Harusnya aku, bukanlah dirinya<br />Orang yang pertama kau cinta</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "GUSTRIAN",
+      "title": "SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p>Percuma.. sia sia..<br />Diriku mengharap cinta darimu..<br />Kini.. ku sadari..<br />Dirimu tak punya rasa untukku..</p><p>Perjuanganku..<br />Tak pernah bernilai di matamu..<br />Cintaku.. seakan tak berharga..</p><p>Dalam tangismu..<br />Akulah yang selalu ada..<br />Aku kecewa.. mengapa kau pilih dia..</p><p>Tidakkah kau rasakan<br />Getaran cinta yang telah kuberikan<br />Ataukah kau sengaja<br />Permainkan diriku..</p><p>Haruskah kurelakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya..</p><p>Musnah sudah harapan cinta<br />Yang kuharap selama ini..<br />Kini senanglah kau bersamanya<br />Tinggal aku di dalam sepi..</p><p>Kini.. ku sadari..<br />Dirimu tak punya rasa untukku..</p><p>Perjuanganku..<br />Tak pernah bernilai di matamu..<br />Cintaku.. seakan tak berharga..</p><p>Dalam tangismu..<br />Akulah yang selalu ada..<br />Aku kecewa.. mengapa kau pilih dia..</p><p>Tidakkah kau rasakan<br />Getaran cinta yang telah kuberikan<br />Ataukah kau sengaja<br />Permainkan diriku..</p><p>Haruskah kurelakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya..</p><p>Musnah sudah harapan cinta<br />Yang kuharap selama ini..<br />Kini senanglah kau bersamanya<br />Tinggal aku di dalam sepi</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "GUSTRIAN",
+      "title": "HATIMU BUKAN MILIKU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": "<p>kasih izinkanlah aku merinduimu<br />izinkan ku menyayangi dirimu<br />biar hanya didalam mimpi<br />kerana cinta dihati<br />tak dapat aku pungkiri<br />walaupun dirimu tak bisa ku miliki<br />kasih rindu biarlah ku tahan sendiri<br />tanpa dirimu disisiku lagi<br />tinggal kenangan dalam hati<br />kau yang dulu ku cintai<br />kini berlalu kau pergi<br />biarlah ku bawa luka bersamanya diri</p><p>ku relakan engkau bersamanya<br />ku bisa walau harus kecewa<br />engkau tercipta bukan untukku<br />hatimu bukanlah milikku</p><p>tak mungkin jika aku memaksa<br />dicintai dan disayangi<br />diriku hanya orang tak punya<br />karena harta kau pilih dia</p><p>berbahagialah engkau bersama dengannya<br />usah lagi kau kenang akan diriku<br />ku hanya bisa mencintai tak memiliki<br />maaf ku pernah singgah dihatimu</p><p>kasih rindu biarlah ku tahan sendiri<br />tanpa dirimu disisiku lagi<br />tinggal kenangan dalam hati<br />kau yang dulu ku cintai<br />kini berlalu kau pergi<br />biarlah ku bawa luka bersamanya diri</p><p>ku relakan engkau bersamanya<br />ku bisa walau harus kecewa<br />engkau tercipta bukan untukku<br />hatimu bukanlah milikku</p><p>tak mungkin jika aku memaksa<br />dicintai dan disayangi<br />diriku hanya orang tak punya<br />karena harta kau pilih dia<br />berbahagialah engkau bersama dengannya<br />usah lagi kau kenang akan diriku<br />ku hanya bisa mencintai tak memiliki<br />maaf ku pernah singgah dihatimu</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "GUSTRIAN",
+      "title": "HANYA BISA MERELAKAN",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "GUSTRIAN",
+      "title": "BERBEZA KASTA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": "<p>Haruskah berakhir sampai di sini?<br />Cinta yang dulu kita bina<br />Kini telah layu di dalam hati</p><p><br />Sudahlah, cukuplah sampai di sini<br />Percuma saja berkasih<br />Kita sudah tak sehaluan lagi</p><p><br />Perbezaan kasta yang jauh<br />Aku tahu siapalah diriku<br />Terlalu dalam jurang pemisah<br />Kasih sudah berakhir di sini saja</p><p><br />Di depan orang tuamu, kau malukan diriku<br />Kau bandingkan aku dengan dirinya<br />Kau hina diriku, kau sebut tentang harta<br />Kasih, ku sedar, ku tiada berpunya<br />Jikalau kau memang tak lagi cinta<br />Aku kan pergi walau terluka</p><p><br />Sudahlah, cukuplah sampai di sini<br />Percuma saja berkasih<br />Kita sudah tak sehaluan lagi</p><p><br />Perbezaan kasta yang jauh<br />Aku tahu siapalah diriku<br />Terlalu dalam jurang pemisah<br />Kasih sudah berakhir di sini saja</p><p><br />Di depan orang tuamu, kau malukan diriku<br />Kau bandingkan aku dengan dirinya<br />Kau hina diriku, kau sebut tentang harta<br />Kasih, ku sedar, ku tiada berpunya<br />Jikalau kau memang tak lagi cinta<br />Aku kan pergi walau terluka</p><p><br />Jikalau kau memang tak lagi cinta<br />Aku kan pergi walau terluka</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "GUSTRIAN",
+      "title": "GAGAL MERANGKAI KATA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": "<p>Mengapa terlalu cepat<br />Engkau akhiri cinta kita<br />Hati mulai sedang berbunga<br />Musnah cinta tanpa sebab karena</p><p><br />Air mata tetesi bumi<br />Gagalku denganmu merangkai hati<br />Hilang cinta dibakar api<br />Karena kau telah mengingkari janji</p><p><br />Reff:<br />Sedang sayang-sayangnya diriku engkau tinggalkan<br />Kau buat aku merana sengsara dibuai dusta<br />Mengapa kau beri rasa jika kau tak menjaganya<br />Kini entah ke mana tiada rasa bersalah</p><p><br />Apa ujungnya cinta ini<br />Tanpa penjelasan engkau pergi<br />Jangan kau menggantung cinta ini<br />Agar ku tak menunggu yang tak pasti</p><p><br />Air mata tetesi bumi<br />Gagalku denganmu merangkai hati<br />Hilang cinta dibakar api<br />Karena kau telah mengingkari janji</p><p><br />Reff:<br />Sedang sayang-sayangnya diriku engkau tinggalkan<br />Kau buat aku merana sengsara dibuai dusta<br />Mengapa kau beri rasa jika kau tak menjaganya<br />Kini entah ke mana tiada rasa bersalah</p><p><br />Apa ujungnya cinta ini<br />Tanpa penjelasan engkau pergi<br />Jangan kau menggantung cinta ini<br />Agar ku tak menunggu yang tak pasti</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "GUSTRIAN",
+      "title": "RELAKU MENGALAH",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": "<p>Jika dirimu bertanya cinta aku pasti punya<br />Jika kau butuhkan harta aku bisa apa<br />Jika kau butuhkan harta aku bisa apa</p><p><br />Jika kau harapkan kasih yang setia aku lah orang nya<br />Jika kau inginkan tahta aku bisa apa<br />Jika kau inginkan tahta aku bisa apa</p><p><br />Sekuat kuatnya diriku sayang<br />Sebisa bisanya aku berjuang<br />Jika bandingan mu dia yang beruang<br />Ku akui cintaku tak kan menang</p><p><br />Ku hanya bisa janjikan yang indah<br />Dia datang membawa segalanya<br />Sebesar apapun cinta yang ku punya<br />Kau kan tetap memilih dia<br />Aku bisa apa aku bisa apa</p><p><br />Jika kau harapkan kasih yang setia aku lah orang nya<br />Jika kau inginkan tahta aku bisa apa<br />Jika kau inginkan tahta aku bisa apa</p><p><br />Sekuat kuatnya diriku sayang<br />Sebisa bisanya aku berjuang<br />Jika bandingan mu dia yang beruang<br />Ku akui cintaku tak kan menang</p><p><br />Ku hanya bisa janjikan yang indah<br />Dia datang membawa segalanya<br />Sebesar apapun cinta yang ku punya<br />Kau kan tetap memilih dia<br />Aku bisa apa aku bisa apa</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "GUSTRIAN",
+      "title": "SELAMAT TINGGAL",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": "<p>selamat tinggal aku ucapkan<br />semoga dirimu kan bahagia<br />lupakan saja diriku ini<br />yang tak memiliki harta dan benda</p><p><br />cerita kita tinggal kenangan<br />anggap pertemuan kita tak ada<br />dirimu tlah dinikahkan<br />dengan orang yang punya segala<br />ku tak sanggup seperti dia</p><p><br />oh tuhan tolong lah jaga dia<br />walaupun aku bukan jodohnya<br />biarlah aku yang menderita<br />ku ikhlas dan tabah menerima<br />dirimu tlah hiduo bersama nya</p><p><br />ku hanya bisa melihat saja<br />anggaplah diriku tak pernah ada<br />doa ku untuak mu dan juga dia<br />semoga bahagia tuk selamanya</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "GUSTRIAN",
+      "title": "MASIH BERTAHAN UNTUKMU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "GUSTRIAN",
+      "title": "BALADA ANAK RANTAU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "GUSTRIAN",
+      "title": "IBU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "GUSTRIAN",
+      "title": "KASIHMU IBU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "GUSTRIAN",
+      "title": "KUPUJA PUJA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "GUSTRIAN",
+      "title": "MAMA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "GUSTRIAN",
+      "title": "SEKULAH PUTIH",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "POP MELAYU",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p>Jangan tanya bagaimana esok<br />Ku tak ingin menerka perasaan ini<br />Yang kutahu hari ini ku mencintaimu<br />Yang kutahu ku sangat menyayangimu</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah Kasih setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah Kasih setia bersamaku<br />Berjanjilah Kasih setia bersamaku</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "POP MELAYU",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p>Saat bintang bertahta<br />Dan rembulan tersenyum manja<br />Di saat malam itu<br />Kau dan aku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia<br />Janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik, sempurna dirimu<br />Begitu baiknya hatimu, cintaku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia<br />Janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik, sempurna dirimu<br />Begitu baiknya hatimu, cintaku</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik, sempurna dirimu<br />Begitu baiknya hatimu, cintaku</p>"
+	  },
+	  {
+      "id": 18,
+      "name_category": "POP MELAYU",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p>dingin nya angin malam ini<br />menyapa tub uhku<br />namun tidak dapat<br />dinginkan panas hatiku ini</p><p><br />rasa terhempasnya<br />diriku ini krna sikapmu<br />apakah karna aku<br />insan kekurangan<br />mudahnya kau mainkan</p><p><br />oh mungkinkah diri ini<br />dapat merubah buih yang memutih<br />menjadi permadani<br />seperti pinta yang kau ucap<br />dalam janji cinta</p><p><br />juga mustahil bagiku<br />menggapai bintang dilangit<br />siapalah diriku<br />hanya insan biasa<br />semua itu sungguh aku<br />tiada mampu</p><p><br />salah aku juga<br />karna jatuh cinta<br />insan sepertimu<br />seanggun bidadari</p><p><br />seharusnya aku<br />cerminkan diriku<br />sebelum tirai hati<br />aku bukan untuk mencintaimu"
+	  },
+	  {
+      "id": 19,
+      "name_category": "POP MELAYU",
+      "title": "HARUSKAH AKU MATI",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p>Andai kau merasakan<br />Sakit yang kau berikan kepadaku<br />Ku yakin, kau tak akan<br />Sanggup untuk bertahan</p><p><br />Andai yang kau lakukan<br />Dapat kukembalikan kepadamu<br />Kupastikan dirimu<br />Lebih rapuh dariku</p><p><br />Namun, ku tak ingin<br />Lukai hatimu</p><p><br />Aku sekuat hati bertahan<br />Kamu sebisanya menghancurkan<br />Aku mengalah kerana cinta<br />Kamu sengaja menggores luka</p><p><br />Dengan cara apa lagi<br />Kau melunakkan hati?<br />Haruskah diriku mati<br />Agar kau bisa hargai?</p><p><br />Andai kau merasakan<br />Sakit yang kau berikan kepadaku<br />Ku yakin, kau tak akan<br />Sanggup untuk bertahan</p><p><br />Andai yang kau lakukan<br />Dapat kukembalikan kepadamu<br />Kupastikan dirimu<br />Lebih rapuh dariku</p><p><br />Namun, ku tak ingin<br />Lukai hatimu</p><p><br />Aku sekuat hati bertahan<br />Kamu sebisanya menghancurkan<br />Aku mengalah kerana cinta<br />Kamu sengaja menggores luka</p><p><br />Dengan cara apa lagi<br />Kau melunakkan hati?<br />Haruskah diriku mati<br />Agar kau bisa hargai"
+	  },
+	  {
+      "id": 20,
+      "name_category": "POP MELAYU",
+      "title": "GERHANA DAAM CINTA",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p>Manalah ku tahu engkau suka<br />Dimata tak ada jejak cinta<br />Bagai di terik mentari<br />Hujan datang tiba-tiba</p><p><br />Keputusanmu memilih si dia<br />Membuat aku kecewa<br />Pertunanganmu hancurkan mimpiku<br />Aku tak menyangka<br />Akhirnya kau pilih dia</p><p><br />Lama ku simpan cinta ini<br />Engkau yang tak pernah peduli<br />Bukan, bukanlah maksud hati<br />Maaf cintamu tak ku sadari</p><p><br />Tiada kini harapan lagi<br />Sampai mati kan aku sendiri<br />Jangan, jangan kau patah hati<br />Jodoh hanya tuhan yang tau pasti</p><p><br />Haaaa aaa aa aa<br />Ini sebab gerhana cinta</p><p><br />Haaaa aaa aa aa<br />Sembunyi di hati yang lara</p><p><br />Haaaa aaa aa aa<br />Terlambat menyatakan cinta</p><p><br />Haaaa aaa aa aa<br />Tinggalah aku yang merana</p><p><br />Manalah ku tahu engkau suka<br />Dimata tak ada jejak cinta<br />Bagai di terik mentari<br />Hujan datang tiba-tiba</p><p><br />Keputusanmu memilih si dia<br />Membuat aku kecewa<br />Pertunanganmu hancurkan mimpiku<br />Aku tak menyangka<br />Akhirnya kau pilih dia</p><p><br />Lama ku simpan cinta ini<br />Engkau yang tak pernah peduli<br />Bukan, bukanlah maksud hati<br />Maaf cintamu tak ku sadari</p><p><br />Tiada kini harapan lagi<br />Sampai mati kan aku sendiri<br />Jangan, jangan kau patah hati<br />Jodoh hanya tuhan yang tau pasti</p><p><br />Haaaa aaa aa aa<br />Ini sebab gerhana cinta</p><p><br />Haaaa aaa aa aa<br />Sembunyi di hati yang lara</p><p><br />Haaaa aaa aa aa<br />Terlambat menyatakan cinta</p><p><br />Haaaa aaa aa aa<br />Tinggalah aku yang merana"
+	  },
+	  {
+      "id": 21,
+      "name_category": "POP MELAYU",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p>Tiara menggamit kenangan zaman persekolahan<br />Tiara kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam dimlam pesta<br />Engkau bisikkan kata azimat ditelinga</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak alam yang nyata<br />Engkau jauh meniti puncak menara azazi<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi hidup tertekan</p><p><br />JIka kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Dipenjara terpuruk terhukum hanya berteman kan sepi<br />Bisakah kau menghargai cintaku yang suci ini</p><p><br />Oh tiara perih nya<br />Dapat kah kau merasakan<br />Oh tiara pedih nya<br />Dapat kah kau merasakan nya</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak alam yang nyata<br />Engkau jauh meniti puncak menara azazi<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi hidup tertekan</p><p><br />JIka kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Dipenjara terpuruk terhukum hanya berteman kan sepi<br />Bisakah kau menghargai cintaku yang suci ini</p><p><br />Oh tiara perih nya<br />Dapat kah kau merasakan<br />Oh tiara pedih nya<br />Dapat kah kau merasakan nya<br />Dapat kah kau merasakan nya"
+	  },
+	  {
+      "id": 22,
+      "name_category": "POP MELAYU",
+      "title": "GUBUK JADI ISTANA",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p>Kujalani hubungan rumit<br />Berpisah meskipun sakit<br />Sinaran silaukan aku dari pandangan</p><p><br />Ku tau engkau putri raja<br />Sedang ku hanya insan biasa<br />Tak mungkin istana kan ku janjikan<br />Sedangkan ku hanya tinggal di gubuk derita</p><p><br />Meski ku tau tentang keluargamu<br />Namun pantang bagiku lari dari takdir cinta<br />Tulusnya hati yang aku pinta<br />Biarlah berpisah karna kau takkan bahagia</p><p><br />Terimalah itu keputusan dari orang tuamu<br />Aku mundur saja kita yang jauh berbeza<br />Karna engkau orang berpunya</p><p><br />Tak mungkin gubuk jadi istana</p><p><br />Ku tau engkau putri raja<br />Sedang ku hanya insan biasa<br />Tak mungkin istana kan ku janjikan<br />Sedangkan ku hanya tinggal di gubuk derita</p><p><br />Meski ku tau tentang keluargamu<br />Namun pantang bagiku lari dari takdir cinta<br />Tulusnya hati yang aku pinta<br />Biarlah berpisah karna kau takkan bahagia</p><p><br />Terimalah itu keputusan dari orang tuamu<br />Aku mundur saja kita yang jauh berbeza<br />Karna engkau orang berpunya</p><p><br />Tak mungkin gubuk jadi istana</p>"
+	  },
+	  {
+      "id": 23,
+      "name_category": "POP MELAYU",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p>Deraian demi deraian air mata<br />Ku peluk mesra saat kita berpisah<br />Satu yang ku pinta, setialah padaku<br />Hanya dirimu ku cinta</p><p><br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu, sayangku<br />Dermaga biru saksi bisu</p><p><br />Walaupun ku terlanjur, sayang<br />Meninggalkan dia yang ku cinta<br />Namun hatiku terasa berat<br />Pahit manisnya ku telan jua</p><p><br />Tiada satu yang terindah<br />Selain dirimu yang ku sayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p><br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu, sayangku<br />Dermaga biru saksi bisu</p><p><br />Walaupun ku terlanjur, sayang<br />Meninggalkan dia yang ku cinta<br />Namun hatiku terasa berat<br />Pahit manisnya ku telan jua</p><p><br />Tiada satu yang terindah<br />Selain dirimu yang 'ku sayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p><br />Sabarlah, adindaku<br />Pasti ku kembali<br />Sabarlah, oh, kasihku<br />Pasti ku kembali</p>"
+	  },
+	  {
+      "id": 24,
+      "name_category": "POP MELAYU",
+      "title": "ANUGERAH CINTA",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p>Cinta punya sejuta rasa<br />Dipenuhi indah berjuta warna<br />Cinta memberi jalan untuk kita bersama</p><p><br />Kau sempurnakan hidupku<br />Lengkapi kekurangan diriku<br />Anugerah terindah yang kumiliki</p><p><br />Kamulah satu satunya<br />Yang paling teristimewa<br />Kamulah satu-satunya<br />Bidadari cinta</p><p><br />Kamulah satu-satunya<br />Yang paling teristimewa<br />Kamulah satu-satunya<br />Bidadari cinta</p><p><br />Oh, Tuhan, terimalah doaku<br />Jaga aku untuknya, jaga dia untukku<br />Oh, Kasih, tulus cintamu suci<br />Takkan mungkin terganti hingga akhir hidupku ini</p><p><br />Kamulah satu-satunya<br />Yang paling teristimewa<br />Kamulah satu-satunya<br />Bidadari cinta</p><p><br />Kau sempurnakan hidupku<br />Lengkapi kekurangan diriku<br />Anugerah terindah yang kumiliki</p><p><br />Kamulah satu satunya<br />Yang paling teristimewa<br />Kamulah satu-satunya<br />Bidadari cinta</p><p><br />Kamulah satu-satunya<br />Yang paling teristimewa<br />Kamulah satu-satunya<br />Bidadari Cinta</p><p><br />Oh, Tuhan, terimalah doaku<br />Jaga aku untuknya, jaga dia untukku<br />Oh, Kasih, tulus cintamu suci<br />Takkan mungkin terganti hingga akhir hidupku ini</p><p><br />Kamulah satu-satunya<br />Yang paling teristimewa<br />Kamulah satu-satunya<br />Bidadari cinta</p>"
+	  },
+	  {
+      "id": 25,
+      "name_category": "POP MELAYU",
+      "title": "APAKAH ITU CINTA",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p>Cinta, apakah itu cinta<br />Bertanya tanpa sengaja</p><p><br />Cinta, berkorban jiwa<br />Indah harum bermakna</p><p><br />Ooh, itukah cinta?</p><p><br />Cinta, oh cinta suci<br />Janganlah kau nodai<br />Merintis diri sendiri<br />Menangis di ruang sunyi</p><p><br />Perasaan yang tanpa kabar<br />Takkan tahu kapan dia datang<br />Mulianya hati jernihkan pikiran<br />Siapkan iman kepada Tuhan</p><p><br />Bila kau rindu pikiranmu terganggu<br />Bila kau dapah siaplah 'tuk berkorban<br />Cinta yang suci dunia 'kan abadi<br />Bila terkhianat ingatlah diri<br />Cinta yang suci dunia 'kan abadi<br />Bila terkhianat ingatlah diri</p><p><br />Cinta, oh cinta suci<br />Janganlah kau nodai<br />Merintis diri sendiri<br />Menangis di ruang sunyi</p><p><br />Perasaan yang tanpa kabar<br />Takkan tahu kapan dia datang<br />Mulianya hati jernihkan pikiran<br />Siapkan iman kepada Tuhan</p><p><br />Bila kau rindu pikiranmu terganggu<br />Bila kau dapah siaplah 'tuk berkorban<br />Cinta yang suci dunia 'kan abadi<br />Bila terkhianat ingatlah diri</p><p><br />Cinta yang suci dunia 'kan abadi<br />Bila terkhianat ingatlah diri</p>"
+	  },
+	  {
+      "id": 26,
+      "name_category": "POP MELAYU",
+      "title": "BAHAGIAMU LUKAKU",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p>Sekian lama kita berkawan<br />Pernahkah engkau fikirkan<br />Perhatian yang ku curahkan<br />Kepadamu seorang</p><p><br />Tak peduli panas mendera<br />Aku selalu ada<br />Meski hujan deras melanda<br />Aku tetap setia<br />Kerana ku cinta</p><p><br />Sungguh tak ku menyangka<br />Dirimu begitu mudahnya<br />Tak butuhkan hadirku<br />Yang mengerti kamu</p><p><br />Hanya kerana dia<br />Baru saja kau jumpa<br />Acuhkan diriku<br />Suka dan dukamu</p><p><br />Bagai tiada merasa<br />Ku yang tersakiti<br />Kau pergi merajuk kasih<br />Tinggalkan ku lara sendiri</p><p><br />Bagai tiada merasa<br />Ku yang tersakiti<br />Kau pergi merajuk kasih<br />Tinggalkan ku lara sendiri</p><p><br />Tak peduli panas mendera<br />Aku selalu ada<br />Meski hujan deras melanda<br />Aku tetap setia<br />Kerana ku cinta</p><p><br />Sungguh tak ku menyangka<br />Dirimu begitu mudahnya<br />Tak butuhkan hadirku<br />Yang mengerti kamu</p><p><br />Hanya kerana dia<br />Baru saja kau jumpa<br />Acuhkan diriku<br />Suka dan dukamu</p><p><br />Bagai tiada merasa<br />Ku yang tersakiti<br />Kau pergi merajuk kasih<br />Tinggalkan ku lara sendiri</p><p><br />Bagai tiada merasa<br />Ku yang tersakiti<br />Kau pergi merajuk kasih<br />Tinggalkan ku lara sendiri</p>"
+	  },
+	  {
+      "id": 27,
+      "name_category": "POP MELAYU",
+      "title": "EMAS HANTARAN",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p>berakhir sudah impian cinta<br />tinggallah puing puingnya<br />mimpi yang indah tak jadi nyata<br />terkikis ombak menerpa</p><p><br />aku yang dulu engkau sayangi<br />mengapa kau tinggal pergi<br />oh dimanakah janji yang suci<br />yang katamu tak berbagi</p><p><br />ku ingin kau mengerti<br />apa yang ku alami<br />takdir diriku harus melangkah<br />jauh darimu</p><p><br />andaikan aku boleh bertanya<br />apakah ada salah diriku<br />agar ku jauh dari prasangka<br />rasa cemburu</p><p><br />tiada salah dirimu, kasih<br />salah pada nasibku sendiri<br />karena tak punya emas permata<br />hantaran cinta</p><p><br />aku yang dulu engkau sayangi<br />mengapa kau tinggal pergi<br />oh dimanakah janji yang suci<br />yang katamu tak berbagi</p><p><br />ku ingin kau mengerti apa yang ku alami<br />takdir diriku harus melangkah jauh darimu</p><p><br />andaikan aku boleh bertanya, apakah ada salah diriku<br />agar ku jauh dari prasangka rasa cemburu<br />tiada salah dirimu, kasih, salah pada nasibku sendiri<br />karena tak punya emas permata hantaran cinta"
+	  },
+	  {
+      "id": 28,
+      "name_category": "POP MELAYU",
+      "title": "IZINKAN",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "POP MELAYU",
+      "title": "KEHADIRAN CINTA",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "POP MELAYU",
+      "title": "LUKA SEKARAT RASA",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p>Rela aku terima keputusan darimu<br />'Tuk memilih dirinya dan meninggalkan aku<br />Dalam semak berduri, tergores dan terperih<br />Sakit terucap lirih</p><p><br />Memang aku akui, akulah yang bersalah<br />Telah memberi hati walau sekerat rasa<br />Maafkan aku atas khilafku<br />Permainkan hatimu</p><p><br />Mengapa kau dan aku bersua<br />Menyatu dalam alunan nada<br />Takdirmu, takdirku<br />Akhirnya berpisah</p><p><br />Sirih kasih di pucuk pauh<br />Kuntum melati sukar di gubah<br />Jika kita bercerai jauh<br />Di dalam hati jangan berubah</p><p><br />Hendak gugur, gugurlah bunga<br />Jangan menimpa si ranting rapuh<br />Hendak tidur, tidurlah mata<br />Jangan mengenang orang nan jauh</p><p><br />Rela aku terima keputusan darimu<br />'Tuk memilih dirinya dan meninggalkan aku<br />Dalam semak berduri, tergores dan terperih<br />Sakit terucap lirih</p><p><br />Memang aku akui, akulah yang bersalah<br />Telah memberi hati walau sekerat rasa<br />Maafkan aku atas khilafku<br />Permainkan hatimu</p><p><br />Mengapa kau dan aku bersua<br />Menyatu dalam alunan nada<br />Takdirmu, takdirku<br />Akhirnya berpisah</p><p><br />Sirih kasih di pucuk pauh<br />Kuntum melati sukar di gubah<br />Jika kita bercerai jauh<br />Di dalam hati jangan berubah</p><p><br />Hendak gugur, gugurlah bunga<br />Jangan menimpa si ranting rapuh<br />Hendak tidur, tidurlah mata<br />Jangan mengenang orang nan jauh"
+	  },
+	  {
+      "id": 31,
+      "name_category": "POP MELAYU",
+      "title": "PANEK DIAWAK KAYO DIURANG",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/31.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 32,
+      "name_category": "POP MELAYU",
+      "title": "TAK SEDALAM INI",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/32.mp3",
+      "lyrics": "<p>Jangan kau obati luka ini<br />Biarkan mengalir darah tak henti<br />Ku tahu kau hanya membuat lukaku semakin perih<br />Kini kau datang, esok kau pergi<br />Seakan engkau tak punya hati</p><p><br />Terlalu aku mencintaimu<br />Rupanya kesempatan bagimu<br />Maafku untukmu berulang kali, tapi tiada arti<br />Kini denganku, esok dengannya<br />Aku tak sanggup lagi</p><p><br />Sakitnya, perihnya<br />Melihat kau bercumbu dengannya<br />Kau tega menyiksa<br />Aku yang selalu setia</p><p><br />Andai rasa di hati tak sedalam ini<br />Dari dahulu engkau tlah ku tinggalkan<br />Cinta yang ku miliki tak bisa kau bandingkan<br />Rugilah engkau kerna memilih dia</p><p><br />Terlalu aku mencintaimu<br />Rupanya kesempatan bagimu<br />Maafku untukmu berulang kali, tapi tiada arti<br />Kini denganku, esok dengannya<br />Aku tak sanggup lagi</p><p><br />Sakitnya, perihnya<br />Melihat kau bercumbu dengannya<br />Kau tega menyiksa<br />Aku yang selalu setia</p><p><br />Andai rasa di hati tak sedalam ini<br />Dari dahulu engkau tlah ku tinggalkan<br />Cinta yang ku miliki tak bisa kau bandingkan<br />Rugilah engkau kerna memilih dia"
+	  },
+	  {
+      "id": 33,
+      "name_category": "POP MELAYU",
+      "title": "TERLAMBAT KAU SESALI",
+      "image": "file:///android_asset/image/PY.jpg",
+      "link_mp3": "mp3/33.mp3",
+      "lyrics": "<p>Untuk apa kau datang lagi<br />Mengusik ketenanganku<br />Setelah diriku ini<br />Mampu melupakan dirimu</p><p><br />Semestinya engkau terima<br />Kecewa hati terluka<br />Seperti diriku ini<br />Yang dulu pernah engkau sakiti</p><p><br />Maafkan maafkan diriku ini<br />Kumohon kepadamu<br />Mengertilah<br />Terlambat sudah engkau sesali<br />Tak mungkin aku kembali<br />Meskipun masih ada cinta</p><p><br />Aku ada yang memiliki<br />Aku ada yang memiliki</p><p><br />Semestinya engkau terima<br />Kecewa hati terluka<br />Seperti diriku ini<br />Yang dulu pernah engkau sakiti</p>"
+	  }
+  ]
+}
