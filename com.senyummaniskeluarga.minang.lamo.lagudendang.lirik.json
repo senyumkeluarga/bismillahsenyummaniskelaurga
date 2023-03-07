@@ -1,0 +1,263 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "MINANG",
+      "image": "file:///android_asset/image/MNL.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MINANG",
+      "title": "ANAK SIPASAN",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG1.ogg",
+      "lyrics": "<p>Anak sipasan dalam rimbo<br />Mati di golek-golek batang<br />Nan bapasan kami nan tibo<br />Ratok tangih manyuruah pulang</p><p><br />Ondeh-ondeh iyo...<br />Manyuruah pulang ondeh Tuan oi<br />Pilin-bapilin tali rantai<br />Katali sampan di muaro</p><p><br />Kirim bakirim indak sampai<br />hatilah mabuak kaduonyo<br />Ondeh-ondeh iyo...<br />Hatilah mabuak yo kaduonyo</p><p><br />Iyo.. nak tampuo tabang ka kapeh<br />Dari kapeh lah tabang pulo lah tabang pulo<br />Nan basuo taragak lapeh<br />O bacarai lah seso pulo</p><p><br />Bialah pandan den tinggakan<br />Pandannyo lapuak dalam sawah<br />Bialah badan bajauhan<br />Asa di hati indak barubah</p><p><br />Ondeh-ondeh iyo...<br />Asa di hati indak barubah<br />Anak sipasan dalam rimbo<br />Mati di golek-golek batang</p><p><br />Nan bapasan kami nan tibo<br />Ratok tangih manyuruah pulang<br />Ondeh-ondeh iyo...<br />Manyuruah pulang ondeh Tuan oi</p><p><br />Pilin-bapilin tali rantai<br />Katali sampan di muaro<br />Kirim bakirim indak sampai<br />hatilah mabuak kaduonyo</p><p><br />Ondeh-ondeh iyo...<br />Hatilah mabuak yo kaduonyo<br />Iyo.. nak tampuo tabang ka kapeh<br />Dari kapeh lah tabang pulo lah tabang pulo</p><p><br />Nan basuo taragak lapeh<br />O bacarai lah seso pulo<br />Bialah pandan den tinggakan<br />Pandannyo lapuak dalam sawah</p><p><br />Bialah badan bajauhan<br />Asa di hati indak barubah<br />Ondeh-ondeh iyo...<br />Asa di hati indak barubah</p>"
+	  },
+	  {
+      "id": 2,
+      "name_category": "MINANG",
+      "title": "ANAK TIUANG",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG2.ogg",
+      "lyrics": "<p>Anak tiuang siburuang tiuang<br />Hinggok di rantiang si kayu jati<br />Anak tiuang si buruang tiuang<br />Hinggok di rantiang si kayu jati</p><p><br />Oi adiak/uda kanduang usah lah binguang<br />Hanyolah adiak/uda pautan hati<br />Oi adiak/uda kanduang usah lah binguang<br />Hanyo lah adiak/uda pautan hati</p><p><br />Tapuak tapuaklah tangan<br />Mari manari..kito manari bariang hati<br />Bapantun jo badendang ganti baganti<br />Buliah nak hilang rusuah di hati</p><p><br />Usahkan dapek sikatitiran</p><p>Punai di tangan lah lapeh pulo</p><p><br />Usahkan dapek sikatitiran<br />Punai di tangan lah lapeh pulo</p><p><br />Walaupun lauik jadi daratan<br />Haramnyo denai bapaliang cinto<br />Walaupun lauik jadi daratan<br />Haramnyo denai bapaliang cinto</p><p>Tapuak tapuaklah tangan<br />Mari manari..kito manari bariang hati<br />Bapantun jo badendang ganti baganti<br />Buliah nak hilang rusuah di hati</p><p><br />Pulau lah pandan jauah di tangah</p><p>Di baliak pulau siangso duo</p><p><br />Pulau lah pandan jauah di tangah<br />Di baliak pulau siangso duo</p><p><br />Hancua badan di kanduang tanah<br />Budi nan baiak takana juo<br />Hancua badan di kanduang tanah<br />Budi nan baiak takana juo</p><p>Tapuak tapuaklah tangan<br />Mari manari..kito manari bariang hati<br />Bapantun jo badendang ganti baganti<br />Buliah nak hilang rusuah di hati</p><p><br />Anak balam barabah mandi</p><p><br />Tabang basamo nan jo induaknyo<br />Anak balam barabah mandi<br />Tabang basamo nan jo induaknyo</p><p><br />Nan ciek rancak nan surang manih<br />Sapadan bana yo kaduo nyo<br />Nan ciek rancak nan surang manih<br />Sapadan bana yo kaduo nyo</p><p>Tapuak tapuaklah tangan<br />Mari manari..kito manari bariang hati<br />Bapantun jo badendang ganti baganti<br />Buliah nak hilang rusuah di hati</p><p><br />Api api saribu satu</p><p><br />Angko lah satu muko balakangr<br />Api api saribu satu<br />Angko lah satu muko balakang</p><p><br />Piliah dek adiak yo nan katuju<br />Antaro kami nan samo gadang<br />Piliah dek adiak yo nan katuju<br />Antaro kami nan samo gadang</p><p><br />Tapuak tapuaklah tangan<br />Mari manari..kito manari bariang hati<br />Bapantun jo badendang ganti baganti<br />Buliah nak hilang rusuah di hati</p><p><br />Balam banamo sitigo gayo</p><p><br />Kaki bagalang nan jo suaso<br />Balam banamo sitigo gayo<br />Kaki bagalang nan jo suaso</p><p><br />Adaik bacinto itu biaso<br />Kito kan mudo juo dulu nyo..<br />Adaik bacinto itu biaso<br />Kito kan mudo juo dulu nyo..</p><p><br />Tapuak tapuaklah tangan<br />Mari manari..kito manari bariang hati<br />Bapantun jo badendang ganti baganti<br />Buliah nak hilang rusuah di hati</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "MINANG",
+      "title": "ANGIN SARUGO",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG3.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "MINANG",
+      "title": "BADINDIN",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG4.ogg",
+      "lyrics": "<p>kami puhunkan<br />Pado dunsanak alek nan tibo<br />Sambuiklah salam oi kami ucapkan<br />Kami ba indang nan mudo-mudo</p><p><br />Bamulo indang ka ditarikan<br />Salam bajawek ondeh ganti baganti<br />Lagu lah indang kami nyanyikan<br />Supayo sanang ondeh basuko hati</p><p><br />Dindin badindin oi dindin badindin<br />Dindin badindin oi dindin badindin</p><p><br />Di Pariaman oi baralek gadang<br />Di bulan Tabuik sabana rami<br />Kami tarikan oi tarinyo indang<br />Salah jo jangga maafkan kami</p><p><br />Kabekkan jawi di tangah padang<br />Baoklah pulang ondeh di hari sanjo<br />Kami manari jo tari indang<br />Paubek hati ondeh urang basamo</p><p><br />Dindin badindin oi dindin badindin<br />Dindin badindin oi dindin badindin</p><p><br />Baralah tinggi oi si buruang tabang<br />Panek malayok ka hinggok juo<br />Banyak ragamnyo oi budayo datang<br />Budayo kito kambangkan juo</p><p><br />Dari lah Solok nak ka Salayo<br />Urang lah Guguak ondeh pai ka pakan<br />Ambiak nan elok jadi pusako<br />Sado nan buruak ondeh kito pelokkan</p><p><br />Dindin badindin oi dindin badindin<br />Dindin badindin oi dindin badindin<br />Dindin badindin oi dindin badindin<br />Dindin badindin oi dindin badindin</p><p><br />Dindin badindin oi dindin badindin<br />Dindin badindin oi dindin badindin<br />Dindin badindin oi dindin badindin<br />Dindin badindin oi dindin badindin</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "MINANG",
+      "title": "BAPISAH BUKAN BACARAI",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG5.ogg",
+      "lyrics": "<p>Bapisah bukannyo bacarai<br />Usahlah adiak manangih juo<br />Basaba sayang nantikan Denai<br />Taguahkan malah iman di dado</p><p><br />Bapisah bukannyo bacarai<br />Uda bajalan padamlah palito<br />Ka sia nasib ka Den kadukan<br />Kampuang Den jauah Da sanak tiado</p><p><br />Denai jo sia Uda tinggakan<br />Ondeh gunuang Marapi<br />Gunuang Singgalang hai tolong caliakkan<br />Kasih hati Den nan Den tinggakan</p><p><br />Antaro pintu nan jo halaman<br />Uda Den nanti<br />Antaro pintu nan jo halaman<br />Bapisah bukannyo bacarai</p><p><br />Bapisah bukannyo bacarai<br />Usahlah adiak manangih juo<br />Basaba sayang nantikan Denai<br />Taguahkan malah iman di dado</p><p><br />Bapisah bukannyo bacarai<br />Uda bajalan padamlah palito<br />Ka sia nasib ka Den kadukan<br />Kampuang Den jauah Da sanak tiado</p><p><br />Denai jo sia Uda tinggakan<br />Ondeh gunuang Marapi<br />Gunuang Singgalang hai tolong caliakkan<br />Kasih hati Den nan Den tinggakan</p><p><br />Antaro pintu nan jo halaman<br />Uda Den nanti<br />Antaro pintu nan jo halaman<br />Bapisah bukannyo bacarai<br />Bapisah bukannyo bacarai</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "MINANG",
+      "title": "CINTO BUAYO",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG6.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "MINANG",
+      "title": "DIAK KANDUANG",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG7.ogg",
+      "lyrics": "<p>Rambutan dahannyo mati<br />Mati ditimpo kalapo tuo<br />Rambutan dahannyo mati<br />Mati ditimpo kalapo tuo</p><p><br />Denai tanyokan di dalam nyanyi<br />Bilo masonyo kito basuo</p><p><br />Oi diak kanduang sibiran tulang<br />Ubek jariah palarai damam<br />Oi diak kanduang yo adiak nan surang<br />Denai taragak siang jo malam</p><p><br />Kain biru di jamuran<br />Ditimpo paneh di tangah hari<br />Kain biru di jamuran<br />Ditimpo paneh di tangah hari</p><p><br />Jo angin lalu denai pasankan<br />Takana adiak satiok hari</p><p><br />Oi diak kanduang sibiran tulang<br />Ubek jariah palarai damam<br />Oi diak kanduang yo adiak nan surang<br />Denai taragak siang jo malam</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "MINANG",
+      "title": "DISALO JARI TAMPAK JUO",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG8.ogg",
+      "lyrics": "<p>Nasi jo a lah ka den makan Lado jo a ka den giliang<br />Garam di Piaman awak baladang tapi rimbo<br />Hati jo a lah kaden tahan Mato jo a lah ka den dindiang<br />Nan jo tapak tangan di salo jari tampak juo</p><p><br />Siriah nan alah yo diak ei pinang nan alah yo diak ei<br />Siriah jo pinang talatak dalam kapuran<br />Kasih nan alah yo diak ei sayang nan alah yo diak ei<br />Kasiah jo sayang pabilo ka di sampaikan</p><p><br />Pado den tanam tabu elok den tanam padi<br />Panek dek manggaro alah masak den bao pulang<br />Tagah uda indak tahu mangko denai malengah diri<br />Uda bak cando lupo wak den takuik ka mabuak surang</p><p><br />Mandaki oto yo diak ei kelok sambilan yo diak ei<br />Sarek muatan muatan yo buah palo<br />Sakik lah lamo yo diak ei nan den tangguangkan yo diak ei<br />Tagah dek umua dek umua nan panjang juo</p><p><br />Hati jo a lah kaden tahan Mato jo a lah ka den dindiang<br />Nan jo tapak tangan di salo jari tampak juo</p><p><br />Kasih nan alah yo diak ei sayang nan alah yo diak ei<br />Niaik pabilo pabilo ka di sampaikan</p><p><br />Tagah uda indak tahu mangko denai malengah diri<br />Uda bak cando lupo wak den takuik ka mabuak surang</p><p><br />Sakik lah lamo yo diak ei nan den tangguangkan yo diak ei<br />Tagah dek umua dek umua nan panjang juo</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "MINANG",
+      "title": "ELO PUKEK",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG9.ogg",
+      "lyrics": "<p>Elo pukek yo lah rang eloan<br />Sandang pandayuang babaok pulang<br />Kasiah angek pinggangnyo rang gantiang<br />Namun pukek nan di elo juo</p><p><br />Balayia kok rela jo pincalang<br />Kami mananti lah angin turun<br />Adiak ka sansai di galombang<br />Uda ka sansai di dalam alun</p><p><br />Elo pukek yo rang eloan<br />Sandang pandayuang baok pulang</p><p><br />Ikan kerong baradaik suto<br />Lapuak bajamua di ateh pelang<br />Adiak tolonglah sakali nangko<br />Salamo umua indak ka hilang</p><p><br />Balayia kok rela jo pincalang<br />Kami mananti lah angin turun<br />Adiak ka sansai di galombang<br />Uda ka sansai di dalam alun</p><p><br />Elo pukek yo rang eloan<br />Sandang pan dayuang baok pulang</p><p><br />Ikan kerong baradaik suto<br />Lapuak bajamua di ateh pelang<br />Adiak tolonglah sakali nangko<br />Salamo umua indak ka hilang</p><p><br />Elo pukek yo rang eloan<br />Sandang pandayuang baok pulang<br />Elo pukek yo rang eloan<br />Sandang pandayuang baok pulang</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "MINANG",
+      "title": "GAEK TARUANG ASAM",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG10.ogg",
+      "lyrics": "<p>Tuo tuo kaladi makin tuo makin jadi<br />Babinilah duo tigo pangana manambah juo</p><p><br />Maliek gadih nan rancak manggarik jakun-jakunnyo<br />Samantang bapitih banyak salero balapeh sajo</p><p><br />Awal dikana akhia indak isuak badan taniayo<br />Tiok kampuang ado anak tapi ndak tapaliharo<br />Nyampang elok nasib anak mandandam ka bakeh kito</p><p><br />Gaek gaek taruang asam makin gaek makin tajam<br />Umualah kapalo anam lah dakek pintu kuburan<br />Batobaiklah pado Tuhan kok mati jan panasaran<br />Isi dunia batampuangkan itukan barang pinjaman</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "MINANG",
+      "title": "GIYANG MAK TACI",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG11.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "MINANG",
+      "title": "GUNUANG PADANG",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG12.ogg",
+      "lyrics": "<p>Duduak tamanuang si Gunuang Padang<br />Mamandang Pulau Angso Duo<br />Ka bateh ombak nan jo galombang<br />Samo bapasan salam cinto<br />Samo bapasan salam cinto</p><p><br />Asa mulonyo pandang mamandang<br />Cinto bagaluik dalam hati<br />Kaco sumarak jo bungo karam<br />Janji di ikek sampai mati<br />Janji di ikek sampai mati</p><p><br />Bilo masonyo oi nan ka basuo<br />Si Gunuang Padang oi, jo angso duo</p><p><br />Kok samo taragak bumi baguncang<br />Topan badai ombak manggilo<br />Cinto saumua alam takambang<br />Gunuang Padang jo Angso Duo<br />Gunuang Padang jo Angso Duo</p><p><br />Bilo masonyo oi nan ka basuo<br />Si Gunuang Padang oi, jo angso duo</p><p><br />Kok samo taragak bumi baguncang<br />Topan badai ombak manggilo<br />Cinto saumua alam takambang<br />Gunuang Padang jo Angso Duo<br />Gunuang Padang jo Angso Duo</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "MINANG",
+      "title": "PASAN AYAH",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG13.ogg",
+      "lyrics": "<p>Ondeh... nak kanduang jauah di mato<br />Usahlah ayah nak oi.. nan basalahkan...</p><p>Baitu... kandak nak oi Tuhan Kuaso<br />Ulah dek Mandeh nak oi nan mamisahkan...</p><p><br />Tapi dek ayah mungkin cobaan<br />Usah nak kanduang bangih ka ambo...<br />Dangakan pasan ayah sampaikan<br />Kok ado jajak nak oi sintuahlah juo....</p><p>Sungguahpun ayah nak oi kini bapisah<br />Lahie jo batin nak oi indak barubah...</p><p><br />Kok umue ayah nak oi santano panjang<br />Ndak mungkin ayah nak oi sio siokan...</p><p><br />Tapi dek ayah mungkin cobaan<br />Usah nak kanduang bangih ka ambo...<br />Dangakan pasan ayah sampaikan<br />Kok ado jajak nak oi sintuahlah juo....</p><p><br />Sungguahpun ayah nak oi kini bapisah<br />Lahie jo batin nak oi indak barubah...</p><p><br />Kok umue ayah nak oi santano panjang<br />Ndak mungkin ayah nak oi sio siokan</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "MINANG",
+      "title": "KATUPEK GULAI PAKU",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG14.ogg",
+      "lyrics": "<p>Katupek jo gulai paku<br />Katupek jo gulai paku<br />Baasam kandih jo buah palo<br />Piliah dek sanak yo nan katuju<br />Piliah dek sanak yo nan katuju<br />Lapek bugih banyak santannyo</p><p><br />Nasi tuai jo katan hitam<br />Kuah sarabi lamang baluo<br />Nasi tuai jo katan hitam<br />Kuah sarabi lamang baluo<br />Usahlah cameh raso ndak sampai<br />Tambah sapiriang kanyang baduo<br />Usahlah cameh raso ndak sampai<br />Tambah sapiriang kanyang baduo</p><p><br />Ondeh tuan dari Piaman<br />Ondeh tuan dari Piaman<br />Pai marantau ka Tanah Jao<br />Jikok taragak jo kampuang halaman<br />Jikok taragak jo kampuang halaman<br />Makan katupek lapeh salero</p><p><br />Nasi tuai jo katan hitam<br />Kuah sarabi lamang baluo<br />Nasi tuai jo katan hitam<br />Kuah sarabi lamang baluo<br />Usahlah cameh raso ndak sampai<br />Tambah sapiriang kanyang baduo<br />Usahlah cameh raso ndak sampai<br />Tambah sapiriang kanyang baduo</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "MINANG",
+      "title": "LOMPONG SAGU",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG15.ogg",
+      "lyrics": "<p>Lompong sagu lompong sagu bagulo lawang<br />Lompong sagu lompong sagu bagulo lawang<br />Di tangah tangah di tangah tangah karambia mudo<br />Di tangah tangah di tangah tangah karambia mudo</p><p><br />Sadang katuju sadang katuju dirabuik urang<br />Sadang katuju sadang katuju dirabuik urang<br />Awak juo awak juo malapeh hawo<br />Awak juo awak juo malapeh hawo</p><p>&nbsp;</p><p>Lompong sagu, lompong sagu 'rang Sungai Dareh<br />Lompong sagu, lompong sagu 'rang Sungai Dareh<br />Di tangah tangah di tangah tangah balado mudo<br />Di tangah tangah di tangah tangah balado mudo</p><p><br />Rupo rancak rupo rancak tapi pamaleh<br />Rupo rancak rupo rancak tapi pamaleh<br />Indaklah ado indaklah ado urang nan suko<br />Indaklah ado indaklah ado urang nan suko</p><p><br />Lompong sagu lompong sagu badaun pandan<br />Lompong sagu lompong sagu badaun pandan<br />Di tangah tangah di tangah tangah gulo tangguli<br />Di tangah tangah di tangah tangah gulo tangguli</p><p><br />Banyak pitih banyak pitih urang tak sagan<br />Banyak pitih banyak pitih urang tak sagan<br />Budi haluih budi haluih mamikek hati<br />Budi haluih budi haluih mamikek hati</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "MINANG",
+      "title": "MALEREANG TABIANG",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG16.ogg",
+      "lyrics": "<p>Malereang lah tabiang malereang mak oi<br />Malereang tabiang nan bakeh lalu<br />Den sangko langik nan lah teleang mak oi<br />Kironyo awan nan manggajuju</p><p><br />Janiah aienyo sungai tanang<br />Minuman urang Bukittinggi<br />Tuan kanduang tadanga sanang<br />Baoklah tompang badan kami</p><p><br />Jarang-jarang tugakan jaguang mak oi<br />Buliah nak tampak puyuah balari<br />Kadang-kadang den jalang kampuang mak oi<br />Baitu sayangnyo ka nagari</p><p><br />Malereang lah tabiang malereang mak oi<br />Malereang tabiang nan bakeh lalu<br />Den sangko langik nan lah teleang mak oi<br />Kironyo awan nan manggajuju</p><p><br />Janiah aienyo sungai tanang<br />Minuman urang Bukittinggi<br />Tuan kanduang tadanga sanang<br />Baoklah tompang badan kami</p><p><br />Jarang-jarang tugakan jaguang mak oi<br />Buliah nak tampak puyuah balari<br />Kadang-kadang den jalang kampuang mak oi<br />Baitu sayangnyo ka nagari</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "MINANG",
+      "title": "RINAI PAMBASUH LUKO",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG17.ogg",
+      "lyrics": "<p>Oh Tuhan ampunkan denai<br />Suratan diri nan den sasali<br />Dek padiahnyo luko hati<br />Mimpi-mimpi acok mamanciang tangih</p><p><br />Putuih aso den rasoi<br />Kadang-kadang den batanyo ka diri<br />Untuak apo jantuang jo hati<br />Kadang-kadang den bisiakkan ka diri</p><p><br />Tutuikkan pintu rindu di hati<br />Di lahia sajo tampaknyo sanang<br />Di batin luko denai suruakkan<br />Mangko den acok ba langang-langang</p><p><br />Tuhan dangalah nyanyian malam<br />Di lahia sajo tampaknyo sanang<br />Di batin luko denai suruakkan<br />Mangko den acok ba langang-langang</p><p><br />Tuhan dangalah nyanyian malam<br />Oh Tuhan ubekkan denai<br />Buliah den tampuah kalamnyo hari<br />Nak dek hapuih mimpi-mimpi</p><p><br />Buruang murai lai bakicau pagi<br />Ombak maampeh manari<br />Tolong rinaikan hujan kok tibo<br />Den tampuang untuak pambasuah luko</p><p><br />Tolong rinaikan hujan kok tibo<br />Den tampuang untuak pambasuah luko<br />Di lahia sajo tampaknyo sanang<br />Di batin luko denai suruakkan</p><p><br />Mangko den acok ba langang-langang<br />Tuhan dangalah nyanyian malam<br />Di lahia sajo tampaknyo sanang<br />Di batin luko denai suruakkan</p><p><br />Mangko den acok ba langang-langang<br />Tuhan dangalah nyanyian malam</p>"
+	  },
+	  {
+      "id": 18,
+      "name_category": "MINANG",
+      "title": "MUDIAK ARAU",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG18.ogg",
+      "lyrics": "<p>Anak urang Sabuik Andaleh<br />Yo tuan oi<br />Singgah karumah si Sutan Mudo,<br />Si Sutan Mudo<br />Singgah karumah si Sutan Mudo,<br />Si Sutan Mudo</p><p><br />Bia abih hei bialah tandeh,<br />Yo tuan oi<br />Hati den kanai kabaa juo,<br />Kabaa juo<br />Hati den kanai kabaa juo,<br />Kabaa juo</p><p><br />Indak dapek hei musim manyiang,<br />Yo tuan oi<br />Musim manuai den nanti juo,<br />Den nanti juo<br />Musim manuai den nanti juo,<br />Den nanti juo</p><p><br />Indak dapek hei tarago bujang,<br />Yo tuan oi<br />Baranak ampek den nanti juo,<br />Den nanti juo<br />Baranak ampek den nanti juo,<br />Den nanti juo</p><p><br />Anak urang Sabuik Andaleh<br />Yo tuan oi<br />Singgah karumah si Sutan Mudo,<br />Si Sutan Mudo<br />Singgah karumah si Sutan Mudo,<br />Si Sutan Mudo</p><p><br />Bia abih hei bialah tandeh,<br />Yo tuan oi<br />Hati den kanai kabaa juo,<br />Kabaa juo<br />Hati den kanai kabaa juo,<br />Kabaa juo</p><p><br />Ondeh mandeh sansai badan<br />Ondeh mandeh sansai badan</p>"
+	  },
+	  {
+      "id": 19,
+      "name_category": "MINANG",
+      "title": "NGARAI SIANOK",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG19.ogg",
+      "lyrics": "<p>Rancak candonyo ngarai Sianok<br />Oi panorama diliek patang<br />Liku baliku aia babelok<br />Tabiangnyo curam ndeh mambaok karam</p><p><br />Disiko denai mancubo kasiah<br />Ngarai Sianok jadi saksinyo<br />Jikok salah cinto den piliah<br />Tinggalah oi Ngarai Sianok</p><p><br />Dirantau kini denai<br />Tabayang Ngarai Sianok di Bukittinggi<br />Maimbau-imbau denai nak pulang<br />Manjalang kasiah ndeh manapek janji</p><p><br />Rancak candonyo Ngarai Sianok<br />Oi panorama di liek patang<br />Liku baliku aia babelok<br />Tabiang nyo curam ndeh mambaok karam</p><p><br />Disiko denai mancubo kasiah<br />Ngarai Sianok jadi saksinyo<br />Jikok salah cinto den piliah<br />Tinggalah oi Ngarai Sianok</p><p><br />Dirantau kini denai<br />Tabayang Ngarai Sianok di Bukittinggi<br />Maimbau-imbau denai nak pulang<br />Manjalang kasiah ndeh manapek janji</p>"
+	  },
+	  {
+      "id": 20,
+      "name_category": "MINANG",
+      "title": "PARUNTUANGAN",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG20.ogg",
+      "lyrics": "<p>Tanang-tanang Batang Silauik<br />Sungguah tanang yo dareh ka tapi<br />Bukan sanang mancari iduik<br />Paneh garang nan denai adok-i</p><p><br />Dari Padang taruih ka Lunangllgminlamo.wpc<br />Singgah lalu yo di Sungai Rumbai<br />Di lahia sajo nampak nyo sanang<br />Di batin yo denai nan marasai</p><p><br />Alah masiak kulik di badan<br />Panek-panek pasandianllgminlamo.wpc<br />Baju basah lah kariang di badan<br />Laruih laruik paratian</p><p><br />Yo &hellip; yo paruntuangan<br />Baitu bana sakik iduik mancari makan<br />Yo &hellip; yo paruntuangan<br />Baitu bana sakik iduik denai tangguangkan</p><p><br />kembali ke atas</p>"
+	  },
+	  {
+      "id": 21,
+      "name_category": "MINANG",
+      "title": "PASAN MANDEH",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG21.ogg",
+      "lyrics": "<p>santiangnyo aka rangik mak<br />Manyaso darah dalam dagiang<br />Luko nan indak ka nampak an<br />Alah padiah sajo mangko tahu</p><p><br />Nan bapasan mande,<br />Usah takuik nak di ombak gadang<br />Riak nan tanang, oi nak kanduang<br />Mambaok karam</p><p><br />Yo luko dek sambilu<br />Cegak di ubek nak nan jo piladang<br />Kato malereang oi nak kanduang<br />Bisonyo tajam</p><p><br />Garudo tabang ateh langik mak<br />Turunlah gajah patah gadiang<br />Manyaso lalu ka tapian<br />Tampak nan dari Bangkahulu</p><p><br />Yo santiangnyo aka rangik mak<br />Manyaso darah dalam dagiang<br />Luko nan indak ka nampak an<br />Alah padiah sajo mangko tahu</p><p><br />Nan bapasan mande,<br />Usah takuik nak di ombak gadang<br />Riak nan tanang, oi nak kanduang<br />Mambaok karam</p><p><br />Yo luko dek sambilu<br />Cegak di ubek nak nan jo piladang<br />Kato malereang oi nak kanduang<br />Bisonyo tajam</p>"
+	  },
+	  {
+      "id": 22,
+      "name_category": "MINANG",
+      "title": "RAMBANG PATANG",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG22.ogg",
+      "lyrics": "<p>Gunuang Marapi jo Gunuang Tandikek<br />Batali awan di hari lah sanjo<br />Dalam lah hati banyak nan maupek<br />Baalah jadi nyo, jo diri lah ambo</p><p><br />Rusuahlah hati yo dek rambang patang<br />Rusuahlah hati yo dek rambang patang</p><p><br />Jikok balayia di hari lah sanjo<br />Ingek lah ingek tasakek di karang<br />Jikok nak tau jo untuang lah ambo<br />Pandanglah awan yo di rambang patang</p><p><br />Rusuahlah hati yo dek rambang patang<br />Rusuahlah hati yo dek rambang patang</p>"
+	  },
+	  {
+      "id": 23,
+      "name_category": "MINANG",
+      "title": "MARANTANG KASIAH",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG23.ogg",
+      "lyrics": "<p>Ondeh ibo hati tinggakan kampuang<br />Sarato tapian ranah bayang<br />Den barangkek jauah ka rantau subarang<br />Mambaok untuang untun rindu nan jo dandam</p><p><br />Indropuro jalan ka Tapan<br />Singgah bamalam di Sungai Puyung<br />Putuih cinto denai bajalan jauah<br />Raso ka ramuak hati nan jo jantuang</p><p><br />Manga co iko bana adiak nilaikan<br />Ungkaian kasiah janjian cinto<br />Pantai Carocok jadi saksinyo<br />Ungkaian kasiah janjian cinto<br />Pantai Carocok jadi saksinyo</p><p><br />Ondeh raminyo pakan Pasa Surantiah<br />Rami dek anak urang Painan<br />Lah den cubo marantang kasiah<br />Kasiah ka adiak tingga kenangan<br />Ondeh untuang untun rindu nan jo dandam</p>"
+	  },
+	  {
+      "id": 24,
+      "name_category": "MINANG",
+      "title": "RISAULAI",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG24.ogg",
+      "lyrics": "<p>Risaulai oi risaulai</p><p><br />Hari rabaa pukua satu<br />Hari rabaa pukua satu</p><p><br />Urang manembak si buruang nori<br />Kanai sikikik nan sadang tabang<br />Jatuah badarai si bungo lado</p><p><br />Lai sarawa tak babaju<br />Lai sarawa tak babaju</p><p><br />Jo a den tampuah galanggang rami<br />Mangko den duduak balangang langang<br />Jatuah badarai si aia mato</p><p><br />Barakik rakik kito kahulu<br />Baranang ranang yo ka tapian</p><p><br />Bia basakik kito dahulu sayang<br />Asa lai sanang di kamudian</p><p><br />Bada kariang parancah paku<br />Paku digulai anak rang lolong</p><p><br />Bia lah kariang banda di hulu sayang<br />Ka bakeh hujan den mintak tolong</p><p><br />Risaulai oi Risaulai</p><p><br />kembali ke awal</p>"
+	  },
+	  {
+      "id": 25,
+      "name_category": "MINANG",
+      "title": "SAPIAK KALOM",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG25.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "MINANG",
+      "title": "SAYANG TAK SUDAH",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG26.ogg",
+      "lyrics": "<p>Iyo iyo taluak Bayua ikannyo jinak<br />Baok mamapeh baok mamapeh hay dari sampan<br />Iyo iyo Taluak Bayua ikannyo jinak<br />Baok mamapeh baok mamapeh hay dari sampan</p><p><br />Ayam sikua ayam sikua musang kok banyak<br />Raso ka lapeh raso ka lapeh hai dari tangan</p><p><br />Iyo iyo rang parik putuih balapah randah<br />Mambaok balam mambaok balam dalam sarangnyo<br />Iyo iyo rang parik putuih balapah randah<br />Mambaok balam mambaok balam dalam sarangnyo</p><p><br />Kasiah putuih kasiah putuih diak sayangtak sudah<br />Lauik nan dalam lauik nan dalam nan di hadangnyo</p><p><br />Iyo iyo rang parik putuih balapah randah<br />Mambaok balam mambaok balam dalam sarangnyo<br />Iyo iyo rang parik putuih balapah randah<br />Mambaok balam mambaok balam dalam sarangnyo</p><p><br />Kasiah putuih kasiah putuih diak sayang tak sudah<br />Lauik nan dalam lauik nan dalam nan di hadangnyo</p>"
+	  },
+	  {
+      "id": 27,
+      "name_category": "MINANG",
+      "title": "TALAGO BIRU",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG27.ogg",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "MINANG",
+      "title": "USAH DIRATOKI",
+      "image": "file:///android_asset/image/MNL.jpg",
+      "link_mp3": "mp3/MODENANG28.ogg",
+      "lyrics": "<p>Anak urang si Kubang Putiah<br />Pai ka balai, hari sanjo<br />Mamakai baju guntiang cino, guntiang cino</p><p><br />Ulah rayu si daun siriah<br />Bacarai pinang jo tampuaknyo<br />Apo katenggang si carano, si carano</p><p><br />Urang Kapau pai ka ladang<br />Sarupo kodek jo bajunyo<br />Iyo buruak lakunyo alang<br />Ayam tapauik disembanyo</p><p><br />Urang Sariak babaju ganiah<br />Pai manggaleh ka Padang Lua<br />Iyo sarik ba ayam putiah<br />Kok indak sikok alang manyemba</p><p><br />Jikok mandi denai di hulu<br />Aia nan usah adiak sauak,<br />Disauak usah dikaruahi, dikaruahi</p><p><br />Jikok mati denai dahulu<br />Mati nan usah adiak janguak,<br />Dijanguak usah diratoki, diratoki</p>"
+	  }
+  ]
+}
