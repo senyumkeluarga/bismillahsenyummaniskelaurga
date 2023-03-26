@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
       "main_ads_natives":"",
@@ -16,8 +16,8 @@
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
       "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"202555084",
+      "initialize_sdk_backup_ads":"202555084",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
